@@ -1,0 +1,13 @@
+NRUNS: 50
+outDir: n50
+
+H2: 0.9
+nSNPs: 10
+NCORES: 7
+
+modelType: domRandom
+fixedValue: 0.000001
+fixedVariance: 0.000001
+
+
+configFile: sim.config

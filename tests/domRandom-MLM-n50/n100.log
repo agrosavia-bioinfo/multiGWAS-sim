@@ -1,0 +1,4669 @@
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+>>> Creating dirs...
+ploidy: 4
+N base: 150
+N snps: 400
+QTN file  does not exist or not specified!
+QTN effects and positions randomly sampled
+
+
+ploidy: 4
+N base: 150
+N snps: 400
+QTN file  does not exist or not specified!
+QTN effects and positions randomly sampled
+
+
+ploidy: 4
+N base: 150
+N snps: 400
+QTN file  does not exist or not specified!
+QTN effects and positions randomly sampled
+
+
+ploidy: 4
+N base: 150
+N snps: 400
+QTN file  does not exist or not specified!
+QTN effects and positions randomly sampled
+
+
+ploidy: 4
+N base: 150
+N snps: 400
+QTN file  does not exist or not specified!
+QTN effects and positions randomly sampled
+
+
+ploidy: 4
+N base: 150
+N snps: 400
+QTN file  does not exist or not specified!
+QTN effects and positions randomly sampled
+
+
+ploidy: 4
+N base: 150
+N snps: 400
+QTN file  does not exist or not specified!
+QTN effects and positions randomly sampled
+
+
+ploidy: 4
+N base: 150
+N snps: 400
+QTN file  does not exist or not specified!
+QTN effects and positions randomly sampled
+
+
+ploidy: 4
+N base: 150
+N snps: 400
+QTN file  does not exist or not specified!
+QTN effects and positions randomly sampled
+
+
+ploidy: 4
+N base: 150
+N snps: 400
+QTN file  does not exist or not specified!
+QTN effects and positions randomly sampled
+
+
+ploidy: 4
+N base: 150
+N snps: 400
+QTN file  does not exist or not specified!
+QTN effects and positions randomly sampled
+
+
+ploidy: 4
+N base: 150
+N snps: 400
+QTN file  does not exist or not specified!
+QTN effects and positions randomly sampled
+
+
+ploidy: 4
+N base: 150
+N snps: 400
+QTN file  does not exist or not specified!
+QTN effects and positions randomly sampled
+
+
+ploidy: 4
+N base: 150
+N snps: 400
+QTN file  does not exist or not specified!
+QTN effects and positions randomly sampled
+
+
+ploidy: 4
+N base: 150
+N snps: 400
+QTN file  does not exist or not specified!
+QTN effects and positions randomly sampled
+
+
+ploidy: 4
+N base: 150
+N snps: 400
+QTN file  does not exist or not specified!
+QTN effects and positions randomly sampled
+
+
+ploidy: 4
+N base: 150
+N snps: 400
+QTN file  does not exist or not specified!
+QTN effects and positions randomly sampled
+
+
+ploidy: 4
+N base: 150
+N snps: 400
+QTN file  does not exist or not specified!
+QTN effects and positions randomly sampled
+
+
+ploidy: 4
+N base: 150
+N snps: 400
+QTN file  does not exist or not specified!
+QTN effects and positions randomly sampled
+
+
+ploidy: 4
+N base: 150
+N snps: 400
+QTN file  does not exist or not specified!
+QTN effects and positions randomly sampled
+
+
+ploidy: 4
+N base: 150
+N snps: 400
+QTN file  does not exist or not specified!
+QTN effects and positions randomly sampled
+
+
+ploidy: 4
+N base: 150
+N snps: 400
+QTN file  does not exist or not specified!
+QTN effects and positions randomly sampled
+
+
+ploidy: 4
+N base: 150
+N snps: 400
+QTN file  does not exist or not specified!
+QTN effects and positions randomly sampled
+
+
+ploidy: 4
+N base: 150
+N snps: 400
+QTN file  does not exist or not specified!
+QTN effects and positions randomly sampled
+
+
+ploidy: 4
+N base: 150
+N snps: 400
+QTN file  does not exist or not specified!
+QTN effects and positions randomly sampled
+
+
+ploidy: 4
+N base: 150
+N snps: 400
+QTN file  does not exist or not specified!
+QTN effects and positions randomly sampled
+
+
+ploidy: 4
+N base: 150
+N snps: 400
+QTN file  does not exist or not specified!
+QTN effects and positions randomly sampled
+
+
+ploidy: 4
+N base: 150
+N snps: 400
+QTN file  does not exist or not specified!
+QTN effects and positions randomly sampled
+
+
+ploidy: 4
+N base: 150
+N snps: 400
+QTN file  does not exist or not specified!
+QTN effects and positions randomly sampled
+
+
+ploidy: 4
+N base: 150
+N snps: 400
+QTN file  does not exist or not specified!
+QTN effects and positions randomly sampled
+
+
+ploidy: 4
+N base: 150
+N snps: 400
+QTN file  does not exist or not specified!
+QTN effects and positions randomly sampled
+
+
+ploidy: 4
+N base: 150
+N snps: 400
+QTN file  does not exist or not specified!
+QTN effects and positions randomly sampled
+
+
+ploidy: 4
+N base: 150
+N snps: 400
+QTN file  does not exist or not specified!
+QTN effects and positions randomly sampled
+
+
+ploidy: 4
+N base: 150
+N snps: 400
+QTN file  does not exist or not specified!
+QTN effects and positions randomly sampled
+
+
+ploidy: 4
+N base: 150
+N snps: 400
+QTN file  does not exist or not specified!
+QTN effects and positions randomly sampled
+
+
+ploidy: 4
+N base: 150
+N snps: 400
+QTN file  does not exist or not specified!
+QTN effects and positions randomly sampled
+
+
+ploidy: 4
+N base: 150
+N snps: 400
+QTN file  does not exist or not specified!
+QTN effects and positions randomly sampled
+
+
+ploidy: 4
+N base: 150
+N snps: 400
+QTN file  does not exist or not specified!
+QTN effects and positions randomly sampled
+
+
+ploidy: 4
+N base: 150
+N snps: 400
+QTN file  does not exist or not specified!
+QTN effects and positions randomly sampled
+
+
+ploidy: 4
+N base: 150
+N snps: 400
+QTN file  does not exist or not specified!
+QTN effects and positions randomly sampled
+
+
+ploidy: 4
+N base: 150
+N snps: 400
+QTN file  does not exist or not specified!
+QTN effects and positions randomly sampled
+
+
+ploidy: 4
+N base: 150
+N snps: 400
+QTN file  does not exist or not specified!
+QTN effects and positions randomly sampled
+
+
+ploidy: 4
+N base: 150
+N snps: 400
+QTN file  does not exist or not specified!
+QTN effects and positions randomly sampled
+
+
+ploidy: 4
+N base: 150
+N snps: 400
+QTN file  does not exist or not specified!
+QTN effects and positions randomly sampled
+
+
+ploidy: 4
+N base: 150
+N snps: 400
+QTN file  does not exist or not specified!
+QTN effects and positions randomly sampled
+
+
+ploidy: 4
+N base: 150
+N snps: 400
+QTN file  does not exist or not specified!
+QTN effects and positions randomly sampled
+
+
+ploidy: 4
+N base: 150
+N snps: 400
+QTN file  does not exist or not specified!
+QTN effects and positions randomly sampled
+
+
+ploidy: 4
+N base: 150
+N snps: 400
+QTN file  does not exist or not specified!
+QTN effects and positions randomly sampled
+
+
+ploidy: 4
+N base: 150
+N snps: 400
+QTN file  does not exist or not specified!
+QTN effects and positions randomly sampled
+
+
+ploidy: 4
+N base: 150
+N snps: 400
+QTN file  does not exist or not specified!
+QTN effects and positions randomly sampled
+
+
+[[1]]
+[1] 0
+
+[[2]]
+[1] 0
+
+[[3]]
+[1] 0
+
+[[4]]
+[1] 0
+
+[[5]]
+[1] 0
+
+[[6]]
+[1] 0
+
+[[7]]
+[1] 0
+
+[[8]]
+[1] 0
+
+[[9]]
+[1] 0
+
+[[10]]
+[1] 0
+
+[[11]]
+[1] 0
+
+[[12]]
+[1] 0
+
+[[13]]
+[1] 0
+
+[[14]]
+[1] 0
+
+[[15]]
+[1] 0
+
+[[16]]
+[1] 0
+
+[[17]]
+[1] 0
+
+[[18]]
+[1] 0
+
+[[19]]
+[1] 0
+
+[[20]]
+[1] 0
+
+[[21]]
+[1] 0
+
+[[22]]
+[1] 0
+
+[[23]]
+[1] 0
+
+[[24]]
+[1] 0
+
+[[25]]
+[1] 0
+
+[[26]]
+[1] 0
+
+[[27]]
+[1] 0
+
+[[28]]
+[1] 0
+
+[[29]]
+[1] 0
+
+[[30]]
+[1] 0
+
+[[31]]
+[1] 0
+
+[[32]]
+[1] 0
+
+[[33]]
+[1] 0
+
+[[34]]
+[1] 0
+
+[[35]]
+[1] 0
+
+[[36]]
+[1] 0
+
+[[37]]
+[1] 0
+
+[[38]]
+[1] 0
+
+[[39]]
+[1] 0
+
+[[40]]
+[1] 0
+
+[[41]]
+[1] 0
+
+[[42]]
+[1] 0
+
+[[43]]
+[1] 0
+
+[[44]]
+[1] 0
+
+[[45]]
+[1] 0
+
+[[46]]
+[1] 0
+
+[[47]]
+[1] 0
+
+[[48]]
+[1] 0
+
+[[49]]
+[1] 0
+
+[[50]]
+[1] 0
+
+>>> Running MultiGWAS using config file: sim.config ...
+>>>> MultiGWAS 1.0 
+>>>> Working dir:  /home/lg/agrosavia/SIMULATION/tests/five-tools/domRandom-n50-MLM/n50/run2 
+>>>> Processing config file... 
+>>>> Loading libraries and setting globals...
+>>>> MultiGWAS 1.0 
+>>>> Working dir:  /home/lg/agrosavia/SIMULATION/tests/five-tools/domRandom-n50-MLM/n50/run4 
+>>>> Processing config file... 
+>>>> MultiGWAS 1.0 
+>>>>>>>>  MultiGWAS 1.0MultiGWAS 1.0  
+
+>>>> MultiGWAS 1.0 
+>>>> Working dir:  /home/lg/agrosavia/SIMULATION/tests/five-tools/domRandom-n50-MLM/n50/run1 
+>>>> Processing config file... 
+>>>>>>>>  Working dir: Working dir:   /home/lg/agrosavia/SIMULATION/tests/five-tools/domRandom-n50-MLM/n50/run3/home/lg/agrosavia/SIMULATION/tests/five-tools/domRandom-n50-MLM/n50/run6  
+
+>>>>>>>>  Processing config file...Processing config file...  
+
+>>>> Working dir:  /home/lg/agrosavia/SIMULATION/tests/five-tools/domRandom-n50-MLM/n50/run5 
+>>>> Processing config file... 
+>>>> MultiGWAS 1.0 
+>>>> Working dir:  /home/lg/agrosavia/SIMULATION/tests/five-tools/domRandom-n50-MLM/n50/run7 
+>>>> Processing config file... 
+>>>> Loading libraries and setting globals...
+>>>> Loading libraries and setting globals...
+>>>> Loading libraries and setting globals...
+>>>> Loading libraries and setting globals...
+>>>> Loading libraries and setting globals...
+>>>> Loading libraries and setting globals...
+>>>> Reading configuration file... 
+>>>> Reading configuration file... 
+>>>> Reading configuration file... 
+	>>>> ----------------------------------------------------------- 
+	>>>> Summary of configuration parameters: 
+	>>>> ----------------------------------------------------------- 
+	>>>> ploidy             : 4 
+	>>>> genotypeFile       : genotype-simulated-SeqBreed-tetra.csv 
+	>>>> phenotypeFile      : phenotype-simulated-SeqBreed-tetra.csv 
+	>>>> genotypeFormat     : kmatrix 
+	>>>> mapFile            : genotype-simulated-SeqBreed-tetra-MAP.csv 
+	>>>> significanceLevel  : 0.05 
+	>>>> correctionMethod   : Bonferroni 
+	>>>> gwasModel          : naive 
+	>>>> nBest              : 10 
+	>>>> filtering          : FALSE 
+	>>>> MAF                : 0.01 
+	>>>> MIND               : 0.1 
+	>>>> GENO               : 0.1 
+	>>>> HWE                : 1e-50 
+	>>>> tools              : gwaspoly shesis gapit plink 
+	>>>> geneAction         : dominant 
+	>>>> paramsFilename     : sim.config 
+	>>>> traitType          : quantitative 
+	>>>> trait              : TraitX 
+	>>>> traitConfigList    : TraitX.config 
+	>>>> ----------------------------------------------------------- 
+>>>> Reading configuration file... 
+>>>> Reading configuration file... 
+>>>> Reading configuration file... 
+>>>> Reading configuration file... 
+>>>> Processing params file:  TraitX.config 
+>>>> Preprocessing genomic data (Filtering and Formating data)... 
+	>>>> ----------------------------------------------------------- 
+	>>>> Summary of configuration parameters: 
+	>>>> ----------------------------------------------------------- 
+	>>>> ploidy             : 4 
+	>>>> genotypeFile       : genotype-simulated-SeqBreed-tetra.csv 
+	>>>> phenotypeFile      : phenotype-simulated-SeqBreed-tetra.csv 
+	>>>> genotypeFormat     : kmatrix 
+	>>>> mapFile            : genotype-simulated-SeqBreed-tetra-MAP.csv 
+	>>>> significanceLevel  : 0.05 
+	>>>> correctionMethod   : Bonferroni 
+	>>>> gwasModel          : naive 
+	>>>> nBest              : 10 
+	>>>> filtering          : FALSE 
+	>>>> MAF                : 0.01 
+	>>>> MIND               : 0.1 
+	>>>> GENO               : 0.1 
+	>>>> HWE                : 1e-50 
+	>>>> tools              : gwaspoly shesis gapit plink 
+	>>>> geneAction         : dominant 
+	>>>> paramsFilename     : sim.config 
+	>>>> traitType          : quantitative 
+	>>>> trait              : TraitX 
+	>>>> traitConfigList    : TraitX.config 
+	>>>> ----------------------------------------------------------- 
+>>>> Converting genotype format in  kmatrix  to  GWASpoly format... 
+>>>> Processing params file:  TraitX.config 
+	>>>> ----------------------------------------------------------- 
+	>>>> Summary of configuration parameters: 
+	>>>> ----------------------------------------------------------- 
+	>>>> ploidy             : 4 
+	>>>> genotypeFile       : genotype-simulated-SeqBreed-tetra.csv 
+	>>>> phenotypeFile      : phenotype-simulated-SeqBreed-tetra.csv 
+	>>>> genotypeFormat     : kmatrix 
+	>>>> mapFile            : genotype-simulated-SeqBreed-tetra-MAP.csv 
+	>>>> significanceLevel  : 0.05 
+	>>>> correctionMethod   : Bonferroni 
+	>>>> gwasModel          : naive 
+	>>>> nBest              : 10 
+	>>>> filtering          : FALSE 
+	>>>> MAF                : 0.01 
+	>>>> MIND               : 0.1 
+	>>>> GENO               : 0.1 
+	>>>> HWE                : 1e-50 
+	>>>> tools              : gwaspoly shesis gapit plink 
+	>>>> geneAction         : dominant 
+	>>>> paramsFilename     : sim.config 
+	>>>> traitType          : quantitative 
+	>>>> trait              : TraitX 
+	>>>> traitConfigList    : TraitX.config 
+	>>>> ----------------------------------------------------------- 
+	>>>> ----------------------------------------------------------- 
+	>>>> ----------------------------------------------------------- 
+	>>>> Summary of configuration parameters: 
+	>>>> ----------------------------------------------------------- 
+	>>>> ploidy             : 4 
+	>>>> genotypeFile       : genotype-simulated-SeqBreed-tetra.csv 
+	>>>> phenotypeFile      : phenotype-simulated-SeqBreed-tetra.csv 
+	>>>> genotypeFormat     : kmatrix 
+	>>>> mapFile            : genotype-simulated-SeqBreed-tetra-MAP.csv 
+	>>>> significanceLevel  : 0.05 
+	>>>> correctionMethod   : Bonferroni 
+	>>>> gwasModel          : naive 
+	>>>> nBest              : 10 
+	>>>> filtering          : FALSE 
+	>>>> MAF                : 0.01 
+	>>>> MIND               : 0.1 
+	>>>> GENO               : 0.1 
+	>>>> HWE                : 1e-50 
+	>>>> tools              : gwaspoly shesis gapit plink 
+	>>>> geneAction         : dominant 
+	>>>> paramsFilename     : sim.config 
+	>>>> traitType          : quantitative 
+	>>>> trait              : TraitX 
+	>>>> traitConfigList    : TraitX.config 
+	>>>> ----------------------------------------------------------- 
+	>>>>	>>>>  ----------------------------------------------------------------------------------------------------------------------  
+
+	>>>> Summary of configuration parameters: 
+	>>>> ----------------------------------------------------------- 
+	>>>> ploidy             : 4 
+	>>>> genotypeFile       : genotype-simulated-SeqBreed-tetra.csv 
+	>>>> phenotypeFile      : phenotype-simulated-SeqBreed-tetra.csv 
+	>>>> genotypeFormat     : kmatrix 
+	>>>> mapFile            : genotype-simulated-SeqBreed-tetra-MAP.csv 
+	>>>> significanceLevel  : 0.05 
+	>>>> correctionMethod   : Bonferroni 
+	>>>> gwasModel          : naive 
+	>>>> nBest              : 10 
+	>>>> filtering          : FALSE 
+	>>>> MAF                : 0.01 
+	>>>> MIND               : 0.1 
+	>>>> GENO               : 0.1 
+	>>>> HWE                : 1e-50 
+	>>>> tools              : gwaspoly shesis gapit plink 
+	>>>> geneAction         : dominant 
+	>>>> paramsFilename     : sim.config 
+	>>>> traitType          : quantitative 
+	>>>> trait              : TraitX 
+	>>>> traitConfigList    : TraitX.config 
+	>>>> ----------------------------------------------------------- 
+>>>> Processing params file:  TraitX.config 
+	>>>>	>>>>  Summary of configuration parameters:Summary of configuration parameters:  
+
+	>>>>	>>>>  ----------------------------------------------------------------------------------------------------------------------  
+
+	>>>>	>>>>  ploidy             : 4ploidy             : 4  
+
+	>>>>	>>>>  genotypeFile       : genotype-simulated-SeqBreed-tetra.csvgenotypeFile       : genotype-simulated-SeqBreed-tetra.csv  
+
+	>>>>	>>>>  phenotypeFile      : phenotype-simulated-SeqBreed-tetra.csvphenotypeFile      : phenotype-simulated-SeqBreed-tetra.csv  
+
+	>>>>	>>>>  genotypeFormat     : kmatrixgenotypeFormat     : kmatrix  
+
+	>>>>	>>>>  mapFile            : genotype-simulated-SeqBreed-tetra-MAP.csvmapFile            : genotype-simulated-SeqBreed-tetra-MAP.csv  
+
+	>>>>	>>>>  significanceLevel  : 0.05significanceLevel  : 0.05  
+
+	>>>>	>>>>  correctionMethod   : BonferronicorrectionMethod   : Bonferroni  
+
+	>>>>	>>>>  gwasModel          : naivegwasModel          : naive  
+
+	>>>>	>>>>  nBest              : 10nBest              : 10  
+
+	>>>>	>>>>  filtering          : FALSEfiltering          : FALSE  
+
+	>>>>	>>>>  MAF                : 0.01MAF                : 0.01  
+
+	>>>>	>>>>  MIND               : 0.1MIND               : 0.1  
+
+	>>>>	>>>>  GENO               : 0.1GENO               : 0.1  
+
+	>>>>	>>>>  HWE                : 1e-50HWE                : 1e-50  
+
+	>>>> tools              : gwaspoly shesis gapit plink 
+	>>>> geneAction         : dominant 	>>>>
+ tools              : gwaspoly shesis gapit plink 
+	>>>> paramsFilename     : sim.config 
+	>>>> geneAction         : dominant 
+	>>>> traitType          : quantitative 	>>>>
+ paramsFilename     : sim.config 
+	>>>> trait              : TraitX	>>>>  
+traitType          : quantitative 
+	>>>>	>>>>  traitConfigList    : TraitX.configtrait              : TraitX  
+
+	>>>> ----------------------------------------------------------- 
+	>>>> traitConfigList    : TraitX.config 
+	>>>> ----------------------------------------------------------- 
+>>>> Preprocessing genomic data (Filtering and Formating data)... 
+>>>> Processing params file:  TraitX.config 
+>>>> Processing params file:  TraitX.config 
+>>>> Processing params file:  TraitX.config 
+>>>> Processing params file:  TraitX.config 
+>>>> Preprocessing genomic data (Filtering and Formating data)... 
+>>>> Converting genotype format in  kmatrix  to  GWASpoly format... 
+>>>> Preprocessing genomic data (Filtering and Formating data)... 
+>>>> Preprocessing genomic data (Filtering and Formating data)... 
+>>>> Preprocessing genomic data (Filtering and Formating data)... 
+>>>> Preprocessing genomic data (Filtering and Formating data)... 
+>>>> Converting genotype format in  kmatrix  to  GWASpoly format... 
+>>>> Converting genotype format in  kmatrix  to  GWASpoly format... 
+>>>> Converting genotype format in  kmatrix  to  GWASpoly format... 
+>>>> Converting genotype format in  kmatrix  to  GWASpoly format... 
+>>>> Converting genotype format in  kmatrix  to  GWASpoly format... 
+	>>>> Checking valid markers... 
+	>>>> Checking valid markers... 
+	>>>> Checking valid markers... 
+	>>>> Filtering no polymorohic markers (MAF > THRESHOLD) ... 
+	>>>> Checking valid markers... 
+	>>>> Filtering no polymorohic markers (MAF > THRESHOLD) ... 
+	>>>> Checking valid markers... 
+	>>>> Checking valid markers... 
+	>>>> Checking valid markers... 
+	>>>> Filtering no polymorohic markers (MAF > THRESHOLD) ... 
+	>>>> Filtering no polymorohic markers (MAF > THRESHOLD) ... 
+	>>>> Filtering no polymorohic markers (MAF > THRESHOLD) ... 
+	>>>> Filtering no polymorohic markers (MAF > THRESHOLD) ... 
+	>>>> Filtering no polymorohic markers (MAF > THRESHOLD) ... 
+	>>>> Checking minor allele frecuency, MAF= 0 
+	>>>> Number of polymorphic markers: 400 
+ 
+	>>>> Checking minor allele frecuency, MAF= 0 
+	>>>> Number of polymorphic markers: 400 
+ 
+	>>>> Without filters 
+	>>>> Selecting common markers and samples names... 
+	>>>> Without filters 
+	>>>> Selecting common markers and samples names... 
+	>>>> Checking minor allele frecuency, MAF= 0 
+	>>>> Filtering by common markers and samples... 
+	>>>> Number of polymorphic markers: 400 
+ 
+	>>>> Checking minor allele frecuency, MAF= 0 
+	>>>> Number of polymorphic markers: 400 
+ 
+	>>>> Filtering by common markers and samples... 
+	>>>> Checking minor allele frecuency, MAF= 0 
+	>>>> Number of polymorphic markers: 400 
+ 
+	>>>> Checking minor allele frecuency, MAF= 0 
+	>>>> Without filters 
+	>>>> Selecting common markers and samples names... 
+	>>>> Checking minor allele frecuency, MAF= 0 
+	>>>> Number of polymorphic markers: 400 
+ 
+	>>>> Number of polymorphic markers: 400 
+ 
+	>>>> Filtering by common markers and samples... 
+	>>>> Without filters 
+	>>>> Selecting common markers and samples names... 
+	>>>> Filtering by common markers and samples... 
+	>>>> Without filters 
+	>>>> Selecting common markers and samples names... 
+	>>>> Filtering by common markers and samples... 
+	>>>> Without filters 
+	>>>> Selecting common markers and samples names... 
+	>>>> Without filters 
+	>>>> Selecting common markers and samples names... 
+	>>>> Filtering by common markers and samples... 
+	>>>> Filtering by common markers and samples... 
+	>>>> Evaluating following trait:  TraitX 
+	>>>> N = 153 individuals with phenotypic and genotypic information 
+ 
+	>>>> Converting phenotype to PLINK format (.ped, .map, .bim, .fam, .bed)... 
+	>>>> Evaluating following trait:  TraitX 
+	>>>> N = 153 individuals with phenotypic and genotypic information 
+ 
+	>>>> Converting phenotype to PLINK format (.ped, .map, .bim, .fam, .bed)... 
+	>>>> Evaluating following trait:  TraitX 
+	>>>> N = 153 individuals with phenotypic and genotypic information 
+ 
+	>>>> Converting phenotype to PLINK format (.ped, .map, .bim, .fam, .bed)... 
+	>>>> Evaluating following trait:  TraitX 
+	>>>> N = 153 individuals with phenotypic and genotypic information 
+ 
+	>>>> Converting phenotype to PLINK format (.ped, .map, .bim, .fam, .bed)... 
+	>>>> Evaluating following trait:  TraitX 
+	>>>> N = 153 individuals with phenotypic and genotypic information 
+ 
+	>>>> Converting phenotype to PLINK format (.ped, .map, .bim, .fam, .bed)... 
+	>>>> Converting geno/pheno to GAPIT format (.vcf)... 
+	>>>> Converting geno/pheno to GAPIT format (.vcf)... 
+	>>>> Evaluating following trait:  TraitX 
+	>>>> N = 153 individuals with phenotypic and genotypic information 
+ 
+	>>>> Converting phenotype to PLINK format (.ped, .map, .bim, .fam, .bed)... 
+	>>>> Evaluating following trait:  TraitX 
+	>>>> N = 153 individuals with phenotypic and genotypic information 
+ 
+	>>>> Converting phenotype to PLINK format (.ped, .map, .bim, .fam, .bed)... 
+	>>>> Converting geno/pheno to GAPIT format (.vcf)... 
+	>>>> Converting geno/pheno to GAPIT format (.vcf)... 
+	>>>> Converting geno/pheno to GAPIT format (.vcf)... 
+	>>>> Converting geno/pheno to GAPIT format (.vcf)... 
+	>>>> Converting geno/pheno to GAPIT format (.vcf)... 
+>>>> Preparing to execute in parallel the GWAS tools: 
+	>>>> Running  gwaspoly 
+	>>>> Running  shesis 
+	>>>> Running  gapit 
+	>>>> Running  plink 
+>>>> Preparing to execute in parallel the GWAS tools: 
+	>>>> Running  gwaspoly 
+	>>>> Running  shesis 
+	>>>> Running  gapit 
+	>>>> Running  plink 
+>>>> Preparing to execute in parallel the GWAS tools: 
+	>>>> Running  gwaspoly 
+	>>>> Running  shesis 
+	>>>> Running  gapit 
+	>>>> Running  plink 
+>>>> Preparing to execute in parallel the GWAS tools: 
+	>>>> Running  gwaspoly 
+	>>>> Running  shesis 
+	>>>> Running  gapit 
+	>>>> Running  plink 
+>>>> Preparing to execute in parallel the GWAS tools: 
+	>>>> Running  gwaspoly 
+	>>>> Running  shesis 
+	>>>> Running  gapit 
+	>>>> Running  plink 
+>>>> Preparing to execute in parallel the GWAS tools: 
+	>>>> Running  gwaspoly 
+	>>>> Running  shesis 
+	>>>> Running  gapit 
+	>>>> Running  plink 
+>>>> Preparing to execute in parallel the GWAS tools: 
+	>>>> Running  gwaspoly 
+	>>>> Running  shesis 
+	>>>> Running  gapit 
+	>>>> Running  plink 
+The upper bound of groups is too high. It was set to the size of kinship!
+The lower bound of groups is too high. It was set to the size of kinship!
+The upper bound of groups is too high. It was set to the size of kinship!
+The lower bound of groups is too high. It was set to the size of kinship!
+The upper bound of groups is too high. It was set to the size of kinship!
+The lower bound of groups is too high. It was set to the size of kinship!
+The upper bound of groups is too high. It was set to the size of kinship!
+The lower bound of groups is too high. It was set to the size of kinship!
+The upper bound of groups is too high. It was set to the size of kinship!
+The lower bound of groups is too high. It was set to the size of kinship!
+The upper bound of groups is too high. It was set to the size of kinship!
+The lower bound of groups is too high. It was set to the size of kinship!
+The upper bound of groups is too high. It was set to the size of kinship!
+The lower bound of groups is too high. It was set to the size of kinship!
+>>>> Selecting best gene action model for all tools... 
+	>>>> Best gene action for:  GWASpoly 
+	>>>> Best gene action for:  SHEsis 
+	>>>> Best gene action for:  GAPIT 
+	>>>> Best gene action for:  PLINK 
+>>>> Creating reports (Table, Venn diagrams, Manhattan&QQ plots, SNP profiles)... 
+	>>>> Creating tables and plots with summary results for  naive  model... 
+	>>>> Writing input config parameters... 
+	>>>> Writing tables with best ranked and signficative SNPs...  
+	>>>> Writing Venn diagram for best and significative SNPs... 
+>>>> Selecting best gene action model for all tools... 
+	>>>> Best gene action for:  GWASpoly 
+	>>>> Best gene action for:  SHEsis 
+	>>>> Best gene action for:  GAPIT 
+	>>>> Best gene action for:  PLINK 
+>>>> Creating reports (Table, Venn diagrams, Manhattan&QQ plots, SNP profiles)... 
+	>>>> Creating tables and plots with summary results for  naive  model... 
+	>>>> Writing input config parameters... 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+	>>>> Writing tables with best ranked and signficative SNPs...  
+	>>>> Writing Venn diagram for best and significative SNPs... 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+>>>> Selecting best gene action model for all tools... 
+	>>>> Best gene action for:  GWASpoly 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+	>>>> Best gene action for:  SHEsis 
+	>>>> Best gene action for:  GAPIT 
+	>>>> Best gene action for:  PLINK 
+>>>> Creating reports (Table, Venn diagrams, Manhattan&QQ plots, SNP profiles)... 
+	>>>> Creating tables and plots with summary results for  naive  model... 
+	>>>> Writing input config parameters... 
+	>>>> Writing Manhattan and QQ plots... 
+>>>> Selecting best gene action model for all tools... 
+	>>>> Best gene action for:  GWASpoly 
+	>>>> Best gene action for:  SHEsis 
+	>>>> Best gene action for:  GAPIT 
+	>>>> Best gene action for:  PLINK 
+>>>> Creating reports (Table, Venn diagrams, Manhattan&QQ plots, SNP profiles)... 
+	>>>> Writing tables with best ranked and signficative SNPs...  
+	>>>> Writing Venn diagram for best and significative SNPs... 
+	>>>> Creating tables and plots with summary results for  naive  model... 
+	>>>> Writing input config parameters... 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+	>>>> Writing tables with best ranked and signficative SNPs...  
+	>>>> Writing Venn diagram for best and significative SNPs... 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+	>>>> Writing Manhattan and QQ plots... 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+	>>>> Creating heatmaps for best ranked SNPs... 
+>>>> Selecting best gene action model for all tools... 
+	>>>> Best gene action for:  GWASpoly 
+	>>>> 	Heatmap for snp:  snp111 
+	>>>> Best gene action for:  SHEsis 
+	>>>> Best gene action for:  GAPIT 
+	>>>> Best gene action for:  PLINK 
+>>>> Creating reports (Table, Venn diagrams, Manhattan&QQ plots, SNP profiles)... 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+	>>>> Creating tables and plots with summary results for  naive  model... 
+	>>>> Writing input config parameters... 
+	>>>> Writing Manhattan and QQ plots... 
+	>>>> Creating heatmaps for best ranked SNPs... 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+	>>>> 	Heatmap for snp:  snp067 
+	>>>> Writing Manhattan and QQ plots... 
+	>>>> 	Heatmap for snp:  snp254 
+>>>> Selecting best gene action model for all tools... 
+	>>>> Best gene action for:  GWASpoly 
+	>>>> Writing tables with best ranked and signficative SNPs...  
+	>>>> Writing Venn diagram for best and significative SNPs... 
+	>>>> Best gene action for:  SHEsis 
+	>>>> Best gene action for:  GAPIT 
+	>>>> Best gene action for:  PLINK 
+>>>> Creating reports (Table, Venn diagrams, Manhattan&QQ plots, SNP profiles)... 
+	>>>> Creating tables and plots with summary results for  naive  model... 
+	>>>> Writing input config parameters... 
+	>>>> Writing tables with best ranked and signficative SNPs...  
+	>>>> Writing Venn diagram for best and significative SNPs... 
+	>>>> 	Heatmap for snp:  snp149 
+	>>>> 	Heatmap for snp:  snp073 
+	>>>> Creating heatmaps for best ranked SNPs... 
+	>>>> Creating heatmaps for best ranked SNPs... 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+	>>>> 	Heatmap for snp:  snp186 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+	>>>> 	Heatmap for snp:  snp052 
+>>>> Selecting best gene action model for all tools... 
+	>>>> Best gene action for:  GWASpoly 
+	>>>> 	Heatmap for snp:  snp173 
+	>>>> 	Heatmap for snp:  snp031 
+	>>>> Best gene action for:  SHEsis 
+	>>>> Best gene action for:  GAPIT 
+	>>>> Best gene action for:  PLINK 
+>>>> Creating reports (Table, Venn diagrams, Manhattan&QQ plots, SNP profiles)... 
+	>>>> Creating tables and plots with summary results for  naive  model... 
+	>>>> Writing input config parameters... 
+	>>>> Writing tables with best ranked and signficative SNPs...  
+	>>>> Writing Venn diagram for best and significative SNPs... 
+	>>>> 	Heatmap for snp:  snp357 
+	>>>> 	Heatmap for snp:  snp033 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+	>>>> 	Heatmap for snp:  snp056 
+	>>>> 	Heatmap for snp:  snp174 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+	>>>> Writing Manhattan and QQ plots... 
+	>>>> Writing Manhattan and QQ plots... 
+	>>>> 	Heatmap for snp:  snp092 
+	>>>> 	Heatmap for snp:  snp352 
+	>>>> 	Heatmap for snp:  snp072 
+	>>>> 	Heatmap for snp:  snp113 
+	>>>> 	Heatmap for snp:  snp048 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+	>>>> 	Heatmap for snp:  snp203 
+	>>>> 	Heatmap for snp:  snp219 
+	>>>> 	Heatmap for snp:  snp076 
+	>>>> Creating heatmaps for best ranked SNPs... 
+	>>>> Writing Manhattan and QQ plots... 
+	>>>> Creating heatmaps for best ranked SNPs... 
+	>>>> 	Heatmap for snp:  snp278 
+	>>>> 	Heatmap for snp:  snp036 
+	>>>> 	Heatmap for snp:  snp095 
+	>>>> 	Heatmap for snp:  snp374 
+	>>>> 	Heatmap for snp:  snp278 
+	>>>> 	Heatmap for snp:  snp303 
+	>>>> 	Heatmap for snp:  snp030 
+	>>>> Creating heatmaps for best ranked SNPs... 
+	>>>> 	Heatmap for snp:  snp387 
+	>>>> 	Heatmap for snp:  snp386 
+	>>>> 	Heatmap for snp:  snp318 
+	>>>> 	Heatmap for snp:  snp348 
+	>>>> 	Heatmap for snp:  snp080 
+	>>>> Creating chord diagrams for chromosome vs SNPs... 
+	>>>> 	Heatmap for snp:  snp269 
+	>>>> 	Heatmap for snp:  snp255 
+	>>>> Creating chord diagrams for chromosome vs SNPs... 
+	>>>> 	Heatmap for snp:  snp198 
+	>>>> 	Heatmap for snp:  snp338 
+	>>>> 	Heatmap for snp:  snp024 
+	>>>> 	Heatmap for snp:  snp379 
+	>>>> 	Heatmap for snp:  snp169 
+	>>>> 	Heatmap for snp:  snp034 
+	>>>> Creating chord diagrams for chromosome vs SNPs... 
+	>>>> 	Heatmap for snp:  snp324 
+	>>>> 	Heatmap for snp:  snp104 
+	>>>> 	Heatmap for snp:  snp281 
+	>>>> 	Heatmap for snp:  snp246 
+	>>>> 	Heatmap for snp:  snp055 
+	>>>> 	Heatmap for snp:  snp328 
+	>>>> 	Heatmap for snp:  snp096 
+	>>>> 	Heatmap for snp:  snp393 
+>>>> Creating html rmarkdown report... 
+	>>>> 	Heatmap for snp:  snp133 
+	>>>> 	Heatmap for snp:  snp221 
+>>>> Creating html rmarkdown report... 
+	>>>> 	Heatmap for snp:  snp221 
+	>>>> Creating chord diagrams for chromosome vs SNPs... 
+>>>> Creating html rmarkdown report... 
+	>>>> 	Heatmap for snp:  snp243 
+	>>>> Creating chord diagrams for chromosome vs SNPs... 
+	>>>> 	Heatmap for snp:  snp267 
+	>>>> 	Heatmap for snp:  snp102 
+>>>> Moving files to output folders... 
+	>>>> Creating chord diagrams for chromosome vs SNPs... 
+>>>> Moving files to output folders... 
+	>>>> Creating chord diagrams for chromosome vs SNPs... 
+>>>> Moving files to output folders... 
+>>>> MultiGWAS 1.0 
+>>>> Working dir:  /home/lg/agrosavia/SIMULATION/tests/five-tools/domRandom-n50-MLM/n50/run9 
+>>>> Processing config file... 
+>>>> Loading libraries and setting globals...
+>>>> MultiGWAS 1.0 
+>>>> Working dir:  /home/lg/agrosavia/SIMULATION/tests/five-tools/domRandom-n50-MLM/n50/run11 
+>>>> Processing config file... 
+>>>> Loading libraries and setting globals...
+>>>> MultiGWAS 1.0 
+>>>> Working dir:  /home/lg/agrosavia/SIMULATION/tests/five-tools/domRandom-n50-MLM/n50/run13 
+>>>> Processing config file... 
+>>>> Loading libraries and setting globals...
+>>>> Creating html rmarkdown report... 
+>>>> Creating html rmarkdown report... 
+>>>> Reading configuration file... 
+>>>> Creating html rmarkdown report... 
+	>>>> ----------------------------------------------------------- 
+	>>>> Summary of configuration parameters: 
+	>>>> ----------------------------------------------------------- 
+	>>>> ploidy             : 4 
+	>>>> genotypeFile       : genotype-simulated-SeqBreed-tetra.csv 
+	>>>> phenotypeFile      : phenotype-simulated-SeqBreed-tetra.csv 
+	>>>> genotypeFormat     : kmatrix 
+	>>>> mapFile            : genotype-simulated-SeqBreed-tetra-MAP.csv 
+	>>>> significanceLevel  : 0.05 
+	>>>> correctionMethod   : Bonferroni 
+	>>>> gwasModel          : naive 
+	>>>> nBest              : 10 
+	>>>> filtering          : FALSE 
+	>>>> MAF                : 0.01 
+	>>>> MIND               : 0.1 
+	>>>> GENO               : 0.1 
+	>>>> HWE                : 1e-50 
+	>>>> tools              : gwaspoly shesis gapit plink 
+	>>>> geneAction         : dominant 
+	>>>> paramsFilename     : sim.config 
+	>>>> traitType          : quantitative 
+	>>>> trait              : TraitX 
+	>>>> traitConfigList    : TraitX.config 
+	>>>> ----------------------------------------------------------- 
+>>>> Processing params file:  TraitX.config 
+>>>> Reading configuration file... 
+>>>> Preprocessing genomic data (Filtering and Formating data)... 
+>>>> Converting genotype format in  kmatrix  to  GWASpoly format... 
+	>>>> ----------------------------------------------------------- 
+	>>>> Summary of configuration parameters: 
+	>>>> ----------------------------------------------------------- 
+	>>>> ploidy             : 4 
+	>>>> genotypeFile       : genotype-simulated-SeqBreed-tetra.csv 
+	>>>> phenotypeFile      : phenotype-simulated-SeqBreed-tetra.csv 
+	>>>> genotypeFormat     : kmatrix 
+	>>>> mapFile            : genotype-simulated-SeqBreed-tetra-MAP.csv 
+	>>>> significanceLevel  : 0.05 
+	>>>> correctionMethod   : Bonferroni 
+	>>>> gwasModel          : naive 
+	>>>> nBest              : 10 
+	>>>> filtering          : FALSE 
+	>>>> MAF                : 0.01 
+	>>>> MIND               : 0.1 
+	>>>> GENO               : 0.1 
+	>>>> HWE                : 1e-50 
+	>>>> tools              : gwaspoly shesis gapit plink 
+	>>>> geneAction         : dominant 
+	>>>> paramsFilename     : sim.config 
+	>>>> traitType          : quantitative 
+	>>>> trait              : TraitX 
+	>>>> traitConfigList    : TraitX.config 
+	>>>> ----------------------------------------------------------- 
+>>>> Processing params file:  TraitX.config 
+>>>> Preprocessing genomic data (Filtering and Formating data)... 
+>>>> Reading configuration file... 
+>>>> Converting genotype format in  kmatrix  to  GWASpoly format... 
+>>>> Creating html rmarkdown report... 
+	>>>> ----------------------------------------------------------- 
+	>>>> Summary of configuration parameters: 
+	>>>> ----------------------------------------------------------- 
+	>>>> ploidy             : 4 
+	>>>> genotypeFile       : genotype-simulated-SeqBreed-tetra.csv 
+	>>>> phenotypeFile      : phenotype-simulated-SeqBreed-tetra.csv 
+	>>>> genotypeFormat     : kmatrix 
+	>>>> mapFile            : genotype-simulated-SeqBreed-tetra-MAP.csv 
+	>>>> significanceLevel  : 0.05 
+	>>>> correctionMethod   : Bonferroni 
+	>>>> gwasModel          : naive 
+	>>>> nBest              : 10 
+	>>>> filtering          : FALSE 
+	>>>> MAF                : 0.01 
+	>>>> MIND               : 0.1 
+	>>>> GENO               : 0.1 
+	>>>> HWE                : 1e-50 
+	>>>> tools              : gwaspoly shesis gapit plink 
+	>>>> geneAction         : dominant 
+	>>>> paramsFilename     : sim.config 
+	>>>> traitType          : quantitative 
+	>>>> trait              : TraitX 
+	>>>> traitConfigList    : TraitX.config 
+	>>>> ----------------------------------------------------------- 
+	>>>> Checking valid markers... 
+>>>> Processing params file:  TraitX.config 
+>>>> Preprocessing genomic data (Filtering and Formating data)... 
+>>>> Converting genotype format in  kmatrix  to  GWASpoly format... 
+>>>> Moving files to output folders... 
+>>>> Moving files to output folders... 
+	>>>> Filtering no polymorohic markers (MAF > THRESHOLD) ... 
+	>>>> Checking valid markers... 
+	>>>> Filtering no polymorohic markers (MAF > THRESHOLD) ... 
+	>>>> Checking valid markers... 
+>>>> MultiGWAS 1.0 
+>>>> Moving files to output folders... 
+>>>> Working dir:  /home/lg/agrosavia/SIMULATION/tests/five-tools/domRandom-n50-MLM/n50/run14 
+>>>> Processing config file... 
+>>>> Loading libraries and setting globals...
+	>>>> Checking minor allele frecuency, MAF= 0 
+	>>>> Number of polymorphic markers: 400 
+ 
+	>>>> Filtering no polymorohic markers (MAF > THRESHOLD) ... 
+>>>> MultiGWAS 1.0 
+>>>> Working dir:  /home/lg/agrosavia/SIMULATION/tests/five-tools/domRandom-n50-MLM/n50/run12 
+>>>> Processing config file... 
+>>>> Loading libraries and setting globals...
+	>>>> Without filters 
+	>>>> Selecting common markers and samples names... 
+	>>>> Filtering by common markers and samples... 
+	>>>> Checking minor allele frecuency, MAF= 0 
+	>>>> Number of polymorphic markers: 400 
+ 
+	>>>> Without filters 
+	>>>> Selecting common markers and samples names... 
+	>>>> Filtering by common markers and samples... 
+>>>> Moving files to output folders... 
+>>>> MultiGWAS 1.0 
+>>>> Working dir:  /home/lg/agrosavia/SIMULATION/tests/five-tools/domRandom-n50-MLM/n50/run10 
+>>>> Processing config file... 
+>>>> Loading libraries and setting globals...
+	>>>> Checking minor allele frecuency, MAF= 0 
+	>>>> Number of polymorphic markers: 400 
+ 
+	>>>> Evaluating following trait:  TraitX 
+	>>>> N = 153 individuals with phenotypic and genotypic information 
+ 
+	>>>> Converting phenotype to PLINK format (.ped, .map, .bim, .fam, .bed)... 
+	>>>> Without filters 
+	>>>> Selecting common markers and samples names... 
+	>>>> Filtering by common markers and samples... 
+	>>>> Converting geno/pheno to GAPIT format (.vcf)... 
+	>>>> Evaluating following trait:  TraitX 
+	>>>> N = 153 individuals with phenotypic and genotypic information 
+ 
+	>>>> Converting phenotype to PLINK format (.ped, .map, .bim, .fam, .bed)... 
+>>>> Reading configuration file... 
+	>>>> Converting geno/pheno to GAPIT format (.vcf)... 
+>>>> MultiGWAS 1.0 
+>>>> Working dir:  /home/lg/agrosavia/SIMULATION/tests/five-tools/domRandom-n50-MLM/n50/run8 
+>>>> Processing config file... 
+>>>> Loading libraries and setting globals...
+>>>> Reading configuration file... 
+	>>>> ----------------------------------------------------------- 
+	>>>> Summary of configuration parameters: 
+	>>>> ----------------------------------------------------------- 
+	>>>> ploidy             : 4 
+	>>>> genotypeFile       : genotype-simulated-SeqBreed-tetra.csv 
+	>>>> phenotypeFile      : phenotype-simulated-SeqBreed-tetra.csv 
+	>>>> genotypeFormat     : kmatrix 
+	>>>> mapFile            : genotype-simulated-SeqBreed-tetra-MAP.csv 
+	>>>> significanceLevel  : 0.05 
+	>>>> correctionMethod   : Bonferroni 
+	>>>> gwasModel          : naive 
+	>>>> nBest              : 10 
+	>>>> filtering          : FALSE 
+	>>>> MAF                : 0.01 
+	>>>> MIND               : 0.1 
+	>>>> GENO               : 0.1 
+	>>>> HWE                : 1e-50 
+	>>>> tools              : gwaspoly shesis gapit plink 
+	>>>> geneAction         : dominant 
+	>>>> paramsFilename     : sim.config 
+	>>>> traitType          : quantitative 
+	>>>> trait              : TraitX 
+	>>>> traitConfigList    : TraitX.config 
+	>>>> ----------------------------------------------------------- 
+	>>>> Evaluating following trait:  TraitX 
+	>>>> N = 153 individuals with phenotypic and genotypic information 
+ 
+	>>>> Converting phenotype to PLINK format (.ped, .map, .bim, .fam, .bed)... 
+>>>> Processing params file:  TraitX.config 
+	>>>> ----------------------------------------------------------- 
+	>>>> Summary of configuration parameters: 
+	>>>> ----------------------------------------------------------- 
+	>>>> ploidy             : 4 
+	>>>> genotypeFile       : genotype-simulated-SeqBreed-tetra.csv 
+	>>>> phenotypeFile      : phenotype-simulated-SeqBreed-tetra.csv 
+	>>>> genotypeFormat     : kmatrix 
+	>>>> mapFile            : genotype-simulated-SeqBreed-tetra-MAP.csv 
+	>>>> significanceLevel  : 0.05 
+	>>>> correctionMethod   : Bonferroni 
+	>>>> gwasModel          : naive 
+	>>>> nBest              : 10 
+	>>>> filtering          : FALSE 
+	>>>> MAF                : 0.01 
+	>>>> MIND               : 0.1 
+	>>>> GENO               : 0.1 
+	>>>> HWE                : 1e-50 
+	>>>> tools              : gwaspoly shesis gapit plink 
+	>>>> geneAction         : dominant 
+	>>>> paramsFilename     : sim.config 
+	>>>> traitType          : quantitative 
+	>>>> trait              : TraitX 
+	>>>> traitConfigList    : TraitX.config 
+	>>>> ----------------------------------------------------------- 
+>>>> Preprocessing genomic data (Filtering and Formating data)... 
+>>>> Processing params file:  TraitX.config 
+>>>> Converting genotype format in  kmatrix  to  GWASpoly format... 
+>>>> Preprocessing genomic data (Filtering and Formating data)... 
+>>>> Converting genotype format in  kmatrix  to  GWASpoly format... 
+>>>> Reading configuration file... 
+>>>> Preparing to execute in parallel the GWAS tools: 
+	>>>> Running  gwaspoly 
+	>>>> Running  shesis 
+	>>>> Running  gapit 
+	>>>> Running  plink 
+	>>>> Converting geno/pheno to GAPIT format (.vcf)... 
+	>>>> ----------------------------------------------------------- 
+	>>>> Summary of configuration parameters: 
+	>>>> ----------------------------------------------------------- 
+	>>>> ploidy             : 4 
+	>>>> genotypeFile       : genotype-simulated-SeqBreed-tetra.csv 
+	>>>> phenotypeFile      : phenotype-simulated-SeqBreed-tetra.csv 
+	>>>> genotypeFormat     : kmatrix 
+	>>>> mapFile            : genotype-simulated-SeqBreed-tetra-MAP.csv 
+	>>>> significanceLevel  : 0.05 
+	>>>> correctionMethod   : Bonferroni 
+	>>>> gwasModel          : naive 
+	>>>> nBest              : 10 
+	>>>> filtering          : FALSE 
+	>>>> MAF                : 0.01 
+	>>>> MIND               : 0.1 
+	>>>> GENO               : 0.1 
+	>>>> HWE                : 1e-50 
+	>>>> tools              : gwaspoly shesis gapit plink 
+	>>>> geneAction         : dominant 
+	>>>> paramsFilename     : sim.config 
+	>>>> traitType          : quantitative 
+	>>>> trait              : TraitX 
+	>>>> traitConfigList    : TraitX.config 
+	>>>> ----------------------------------------------------------- 
+>>>> Processing params file:  TraitX.config 
+>>>> Preparing to execute in parallel the GWAS tools: 
+	>>>> Running  gwaspoly 
+	>>>> Running  shesis 
+	>>>> Running  gapit 
+	>>>> Running  plink 
+>>>> Preprocessing genomic data (Filtering and Formating data)... 
+	>>>> Checking valid markers... 
+	>>>> Checking valid markers... 
+>>>> Converting genotype format in  kmatrix  to  GWASpoly format... 
+>>>> Reading configuration file... 
+	>>>> Filtering no polymorohic markers (MAF > THRESHOLD) ... 
+	>>>> Filtering no polymorohic markers (MAF > THRESHOLD) ... 
+>>>> Preparing to execute in parallel the GWAS tools: 
+	>>>> Running  gwaspoly 
+	>>>> Running  shesis 
+	>>>> Running  gapit 
+	>>>> Running  plink 
+	>>>> ----------------------------------------------------------- 
+	>>>> Summary of configuration parameters: 
+	>>>> ----------------------------------------------------------- 
+	>>>> ploidy             : 4 
+	>>>> genotypeFile       : genotype-simulated-SeqBreed-tetra.csv 
+	>>>> phenotypeFile      : phenotype-simulated-SeqBreed-tetra.csv 
+	>>>> genotypeFormat     : kmatrix 
+	>>>> mapFile            : genotype-simulated-SeqBreed-tetra-MAP.csv 
+	>>>> significanceLevel  : 0.05 
+	>>>> correctionMethod   : Bonferroni 
+	>>>> gwasModel          : naive 
+	>>>> nBest              : 10 
+	>>>> filtering          : FALSE 
+	>>>> MAF                : 0.01 
+	>>>> MIND               : 0.1 
+	>>>> GENO               : 0.1 
+	>>>> HWE                : 1e-50 
+	>>>> tools              : gwaspoly shesis gapit plink 
+	>>>> geneAction         : dominant 
+	>>>> paramsFilename     : sim.config 
+	>>>> traitType          : quantitative 
+	>>>> trait              : TraitX 
+	>>>> traitConfigList    : TraitX.config 
+	>>>> ----------------------------------------------------------- 
+>>>> Processing params file:  TraitX.config 
+	>>>> Checking valid markers... 
+>>>> Preprocessing genomic data (Filtering and Formating data)... 
+>>>> Converting genotype format in  kmatrix  to  GWASpoly format... 
+	>>>> Filtering no polymorohic markers (MAF > THRESHOLD) ... 
+	>>>> Checking minor allele frecuency, MAF= 0 
+	>>>> Number of polymorphic markers: 400 
+ 
+	>>>> Checking minor allele frecuency, MAF= 0 
+	>>>> Number of polymorphic markers: 400 
+ 
+	>>>> Without filters 
+	>>>> Selecting common markers and samples names... 
+	>>>> Filtering by common markers and samples... 
+	>>>> Without filters 
+	>>>> Selecting common markers and samples names... 
+	>>>> Filtering by common markers and samples... 
+	>>>> Checking valid markers... 
+	>>>> Checking minor allele frecuency, MAF= 0 
+	>>>> Number of polymorphic markers: 400 
+ 
+	>>>> Filtering no polymorohic markers (MAF > THRESHOLD) ... 
+	>>>> Without filters 
+	>>>> Selecting common markers and samples names... 
+	>>>> Filtering by common markers and samples... 
+	>>>> Evaluating following trait:  TraitX 
+	>>>> N = 153 individuals with phenotypic and genotypic information 
+ 
+	>>>> Converting phenotype to PLINK format (.ped, .map, .bim, .fam, .bed)... 
+	>>>> Evaluating following trait:  TraitX 
+	>>>> N = 153 individuals with phenotypic and genotypic information 
+ 
+	>>>> Converting phenotype to PLINK format (.ped, .map, .bim, .fam, .bed)... 
+	>>>> Converting geno/pheno to GAPIT format (.vcf)... 
+	>>>> Converting geno/pheno to GAPIT format (.vcf)... 
+	>>>> Checking minor allele frecuency, MAF= 0 
+	>>>> Evaluating following trait:  TraitX 
+	>>>> N = 153 individuals with phenotypic and genotypic information 
+ 
+	>>>> Converting phenotype to PLINK format (.ped, .map, .bim, .fam, .bed)... 
+	>>>> Number of polymorphic markers: 400 
+ 
+	>>>> Without filters 
+	>>>> Selecting common markers and samples names... 
+	>>>> Filtering by common markers and samples... 
+	>>>> Converting geno/pheno to GAPIT format (.vcf)... 
+>>>> Preparing to execute in parallel the GWAS tools: 
+	>>>> Running  gwaspoly 
+	>>>> Running  shesis 
+	>>>> Running  gapit 
+	>>>> Running  plink 
+>>>> Preparing to execute in parallel the GWAS tools: 
+	>>>> Running  gwaspoly 
+	>>>> Running  shesis 
+	>>>> Running  gapit 
+	>>>> Running  plink 
+	>>>> Evaluating following trait:  TraitX 
+	>>>> N = 153 individuals with phenotypic and genotypic information 
+ 
+	>>>> Converting phenotype to PLINK format (.ped, .map, .bim, .fam, .bed)... 
+>>>> Preparing to execute in parallel the GWAS tools: 
+	>>>> Running  gwaspoly 
+	>>>> Running  shesis 
+	>>>> Running  gapit 
+	>>>> Running  plink 
+	>>>> Converting geno/pheno to GAPIT format (.vcf)... 
+>>>> Preparing to execute in parallel the GWAS tools: 
+	>>>> Running  gwaspoly 
+	>>>> Running  shesis 
+	>>>> Running  gapit 
+	>>>> Running  plink 
+The upper bound of groups is too high. It was set to the size of kinship!
+The lower bound of groups is too high. It was set to the size of kinship!
+The upper bound of groups is too high. It was set to the size of kinship!
+The lower bound of groups is too high. It was set to the size of kinship!
+The upper bound of groups is too high. It was set to the size of kinship!
+The lower bound of groups is too high. It was set to the size of kinship!
+The upper bound of groups is too high. It was set to the size of kinship!
+The lower bound of groups is too high. It was set to the size of kinship!
+The upper bound of groups is too high. It was set to the size of kinship!
+The lower bound of groups is too high. It was set to the size of kinship!
+The upper bound of groups is too high. It was set to the size of kinship!
+The lower bound of groups is too high. It was set to the size of kinship!
+The upper bound of groups is too high. It was set to the size of kinship!
+The lower bound of groups is too high. It was set to the size of kinship!
+>>>> Selecting best gene action model for all tools... 
+	>>>> Best gene action for:  GWASpoly 
+	>>>> Best gene action for:  SHEsis 
+	>>>> Best gene action for:  GAPIT 
+	>>>> Best gene action for:  PLINK 
+>>>> Creating reports (Table, Venn diagrams, Manhattan&QQ plots, SNP profiles)... 
+	>>>> Creating tables and plots with summary results for  naive  model... 
+	>>>> Writing input config parameters... 
+	>>>> Writing tables with best ranked and signficative SNPs...  
+	>>>> Writing Venn diagram for best and significative SNPs... 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+>>>> Selecting best gene action model for all tools... 
+	>>>> Best gene action for:  GWASpoly 
+	>>>> Best gene action for:  SHEsis 
+	>>>> Best gene action for:  GAPIT 
+	>>>> Best gene action for:  PLINK 
+>>>> Creating reports (Table, Venn diagrams, Manhattan&QQ plots, SNP profiles)... 
+	>>>> Creating tables and plots with summary results for  naive  model... 
+	>>>> Writing input config parameters... 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+	>>>> Writing tables with best ranked and signficative SNPs...  
+	>>>> Writing Venn diagram for best and significative SNPs... 
+	>>>> Writing Manhattan and QQ plots... 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+>>>> Selecting best gene action model for all tools... 
+	>>>> Best gene action for:  GWASpoly 
+	>>>> Best gene action for:  SHEsis 
+	>>>> Best gene action for:  GAPIT 
+	>>>> Best gene action for:  PLINK 
+	>>>> Writing Manhattan and QQ plots... 
+>>>> Creating reports (Table, Venn diagrams, Manhattan&QQ plots, SNP profiles)... 
+	>>>> Creating tables and plots with summary results for  naive  model... 
+	>>>> Writing input config parameters... 
+	>>>> Writing tables with best ranked and signficative SNPs...  
+	>>>> Writing Venn diagram for best and significative SNPs... 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+>>>> Selecting best gene action model for all tools... 
+	>>>> Best gene action for:  GWASpoly 
+	>>>> Creating heatmaps for best ranked SNPs... 
+	>>>> Best gene action for:  SHEsis 
+	>>>> Best gene action for:  GAPIT 
+	>>>> Best gene action for:  PLINK 
+>>>> Creating reports (Table, Venn diagrams, Manhattan&QQ plots, SNP profiles)... 
+	>>>> Creating tables and plots with summary results for  naive  model... 
+	>>>> Writing input config parameters... 
+	>>>> Creating heatmaps for best ranked SNPs... 
+	>>>> 	Heatmap for snp:  snp123 
+	>>>> 	Heatmap for snp:  snp282 
+	>>>> Writing tables with best ranked and signficative SNPs...  
+	>>>> Writing Venn diagram for best and significative SNPs... 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+	>>>> Writing Manhattan and QQ plots... 
+	>>>> 	Heatmap for snp:  snp191 
+>>>> Selecting best gene action model for all tools... 
+	>>>> Best gene action for:  GWASpoly 
+	>>>> Best gene action for:  SHEsis 
+	>>>> Best gene action for:  GAPIT 
+	>>>> Best gene action for:  PLINK 
+>>>> Creating reports (Table, Venn diagrams, Manhattan&QQ plots, SNP profiles)... 
+	>>>> Creating tables and plots with summary results for  naive  model... 
+	>>>> Writing input config parameters... 
+	>>>> 	Heatmap for snp:  snp236 
+	>>>> 	Heatmap for snp:  snp049 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+	>>>> Writing tables with best ranked and signficative SNPs...  
+	>>>> Writing Venn diagram for best and significative SNPs... 
+	>>>> 	Heatmap for snp:  snp265 
+	>>>> Creating heatmaps for best ranked SNPs... 
+>>>> Selecting best gene action model for all tools... 
+	>>>> Best gene action for:  GWASpoly 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+	>>>> 	Heatmap for snp:  snp046 
+	>>>> 	Heatmap for snp:  snp191 
+	>>>> Best gene action for:  SHEsis 
+	>>>> Best gene action for:  GAPIT 
+	>>>> Best gene action for:  PLINK 
+>>>> Creating reports (Table, Venn diagrams, Manhattan&QQ plots, SNP profiles)... 
+	>>>> Creating tables and plots with summary results for  naive  model... 
+	>>>> Writing input config parameters... 
+	>>>> 	Heatmap for snp:  snp150 
+ Getting shared SNPs...
+	>>>> Writing tables with best ranked and signficative SNPs...  
+ >>> Getting shared SNPs...
+	>>>> Writing Venn diagram for best and significative SNPs... 
+	>>>> 	Heatmap for snp:  snp389 
+	>>>> Writing Manhattan and QQ plots... 
+ Getting shared SNPs...
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+	>>>> 	Heatmap for snp:  snp216 
+ >>> Getting shared SNPs...
+	>>>> Writing Manhattan and QQ plots... 
+	>>>> 	Heatmap for snp:  snp174 
+	>>>> 	Heatmap for snp:  snp140 
+	>>>> 	Heatmap for snp:  snp046 
+	>>>> 	Heatmap for snp:  snp160 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+	>>>> 	Heatmap for snp:  snp027 
+>>>> Selecting best gene action model for all tools... 
+	>>>> Best gene action for:  GWASpoly 
+	>>>> 	Heatmap for snp:  snp049 
+	>>>> Writing Manhattan and QQ plots... 
+	>>>> 	Heatmap for snp:  snp252 
+	>>>> Best gene action for:  SHEsis 
+	>>>> Best gene action for:  GAPIT 
+	>>>> Best gene action for:  PLINK 
+>>>> Creating reports (Table, Venn diagrams, Manhattan&QQ plots, SNP profiles)... 
+	>>>> Creating heatmaps for best ranked SNPs... 
+	>>>> Creating tables and plots with summary results for  naive  model... 
+	>>>> Writing input config parameters... 
+	>>>> Creating heatmaps for best ranked SNPs... 
+	>>>> 	Heatmap for snp:  snp066 
+	>>>> 	Heatmap for snp:  snp001 
+	>>>> Writing tables with best ranked and signficative SNPs...  
+	>>>> Writing Venn diagram for best and significative SNPs... 
+	>>>> 	Heatmap for snp:  snp317 
+	>>>> 	Heatmap for snp:  snp293 
+	>>>> 	Heatmap for snp:  snp141 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+	>>>> Creating chord diagrams for chromosome vs SNPs... 
+	>>>> 	Heatmap for snp:  snp118 
+	>>>> Creating heatmaps for best ranked SNPs... 
+	>>>> 	Heatmap for snp:  snp190 
+	>>>> 	Heatmap for snp:  snp348 
+	>>>> 	Heatmap for snp:  snp196 
+	>>>> 	Heatmap for snp:  snp278 
+	>>>> 	Heatmap for snp:  snp367 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+	>>>> 	Heatmap for snp:  snp201 
+	>>>> 	Heatmap for snp:  snp138 
+	>>>> 	Heatmap for snp:  snp358 
+	>>>> Writing Manhattan and QQ plots... 
+	>>>> 	Heatmap for snp:  snp223 
+	>>>> 	Heatmap for snp:  snp215 
+	>>>> 	Heatmap for snp:  snp227 
+	>>>> 	Heatmap for snp:  snp142 
+	>>>> 	Heatmap for snp:  snp252 
+	>>>> Creating chord diagrams for chromosome vs SNPs... 
+	>>>> 	Heatmap for snp:  snp054 
+	>>>> 	Heatmap for snp:  snp387 
+	>>>> 	Heatmap for snp:  snp320 
+	>>>> Creating heatmaps for best ranked SNPs... 
+	>>>> 	Heatmap for snp:  snp112 
+	>>>> 	Heatmap for snp:  snp268 
+	>>>> 	Heatmap for snp:  snp051 
+	>>>> 	Heatmap for snp:  snp210 
+>>>> Creating html rmarkdown report... 
+	>>>> Creating chord diagrams for chromosome vs SNPs... 
+	>>>> 	Heatmap for snp:  snp251 
+	>>>> 	Heatmap for snp:  snp043 
+	>>>> 	Heatmap for snp:  snp259 
+	>>>> 	Heatmap for snp:  snp118 
+	>>>> 	Heatmap for snp:  snp231 
+	>>>> 	Heatmap for snp:  snp135 
+	>>>> 	Heatmap for snp:  snp056 
+	>>>> 	Heatmap for snp:  snp112 
+	>>>> 	Heatmap for snp:  snp239 
+	>>>> 	Heatmap for snp:  snp026 
+>>>> Moving files to output folders... 
+>>>> Creating html rmarkdown report... 
+	>>>> 	Heatmap for snp:  snp394 
+	>>>> Creating chord diagrams for chromosome vs SNPs... 
+	>>>> 	Heatmap for snp:  snp149 
+	>>>> 	Heatmap for snp:  snp325 
+>>>> Creating html rmarkdown report... 
+	>>>> 	Heatmap for snp:  snp260 
+>>>> MultiGWAS 1.0 
+>>>> Working dir:  /home/lg/agrosavia/SIMULATION/tests/five-tools/domRandom-n50-MLM/n50/run18 
+>>>> Processing config file... 
+>>>> Loading libraries and setting globals...
+	>>>> 	Heatmap for snp:  snp165 
+	>>>> 	Heatmap for snp:  snp101 
+	>>>> 	Heatmap for snp:  snp157 
+	>>>> Creating chord diagrams for chromosome vs SNPs... 
+	>>>> Creating chord diagrams for chromosome vs SNPs... 
+	>>>> 	Heatmap for snp:  snp386 
+>>>> Moving files to output folders... 
+>>>> Reading configuration file... 
+	>>>> ----------------------------------------------------------- 
+	>>>> Summary of configuration parameters: 
+	>>>> ----------------------------------------------------------- 
+	>>>> ploidy             : 4 
+	>>>> genotypeFile       : genotype-simulated-SeqBreed-tetra.csv 
+	>>>> phenotypeFile      : phenotype-simulated-SeqBreed-tetra.csv 
+	>>>> genotypeFormat     : kmatrix 
+	>>>> mapFile            : genotype-simulated-SeqBreed-tetra-MAP.csv 
+	>>>> significanceLevel  : 0.05 
+	>>>> correctionMethod   : Bonferroni 
+	>>>> gwasModel          : naive 
+	>>>> nBest              : 10 
+	>>>> filtering          : FALSE 
+	>>>> MAF                : 0.01 
+	>>>> MIND               : 0.1 
+	>>>> GENO               : 0.1 
+	>>>> HWE                : 1e-50 
+	>>>> tools              : gwaspoly shesis gapit plink 
+	>>>> geneAction         : dominant 
+	>>>> paramsFilename     : sim.config 
+	>>>> traitType          : quantitative 
+	>>>> trait              : TraitX 
+	>>>> traitConfigList    : TraitX.config 
+	>>>> ----------------------------------------------------------- 
+>>>> Moving files to output folders... 
+>>>> Processing params file:  TraitX.config 
+>>>> Creating html rmarkdown report... 
+>>>> Preprocessing genomic data (Filtering and Formating data)... 
+>>>> Converting genotype format in  kmatrix  to  GWASpoly format... 
+	>>>> 	Heatmap for snp:  snp242 
+>>>> MultiGWAS 1.0 
+>>>> Working dir:  /home/lg/agrosavia/SIMULATION/tests/five-tools/domRandom-n50-MLM/n50/run16 
+>>>> Processing config file... 
+>>>> Loading libraries and setting globals...
+>>>> MultiGWAS 1.0 
+>>>> Working dir:  /home/lg/agrosavia/SIMULATION/tests/five-tools/domRandom-n50-MLM/n50/run20 
+>>>> Processing config file... 
+>>>> Loading libraries and setting globals...
+	>>>> Checking valid markers... 
+	>>>> Creating chord diagrams for chromosome vs SNPs... 
+	>>>> Filtering no polymorohic markers (MAF > THRESHOLD) ... 
+>>>> Creating html rmarkdown report... 
+>>>> Moving files to output folders... 
+>>>> Reading configuration file... 
+	>>>> Checking minor allele frecuency, MAF= 0 
+	>>>> Number of polymorphic markers: 400 
+ 
+>>>> Creating html rmarkdown report... 
+	>>>> Without filters 
+	>>>> Selecting common markers and samples names... 
+>>>> Reading configuration file... 
+	>>>> ----------------------------------------------------------- 
+	>>>> Filtering by common markers and samples... 
+	>>>> Summary of configuration parameters: 
+	>>>> ----------------------------------------------------------- 
+	>>>> ploidy             : 4 
+	>>>> genotypeFile       : genotype-simulated-SeqBreed-tetra.csv 
+	>>>> phenotypeFile      : phenotype-simulated-SeqBreed-tetra.csv 
+	>>>> genotypeFormat     : kmatrix 
+	>>>> mapFile            : genotype-simulated-SeqBreed-tetra-MAP.csv 
+	>>>> significanceLevel  : 0.05 
+	>>>> correctionMethod   : Bonferroni 
+	>>>> gwasModel          : naive 
+	>>>> nBest              : 10 
+	>>>> filtering          : FALSE 
+	>>>> MAF                : 0.01 
+	>>>> MIND               : 0.1 
+	>>>> GENO               : 0.1 
+	>>>> HWE                : 1e-50 
+	>>>> tools              : gwaspoly shesis gapit plink 
+	>>>> geneAction         : dominant 
+	>>>> paramsFilename     : sim.config 
+	>>>> traitType          : quantitative 
+	>>>> trait              : TraitX 
+	>>>> traitConfigList    : TraitX.config 
+	>>>> ----------------------------------------------------------- 
+>>>> Processing params file:  TraitX.config 
+>>>> Preprocessing genomic data (Filtering and Formating data)... 
+>>>> Converting genotype format in  kmatrix  to  GWASpoly format... 
+	>>>> ----------------------------------------------------------- 
+	>>>> Summary of configuration parameters: 
+	>>>> ----------------------------------------------------------- 
+	>>>> ploidy             : 4 
+	>>>> genotypeFile       : genotype-simulated-SeqBreed-tetra.csv 
+	>>>> phenotypeFile      : phenotype-simulated-SeqBreed-tetra.csv 
+	>>>> genotypeFormat     : kmatrix 
+	>>>> mapFile            : genotype-simulated-SeqBreed-tetra-MAP.csv 
+	>>>> significanceLevel  : 0.05 
+	>>>> correctionMethod   : Bonferroni 
+	>>>> gwasModel          : naive 
+	>>>> nBest              : 10 
+	>>>> filtering          : FALSE 
+	>>>> MAF                : 0.01 
+	>>>> MIND               : 0.1 
+	>>>> GENO               : 0.1 
+	>>>> HWE                : 1e-50 
+	>>>> tools              : gwaspoly shesis gapit plink 
+	>>>> geneAction         : dominant 
+	>>>> paramsFilename     : sim.config 
+	>>>> traitType          : quantitative 
+	>>>> trait              : TraitX 
+	>>>> traitConfigList    : TraitX.config 
+	>>>> ----------------------------------------------------------- 
+>>>> Processing params file:  TraitX.config 
+>>>> Preprocessing genomic data (Filtering and Formating data)... 
+>>>> MultiGWAS 1.0 
+>>>> Working dir:  /home/lg/agrosavia/SIMULATION/tests/five-tools/domRandom-n50-MLM/n50/run19 
+>>>> Processing config file... 
+>>>> Loading libraries and setting globals...
+>>>> Converting genotype format in  kmatrix  to  GWASpoly format... 
+	>>>> Evaluating following trait:  TraitX 
+	>>>> N = 153 individuals with phenotypic and genotypic information 
+ 
+	>>>> Converting phenotype to PLINK format (.ped, .map, .bim, .fam, .bed)... 
+	>>>> Checking valid markers... 
+	>>>> Converting geno/pheno to GAPIT format (.vcf)... 
+	>>>> Checking valid markers... 
+	>>>> Filtering no polymorohic markers (MAF > THRESHOLD) ... 
+>>>> Moving files to output folders... 
+>>>> Creating html rmarkdown report... 
+	>>>> Filtering no polymorohic markers (MAF > THRESHOLD) ... 
+>>>> Reading configuration file... 
+>>>> Moving files to output folders... 
+	>>>> Checking minor allele frecuency, MAF= 0 
+	>>>> Number of polymorphic markers: 400 
+ 
+>>>> Preparing to execute in parallel the GWAS tools: 
+	>>>> Running  gwaspoly 
+	>>>> Running  shesis 
+	>>>> Running  gapit 
+	>>>> Running  plink 
+	>>>> Without filters 
+	>>>> Selecting common markers and samples names... 
+	>>>> Filtering by common markers and samples... 
+	>>>> ----------------------------------------------------------- 
+	>>>> Summary of configuration parameters: 
+	>>>> ----------------------------------------------------------- 
+	>>>> ploidy             : 4 
+	>>>> genotypeFile       : genotype-simulated-SeqBreed-tetra.csv 
+	>>>> phenotypeFile      : phenotype-simulated-SeqBreed-tetra.csv 
+	>>>> genotypeFormat     : kmatrix 
+	>>>> mapFile            : genotype-simulated-SeqBreed-tetra-MAP.csv 
+	>>>> significanceLevel  : 0.05 
+	>>>> correctionMethod   : Bonferroni 
+	>>>> gwasModel          : naive 
+	>>>> nBest              : 10 
+	>>>> filtering          : FALSE 
+	>>>> MAF                : 0.01 
+	>>>> MIND               : 0.1 
+	>>>> GENO               : 0.1 
+	>>>> HWE                : 1e-50 
+	>>>> tools              : gwaspoly shesis gapit plink 
+	>>>> geneAction         : dominant 
+	>>>> paramsFilename     : sim.config 
+	>>>> traitType          : quantitative 
+	>>>> trait              : TraitX 
+	>>>> traitConfigList    : TraitX.config 
+	>>>> ----------------------------------------------------------- 
+>>>> Processing params file:  TraitX.config 
+>>>> MultiGWAS 1.0 
+>>>> Working dir:  /home/lg/agrosavia/SIMULATION/tests/five-tools/domRandom-n50-MLM/n50/run21 
+>>>> Processing config file... 
+>>>> Loading libraries and setting globals...
+	>>>> Checking minor allele frecuency, MAF= 0 
+	>>>> Number of polymorphic markers: 400 
+ 
+>>>> Preprocessing genomic data (Filtering and Formating data)... 
+>>>> Converting genotype format in  kmatrix  to  GWASpoly format... 
+	>>>> Without filters 
+	>>>> Selecting common markers and samples names... 
+	>>>> Filtering by common markers and samples... 
+>>>> MultiGWAS 1.0 
+>>>> Working dir:  /home/lg/agrosavia/SIMULATION/tests/five-tools/domRandom-n50-MLM/n50/run17 
+>>>> Processing config file... 
+	>>>> Evaluating following trait:  TraitX 
+	>>>> N = 153 individuals with phenotypic and genotypic information 
+ 
+	>>>> Converting phenotype to PLINK format (.ped, .map, .bim, .fam, .bed)... 
+>>>> Loading libraries and setting globals...
+	>>>> Checking valid markers... 
+	>>>> Converting geno/pheno to GAPIT format (.vcf)... 
+	>>>> Evaluating following trait:  TraitX 
+	>>>> N = 153 individuals with phenotypic and genotypic information 
+ 
+	>>>> Converting phenotype to PLINK format (.ped, .map, .bim, .fam, .bed)... 
+>>>> Moving files to output folders... 
+	>>>> Filtering no polymorohic markers (MAF > THRESHOLD) ... 
+	>>>> Converting geno/pheno to GAPIT format (.vcf)... 
+>>>> Reading configuration file... 
+	>>>> Checking minor allele frecuency, MAF= 0 
+>>>> Preparing to execute in parallel the GWAS tools: 
+	>>>> Running  gwaspoly 
+	>>>> Running  shesis 
+	>>>> Running  gapit 
+	>>>> Running  plink 
+	>>>> Number of polymorphic markers: 400 
+ 
+	>>>> Without filters 
+	>>>> Selecting common markers and samples names... 
+>>>> MultiGWAS 1.0 
+>>>> Working dir:  /home/lg/agrosavia/SIMULATION/tests/five-tools/domRandom-n50-MLM/n50/run15 
+>>>> Processing config file... 
+	>>>> ----------------------------------------------------------- 
+	>>>> Filtering by common markers and samples... 
+>>>> Loading libraries and setting globals...
+	>>>> Summary of configuration parameters: 
+	>>>> ----------------------------------------------------------- 
+	>>>> ploidy             : 4 
+	>>>> genotypeFile       : genotype-simulated-SeqBreed-tetra.csv 
+	>>>> phenotypeFile      : phenotype-simulated-SeqBreed-tetra.csv 
+	>>>> genotypeFormat     : kmatrix 
+	>>>> mapFile            : genotype-simulated-SeqBreed-tetra-MAP.csv 
+	>>>> significanceLevel  : 0.05 
+	>>>> correctionMethod   : Bonferroni 
+	>>>> gwasModel          : naive 
+	>>>> nBest              : 10 
+	>>>> filtering          : FALSE 
+	>>>> MAF                : 0.01 
+	>>>> MIND               : 0.1 
+	>>>> GENO               : 0.1 
+	>>>> HWE                : 1e-50 
+	>>>> tools              : gwaspoly shesis gapit plink 
+	>>>> geneAction         : dominant 
+	>>>> paramsFilename     : sim.config 
+	>>>> traitType          : quantitative 
+	>>>> trait              : TraitX 
+	>>>> traitConfigList    : TraitX.config 
+	>>>> ----------------------------------------------------------- 
+>>>> Processing params file:  TraitX.config 
+>>>> Reading configuration file... 
+>>>> Preprocessing genomic data (Filtering and Formating data)... 
+>>>> Converting genotype format in  kmatrix  to  GWASpoly format... 
+>>>> Preparing to execute in parallel the GWAS tools: 
+	>>>> Running  gwaspoly 
+	>>>> Running  shesis 
+	>>>> Running  gapit 
+	>>>> Running  plink 
+	>>>> ----------------------------------------------------------- 
+	>>>> Summary of configuration parameters: 
+	>>>> ----------------------------------------------------------- 
+	>>>> ploidy             : 4 
+	>>>> genotypeFile       : genotype-simulated-SeqBreed-tetra.csv 
+	>>>> phenotypeFile      : phenotype-simulated-SeqBreed-tetra.csv 
+	>>>> genotypeFormat     : kmatrix 
+	>>>> mapFile            : genotype-simulated-SeqBreed-tetra-MAP.csv 
+	>>>> significanceLevel  : 0.05 
+	>>>> correctionMethod   : Bonferroni 
+	>>>> gwasModel          : naive 
+	>>>> nBest              : 10 
+	>>>> filtering          : FALSE 
+	>>>> MAF                : 0.01 
+	>>>> MIND               : 0.1 
+	>>>> GENO               : 0.1 
+	>>>> HWE                : 1e-50 
+	>>>> tools              : gwaspoly shesis gapit plink 
+	>>>> geneAction         : dominant 
+	>>>> paramsFilename     : sim.config 
+	>>>> traitType          : quantitative 
+	>>>> trait              : TraitX 
+	>>>> traitConfigList    : TraitX.config 
+	>>>> ----------------------------------------------------------- 
+>>>> Processing params file:  TraitX.config 
+>>>> Preprocessing genomic data (Filtering and Formating data)... 
+	>>>> Evaluating following trait:  TraitX 
+	>>>> N = 153 individuals with phenotypic and genotypic information 
+ 
+	>>>> Converting phenotype to PLINK format (.ped, .map, .bim, .fam, .bed)... 
+>>>> Converting genotype format in  kmatrix  to  GWASpoly format... 
+	>>>> Checking valid markers... 
+	>>>> Converting geno/pheno to GAPIT format (.vcf)... 
+	>>>> Filtering no polymorohic markers (MAF > THRESHOLD) ... 
+	>>>> Checking valid markers... 
+>>>> Reading configuration file... 
+	>>>> ----------------------------------------------------------- 
+	>>>> Summary of configuration parameters: 
+	>>>> ----------------------------------------------------------- 
+	>>>> ploidy             : 4 
+	>>>> genotypeFile       : genotype-simulated-SeqBreed-tetra.csv 
+	>>>> phenotypeFile      : phenotype-simulated-SeqBreed-tetra.csv 
+	>>>> genotypeFormat     : kmatrix 
+	>>>> mapFile            : genotype-simulated-SeqBreed-tetra-MAP.csv 
+	>>>> significanceLevel  : 0.05 
+	>>>> correctionMethod   : Bonferroni 
+	>>>> gwasModel          : naive 
+	>>>> nBest              : 10 
+	>>>> filtering          : FALSE 
+	>>>> MAF                : 0.01 
+	>>>> MIND               : 0.1 
+	>>>> GENO               : 0.1 
+	>>>> HWE                : 1e-50 
+	>>>> tools              : gwaspoly shesis gapit plink 
+	>>>> geneAction         : dominant 
+	>>>> paramsFilename     : sim.config 	>>>> Filtering no polymorohic markers (MAF > THRESHOLD) ... 
+
+	>>>> traitType          : quantitative 
+	>>>> trait              : TraitX 
+	>>>> traitConfigList    : TraitX.config 
+	>>>> ----------------------------------------------------------- 
+>>>> Preparing to execute in parallel the GWAS tools: 
+	>>>> Running  gwaspoly 
+	>>>> Running  shesis 
+	>>>> Running  gapit 
+	>>>> Running  plink 
+>>>> Processing params file:  TraitX.config 
+>>>> Preprocessing genomic data (Filtering and Formating data)... 
+	>>>> Checking minor allele frecuency, MAF= 0 
+	>>>> Number of polymorphic markers: 400 
+ 
+>>>> Converting genotype format in  kmatrix  to  GWASpoly format... 
+	>>>> Without filters 
+	>>>> Selecting common markers and samples names... 
+	>>>> Filtering by common markers and samples... 
+	>>>> Checking minor allele frecuency, MAF= 0 
+	>>>> Number of polymorphic markers: 400 
+ 
+	>>>> Checking valid markers... 
+	>>>> Without filters 
+	>>>> Selecting common markers and samples names... 
+	>>>> Filtering by common markers and samples... 
+	>>>> Filtering no polymorohic markers (MAF > THRESHOLD) ... 
+	>>>> Evaluating following trait:  TraitX 
+	>>>> N = 153 individuals with phenotypic and genotypic information 
+ 
+	>>>> Converting phenotype to PLINK format (.ped, .map, .bim, .fam, .bed)... 
+	>>>> Converting geno/pheno to GAPIT format (.vcf)... 
+	>>>> Evaluating following trait:  TraitX 
+	>>>> N = 153 individuals with phenotypic and genotypic information 
+ 
+	>>>> Converting phenotype to PLINK format (.ped, .map, .bim, .fam, .bed)... 
+	>>>> Checking minor allele frecuency, MAF= 0 
+	>>>> Number of polymorphic markers: 400 
+ 
+	>>>> Without filters 
+	>>>> Selecting common markers and samples names... 
+	>>>> Filtering by common markers and samples... 
+	>>>> Converting geno/pheno to GAPIT format (.vcf)... 
+>>>> Preparing to execute in parallel the GWAS tools: 
+	>>>> Running  gwaspoly 
+	>>>> Running  shesis 
+	>>>> Running  gapit 
+	>>>> Running  plink 
+	>>>> Evaluating following trait:  TraitX 
+	>>>> N = 153 individuals with phenotypic and genotypic information 
+ 
+	>>>> Converting phenotype to PLINK format (.ped, .map, .bim, .fam, .bed)... 
+	>>>> Converting geno/pheno to GAPIT format (.vcf)... 
+>>>> Preparing to execute in parallel the GWAS tools: 
+	>>>> Running  gwaspoly 
+	>>>> Running  shesis 
+	>>>> Running  gapit 
+	>>>> Running  plink 
+>>>> Preparing to execute in parallel the GWAS tools: 
+	>>>> Running  gwaspoly 
+	>>>> Running  shesis 
+	>>>> Running  gapit 
+	>>>> Running  plink 
+The upper bound of groups is too high. It was set to the size of kinship!
+The lower bound of groups is too high. It was set to the size of kinship!
+The upper bound of groups is too high. It was set to the size of kinship!
+The lower bound of groups is too high. It was set to the size of kinship!
+The upper bound of groups is too high. It was set to the size of kinship!
+The lower bound of groups is too high. It was set to the size of kinship!
+The upper bound of groups is too high. It was set to the size of kinship!
+The lower bound of groups is too high. It was set to the size of kinship!
+The upper bound of groups is too high. It was set to the size of kinship!
+The lower bound of groups is too high. It was set to the size of kinship!
+The upper bound of groups is too high. It was set to the size of kinship!
+The lower bound of groups is too high. It was set to the size of kinship!
+The upper bound of groups is too high. It was set to the size of kinship!
+The lower bound of groups is too high. It was set to the size of kinship!
+>>>> Selecting best gene action model for all tools... 
+	>>>> Best gene action for:  GWASpoly 
+	>>>> Best gene action for:  SHEsis 
+	>>>> Best gene action for:  GAPIT 
+	>>>> Best gene action for:  PLINK 
+>>>> Creating reports (Table, Venn diagrams, Manhattan&QQ plots, SNP profiles)... 
+	>>>> Creating tables and plots with summary results for  naive  model... 
+	>>>> Writing input config parameters... 
+	>>>> Writing tables with best ranked and signficative SNPs...  
+	>>>> Writing Venn diagram for best and significative SNPs... 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+>>>> Selecting best gene action model for all tools... 
+	>>>> Best gene action for:  GWASpoly 
+	>>>> Best gene action for:  SHEsis 
+	>>>> Best gene action for:  GAPIT 
+	>>>> Best gene action for:  PLINK 
+>>>> Creating reports (Table, Venn diagrams, Manhattan&QQ plots, SNP profiles)... 
+	>>>> Writing Manhattan and QQ plots... 
+	>>>> Creating tables and plots with summary results for  naive  model... 
+	>>>> Writing input config parameters... 
+	>>>> Writing tables with best ranked and signficative SNPs...  
+	>>>> Writing Venn diagram for best and significative SNPs... 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+>>>> Selecting best gene action model for all tools... 
+	>>>> Best gene action for:  GWASpoly 
+	>>>> Creating heatmaps for best ranked SNPs... 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+	>>>> Best gene action for:  SHEsis 
+	>>>> Best gene action for:  GAPIT 
+	>>>> 	Heatmap for snp:  snp354 
+	>>>> Best gene action for:  PLINK 
+>>>> Creating reports (Table, Venn diagrams, Manhattan&QQ plots, SNP profiles)... 
+	>>>> Creating tables and plots with summary results for  naive  model... 
+	>>>> Writing input config parameters... 
+	>>>> Writing Manhattan and QQ plots... 
+	>>>> Writing tables with best ranked and signficative SNPs...  
+	>>>> Writing Venn diagram for best and significative SNPs... 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+>>>> Selecting best gene action model for all tools... 
+	>>>> Best gene action for:  GWASpoly 
+	>>>> Best gene action for:  SHEsis 
+	>>>> Best gene action for:  GAPIT 
+	>>>> Best gene action for:  PLINK 
+>>>> Creating reports (Table, Venn diagrams, Manhattan&QQ plots, SNP profiles)... 
+	>>>> Creating heatmaps for best ranked SNPs... 
+	>>>> Creating tables and plots with summary results for  naive  model... 
+	>>>> Writing input config parameters... 
+	>>>> 	Heatmap for snp:  snp345 
+	>>>> 	Heatmap for snp:  snp341 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+	>>>> Writing Manhattan and QQ plots... 
+	>>>> Writing tables with best ranked and signficative SNPs...  
+	>>>> Writing Venn diagram for best and significative SNPs... 
+	>>>> 	Heatmap for snp:  snp235 
+	>>>> 	Heatmap for snp:  snp382 
+	>>>> 	Heatmap for snp:  snp323 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+	>>>> 	Heatmap for snp:  snp331 
+	>>>> 	Heatmap for snp:  snp203 
+>>>> Selecting best gene action model for all tools... 
+	>>>> Best gene action for:  GWASpoly 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+	>>>> Best gene action for:  SHEsis 
+	>>>> Best gene action for:  GAPIT 
+	>>>> Best gene action for:  PLINK 
+>>>> Creating reports (Table, Venn diagrams, Manhattan&QQ plots, SNP profiles)... 
+	>>>> Creating tables and plots with summary results for  naive  model... 
+	>>>> Writing input config parameters... 
+	>>>> Creating heatmaps for best ranked SNPs... 
+	>>>> 	Heatmap for snp:  snp316 
+	>>>> Writing Manhattan and QQ plots... 
+	>>>> Writing tables with best ranked and signficative SNPs...  
+	>>>> Writing Venn diagram for best and significative SNPs... 
+	>>>> 	Heatmap for snp:  snp216 
+	>>>> 	Heatmap for snp:  snp063 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+	>>>> 	Heatmap for snp:  snp137 
+	>>>> 	Heatmap for snp:  snp225 
+	>>>> 	Heatmap for snp:  snp264 
+	>>>> 	Heatmap for snp:  snp265 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+	>>>> 	Heatmap for snp:  snp074 
+	>>>> Creating heatmaps for best ranked SNPs... 
+	>>>> Writing Manhattan and QQ plots... 
+>>>> Selecting best gene action model for all tools... 
+	>>>> Best gene action for:  GWASpoly 
+	>>>> 	Heatmap for snp:  snp383 
+	>>>> Best gene action for:  SHEsis 
+	>>>> Best gene action for:  GAPIT 
+	>>>> Best gene action for:  PLINK 
+>>>> Creating reports (Table, Venn diagrams, Manhattan&QQ plots, SNP profiles)... 
+	>>>> 	Heatmap for snp:  snp333 
+	>>>> Creating tables and plots with summary results for  naive  model... 
+	>>>> Writing input config parameters... 
+	>>>> 	Heatmap for snp:  snp047 
+	>>>> Writing tables with best ranked and signficative SNPs...  
+	>>>> Writing Venn diagram for best and significative SNPs... 
+	>>>> 	Heatmap for snp:  snp060 
+	>>>> 	Heatmap for snp:  snp074 
+>>>> Selecting best gene action model for all tools... 
+	>>>> Best gene action for:  GWASpoly 
+	>>>> Best gene action for:  SHEsis 
+	>>>> Best gene action for:  GAPIT 
+	>>>> Best gene action for:  PLINK 
+>>>> Creating reports (Table, Venn diagrams, Manhattan&QQ plots, SNP profiles)... 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+	>>>> Creating tables and plots with summary results for  naive  model... 
+	>>>> 	Heatmap for snp:  snp296 
+	>>>> Writing input config parameters... 
+	>>>> 	Heatmap for snp:  snp314 
+	>>>> Writing tables with best ranked and signficative SNPs...  
+	>>>> Writing Venn diagram for best and significative SNPs... 
+	>>>> Creating heatmaps for best ranked SNPs... 
+	>>>> 	Heatmap for snp:  snp098 
+	>>>> 	Heatmap for snp:  snp386 
+	>>>> 	Heatmap for snp:  snp385 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+	>>>> Creating chord diagrams for chromosome vs SNPs... 
+	>>>> 	Heatmap for snp:  snp127 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+	>>>> 	Heatmap for snp:  snp231 
+	>>>> 	Heatmap for snp:  snp081 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+	>>>> Writing Manhattan and QQ plots... 
+	>>>> 	Heatmap for snp:  snp365 
+	>>>> Writing Manhattan and QQ plots... 
+	>>>> 	Heatmap for snp:  snp170 
+	>>>> 	Heatmap for snp:  snp328 
+	>>>> 	Heatmap for snp:  snp195 
+	>>>> 	Heatmap for snp:  snp389 
+	>>>> 	Heatmap for snp:  snp391 
+	>>>> Creating heatmaps for best ranked SNPs... 
+	>>>> 	Heatmap for snp:  snp354 
+	>>>> Creating heatmaps for best ranked SNPs... 
+	>>>> 	Heatmap for snp:  snp262 
+	>>>> 	Heatmap for snp:  snp298 
+	>>>> 	Heatmap for snp:  snp240 
+	>>>> Creating chord diagrams for chromosome vs SNPs... 
+	>>>> 	Heatmap for snp:  snp240 
+	>>>> 	Heatmap for snp:  snp023 
+	>>>> 	Heatmap for snp:  snp007 
+	>>>> 	Heatmap for snp:  snp398 
+>>>> Creating html rmarkdown report... 
+	>>>> 	Heatmap for snp:  snp167 
+	>>>> 	Heatmap for snp:  snp123 
+	>>>> Creating chord diagrams for chromosome vs SNPs... 
+	>>>> 	Heatmap for snp:  snp269 
+	>>>> 	Heatmap for snp:  snp251 
+	>>>> 	Heatmap for snp:  snp280 
+	>>>> Creating chord diagrams for chromosome vs SNPs... 
+	>>>> 	Heatmap for snp:  snp190 
+	>>>> 	Heatmap for snp:  snp223 
+	>>>> 	Heatmap for snp:  snp041 
+	>>>> 	Heatmap for snp:  snp104 
+	>>>> 	Heatmap for snp:  snp188 
+	>>>> 	Heatmap for snp:  snp029 
+>>>> Creating html rmarkdown report... 
+>>>> Moving files to output folders... 
+	>>>> 	Heatmap for snp:  snp330 
+	>>>> Creating chord diagrams for chromosome vs SNPs... 
+	>>>> 	Heatmap for snp:  snp050 
+>>>> Creating html rmarkdown report... 
+>>>> MultiGWAS 1.0 
+	>>>> 	Heatmap for snp:  snp203 
+>>>> Working dir:  /home/lg/agrosavia/SIMULATION/tests/five-tools/domRandom-n50-MLM/n50/run25 
+>>>> Processing config file... 
+>>>> Loading libraries and setting globals...
+	>>>> 	Heatmap for snp:  snp342 
+	>>>> 	Heatmap for snp:  snp176 
+>>>> Creating html rmarkdown report... 
+>>>> Moving files to output folders... 
+	>>>> 	Heatmap for snp:  snp179 
+	>>>> 	Heatmap for snp:  snp235 
+>>>> Reading configuration file... 
+	>>>> 	Heatmap for snp:  snp143 
+>>>> Moving files to output folders... 
+>>>> MultiGWAS 1.0 
+>>>> Working dir:  /home/lg/agrosavia/SIMULATION/tests/five-tools/domRandom-n50-MLM/n50/run27 
+>>>> Processing config file... 
+	>>>> ----------------------------------------------------------- 
+	>>>> Summary of configuration parameters: 
+	>>>> ----------------------------------------------------------- 
+	>>>> ploidy             : 4 
+	>>>> genotypeFile       : genotype-simulated-SeqBreed-tetra.csv 
+	>>>> phenotypeFile      : phenotype-simulated-SeqBreed-tetra.csv 
+	>>>> genotypeFormat     : kmatrix 
+	>>>> mapFile            : genotype-simulated-SeqBreed-tetra-MAP.csv 
+	>>>> significanceLevel  : 0.05 
+	>>>> correctionMethod   : Bonferroni 
+	>>>> gwasModel          : naive 
+	>>>> nBest              : 10 
+	>>>> filtering          : FALSE 
+	>>>> MAF                : 0.01 
+	>>>> MIND               : 0.1 
+	>>>> GENO               : 0.1 
+	>>>> HWE                : 1e-50 
+	>>>> tools              : gwaspoly shesis gapit plink 
+	>>>> geneAction         : dominant 
+	>>>> paramsFilename     : sim.config 
+	>>>> traitType          : quantitative 
+	>>>> trait              : TraitX 
+	>>>> traitConfigList    : TraitX.config 
+	>>>> ----------------------------------------------------------- 
+>>>> Loading libraries and setting globals...
+>>>> Processing params file:  TraitX.config 
+>>>> Preprocessing genomic data (Filtering and Formating data)... 
+	>>>> 	Heatmap for snp:  snp159 
+>>>> Converting genotype format in  kmatrix  to  GWASpoly format... 
+>>>> Creating html rmarkdown report... 
+	>>>> Creating chord diagrams for chromosome vs SNPs... 
+>>>> MultiGWAS 1.0 
+>>>> Working dir:  /home/lg/agrosavia/SIMULATION/tests/five-tools/domRandom-n50-MLM/n50/run26 
+>>>> Processing config file... 
+>>>> Loading libraries and setting globals...
+	>>>> 	Heatmap for snp:  snp327 
+>>>> Moving files to output folders... 
+	>>>> Checking valid markers... 
+	>>>> Filtering no polymorohic markers (MAF > THRESHOLD) ... 
+	>>>> Creating chord diagrams for chromosome vs SNPs... 
+>>>> Reading configuration file... 
+>>>> MultiGWAS 1.0 
+>>>> Working dir:  /home/lg/agrosavia/SIMULATION/tests/five-tools/domRandom-n50-MLM/n50/run23 
+>>>> Processing config file... 
+>>>> Loading libraries and setting globals...
+	>>>> ----------------------------------------------------------- 
+	>>>> Summary of configuration parameters: 
+	>>>> ----------------------------------------------------------- 
+	>>>> ploidy             : 4 
+	>>>> genotypeFile       : genotype-simulated-SeqBreed-tetra.csv 
+	>>>> phenotypeFile      : phenotype-simulated-SeqBreed-tetra.csv 
+	>>>> genotypeFormat     : kmatrix 
+	>>>> mapFile            : genotype-simulated-SeqBreed-tetra-MAP.csv 
+	>>>> significanceLevel  : 0.05 
+	>>>> correctionMethod   : Bonferroni 
+	>>>> gwasModel          : naive 
+	>>>> nBest              : 10 
+	>>>> filtering          : FALSE 
+	>>>> MAF                : 0.01 
+	>>>> MIND               : 0.1 
+	>>>> GENO               : 0.1 
+	>>>> HWE                : 1e-50 
+	>>>> tools              : gwaspoly shesis gapit plink 
+	>>>> geneAction         : dominant 
+	>>>> paramsFilename     : sim.config 
+	>>>> traitType          : quantitative 
+	>>>> trait              : TraitX 
+	>>>> traitConfigList    : TraitX.config 
+	>>>> ----------------------------------------------------------- 
+>>>> Processing params file:  TraitX.config 
+>>>> Preprocessing genomic data (Filtering and Formating data)... 
+	>>>> Checking minor allele frecuency, MAF= 0 
+	>>>> Number of polymorphic markers: 400 
+ 
+>>>> Converting genotype format in  kmatrix  to  GWASpoly format... 
+	>>>> Without filters 
+	>>>> Selecting common markers and samples names... 
+>>>> Reading configuration file... 
+	>>>> Filtering by common markers and samples... 
+>>>> Moving files to output folders... 
+	>>>> ----------------------------------------------------------- 
+	>>>> Summary of configuration parameters: 
+	>>>> ----------------------------------------------------------- 
+	>>>> ploidy             : 4 
+	>>>> genotypeFile       : genotype-simulated-SeqBreed-tetra.csv 
+	>>>> phenotypeFile      : phenotype-simulated-SeqBreed-tetra.csv 
+	>>>> genotypeFormat     : kmatrix 
+	>>>> mapFile            : genotype-simulated-SeqBreed-tetra-MAP.csv 
+	>>>> significanceLevel  : 0.05 
+	>>>> correctionMethod   : Bonferroni 
+	>>>> gwasModel          : naive 
+	>>>> nBest              : 10 
+	>>>> filtering          : FALSE 
+	>>>> MAF                : 0.01 
+	>>>> MIND               : 0.1 
+	>>>> GENO               : 0.1 
+	>>>> HWE                : 1e-50 
+	>>>> tools              : gwaspoly shesis gapit plink 
+	>>>> geneAction         : dominant 
+	>>>> paramsFilename     : sim.config 
+	>>>> traitType          : quantitative 
+	>>>> trait              : TraitX 
+	>>>> traitConfigList    : TraitX.config 
+	>>>> ----------------------------------------------------------- 
+>>>> Processing params file:  TraitX.config 
+>>>> Preprocessing genomic data (Filtering and Formating data)... 
+>>>> Converting genotype format in  kmatrix  to  GWASpoly format... 
+	>>>> Checking valid markers... 
+	>>>> Evaluating following trait:  TraitX 
+	>>>> N = 153 individuals with phenotypic and genotypic information 
+ 
+	>>>> Converting phenotype to PLINK format (.ped, .map, .bim, .fam, .bed)... 
+	>>>> Filtering no polymorohic markers (MAF > THRESHOLD) ... 
+>>>> MultiGWAS 1.0 
+>>>> Working dir:  /home/lg/agrosavia/SIMULATION/tests/five-tools/domRandom-n50-MLM/n50/run28 
+>>>> Processing config file... 
+>>>> Loading libraries and setting globals...
+>>>> Creating html rmarkdown report... 
+>>>> Reading configuration file... 
+	>>>> Converting geno/pheno to GAPIT format (.vcf)... 
+	>>>> Checking valid markers... 
+	>>>> ----------------------------------------------------------- 
+	>>>> Summary of configuration parameters: 
+	>>>> ----------------------------------------------------------- 
+	>>>> ploidy             : 4 
+	>>>> genotypeFile       : genotype-simulated-SeqBreed-tetra.csv 
+	>>>> phenotypeFile      : phenotype-simulated-SeqBreed-tetra.csv 
+	>>>> genotypeFormat     : kmatrix 
+	>>>> mapFile            : genotype-simulated-SeqBreed-tetra-MAP.csv 
+	>>>> significanceLevel  : 0.05 
+	>>>> correctionMethod   : Bonferroni 
+	>>>> gwasModel          : naive 
+	>>>> nBest              : 10 
+	>>>> filtering          : FALSE 
+	>>>> MAF                : 0.01 
+	>>>> MIND               : 0.1 
+	>>>> GENO               : 0.1 
+	>>>> HWE                : 1e-50 
+	>>>> tools              : gwaspoly shesis gapit plink 
+	>>>> geneAction         : dominant 
+	>>>> paramsFilename     : sim.config 
+	>>>> traitType          : quantitative 
+	>>>> trait              : TraitX 
+	>>>> traitConfigList    : TraitX.config 
+	>>>> ----------------------------------------------------------- 
+>>>> Processing params file:  TraitX.config 
+	>>>> Filtering no polymorohic markers (MAF > THRESHOLD) ... 
+>>>> Preprocessing genomic data (Filtering and Formating data)... 
+>>>> Converting genotype format in  kmatrix  to  GWASpoly format... 
+	>>>> Checking minor allele frecuency, MAF= 0 
+	>>>> Number of polymorphic markers: 400 
+ 
+	>>>> Without filters 
+	>>>> Selecting common markers and samples names... 
+	>>>> Filtering by common markers and samples... 
+>>>> Preparing to execute in parallel the GWAS tools: 
+	>>>> Running  gwaspoly 
+	>>>> Running  shesis 
+	>>>> Running  gapit 
+	>>>> Running  plink 
+	>>>> Checking valid markers... 
+	>>>> Checking minor allele frecuency, MAF= 0 
+	>>>> Number of polymorphic markers: 400 
+ 
+	>>>> Without filters 
+	>>>> Selecting common markers and samples names... 
+	>>>> Filtering by common markers and samples... 
+>>>> Creating html rmarkdown report... 
+	>>>> Filtering no polymorohic markers (MAF > THRESHOLD) ... 
+>>>> Reading configuration file... 
+	>>>> Evaluating following trait:  TraitX 
+	>>>> N = 153 individuals with phenotypic and genotypic information 
+ 
+	>>>> Converting phenotype to PLINK format (.ped, .map, .bim, .fam, .bed)... 
+	>>>> ----------------------------------------------------------- 
+	>>>> Summary of configuration parameters: 
+	>>>> ----------------------------------------------------------- 
+	>>>> ploidy             : 4 
+	>>>> genotypeFile       : genotype-simulated-SeqBreed-tetra.csv 
+	>>>> phenotypeFile      : phenotype-simulated-SeqBreed-tetra.csv 
+	>>>> genotypeFormat     : kmatrix 
+	>>>> mapFile            : genotype-simulated-SeqBreed-tetra-MAP.csv 
+	>>>> significanceLevel  : 0.05 
+	>>>> correctionMethod   : Bonferroni 
+	>>>> gwasModel          : naive 
+	>>>> nBest              : 10 
+	>>>> filtering          : FALSE 
+	>>>> MAF                : 0.01 
+	>>>> MIND               : 0.1 
+	>>>> GENO               : 0.1 
+	>>>> HWE                : 1e-50 
+	>>>> tools              : gwaspoly shesis gapit plink 
+	>>>> geneAction         : dominant 
+	>>>> paramsFilename     : sim.config 
+	>>>> traitType          : quantitative 
+	>>>> trait              : TraitX 
+	>>>> traitConfigList    : TraitX.config 
+	>>>> ----------------------------------------------------------- 
+>>>> Processing params file:  TraitX.config 
+>>>> Moving files to output folders... 
+>>>> Preprocessing genomic data (Filtering and Formating data)... 
+	>>>> Converting geno/pheno to GAPIT format (.vcf)... 
+>>>> Converting genotype format in  kmatrix  to  GWASpoly format... 
+	>>>> Evaluating following trait:  TraitX 
+	>>>> N = 153 individuals with phenotypic and genotypic information 
+ 
+	>>>> Converting phenotype to PLINK format (.ped, .map, .bim, .fam, .bed)... 
+	>>>> Checking minor allele frecuency, MAF= 0 
+	>>>> Number of polymorphic markers: 400 
+ 
+	>>>> Without filters 
+	>>>> Selecting common markers and samples names... 
+	>>>> Filtering by common markers and samples... 
+	>>>> Converting geno/pheno to GAPIT format (.vcf)... 
+	>>>> Checking valid markers... 
+>>>> MultiGWAS 1.0 
+>>>> Working dir:  /home/lg/agrosavia/SIMULATION/tests/five-tools/domRandom-n50-MLM/n50/run22 
+>>>> Processing config file... 
+>>>> Loading libraries and setting globals...
+>>>> Preparing to execute in parallel the GWAS tools: 
+	>>>> Running  gwaspoly 
+	>>>> Running  shesis 
+	>>>> Running  gapit 
+	>>>> Running  plink 
+	>>>> Filtering no polymorohic markers (MAF > THRESHOLD) ... 
+	>>>> Evaluating following trait:  TraitX 
+	>>>> N = 153 individuals with phenotypic and genotypic information 
+ 
+	>>>> Converting phenotype to PLINK format (.ped, .map, .bim, .fam, .bed)... 
+>>>> Preparing to execute in parallel the GWAS tools: 
+	>>>> Running  gwaspoly 
+	>>>> Running  shesis 
+	>>>> Running  gapit 
+	>>>> Running  plink 
+>>>> Moving files to output folders... 
+	>>>> Converting geno/pheno to GAPIT format (.vcf)... 
+	>>>> Checking minor allele frecuency, MAF= 0 
+	>>>> Number of polymorphic markers: 400 
+ 
+	>>>> Without filters 
+	>>>> Selecting common markers and samples names... 
+	>>>> Filtering by common markers and samples... 
+>>>> MultiGWAS 1.0 
+>>>> Working dir:  /home/lg/agrosavia/SIMULATION/tests/five-tools/domRandom-n50-MLM/n50/run24 
+>>>> Processing config file... 
+>>>> Loading libraries and setting globals...
+	>>>> Evaluating following trait:  TraitX 
+	>>>> N = 153 individuals with phenotypic and genotypic information 
+ 
+	>>>> Converting phenotype to PLINK format (.ped, .map, .bim, .fam, .bed)... 
+>>>> Reading configuration file... 
+>>>> Preparing to execute in parallel the GWAS tools: 
+	>>>> Running  gwaspoly 
+	>>>> Running  shesis 
+	>>>> Running  gapit 
+	>>>> Running  plink 
+	>>>> Converting geno/pheno to GAPIT format (.vcf)... 
+	>>>> ----------------------------------------------------------- 
+	>>>> Summary of configuration parameters: 
+	>>>> ----------------------------------------------------------- 
+	>>>> ploidy             : 4 
+	>>>> genotypeFile       : genotype-simulated-SeqBreed-tetra.csv 
+	>>>> phenotypeFile      : phenotype-simulated-SeqBreed-tetra.csv 
+	>>>> genotypeFormat     : kmatrix 
+	>>>> mapFile            : genotype-simulated-SeqBreed-tetra-MAP.csv 
+	>>>> significanceLevel  : 0.05 
+	>>>> correctionMethod   : Bonferroni 
+	>>>> gwasModel          : naive 
+	>>>> nBest              : 10 
+	>>>> filtering          : FALSE 
+	>>>> MAF                : 0.01 
+	>>>> MIND               : 0.1 
+	>>>> GENO               : 0.1 
+	>>>> HWE                : 1e-50 
+	>>>> tools              : gwaspoly shesis gapit plink 
+	>>>> geneAction         : dominant 
+	>>>> paramsFilename     : sim.config 
+	>>>> traitType          : quantitative 
+	>>>> trait              : TraitX 
+	>>>> traitConfigList    : TraitX.config 
+	>>>> ----------------------------------------------------------- 
+>>>> Processing params file:  TraitX.config 
+>>>> Preprocessing genomic data (Filtering and Formating data)... 
+>>>> Converting genotype format in  kmatrix  to  GWASpoly format... 
+>>>> Preparing to execute in parallel the GWAS tools: 
+	>>>> Running  gwaspoly 
+	>>>> Running  shesis 
+	>>>> Running  gapit 
+	>>>> Running  plink 
+	>>>> Checking valid markers... 
+>>>> Reading configuration file... 
+	>>>> ----------------------------------------------------------- 
+	>>>> Summary of configuration parameters: 
+	>>>> ----------------------------------------------------------- 
+	>>>> ploidy             : 4 
+	>>>> genotypeFile       : genotype-simulated-SeqBreed-tetra.csv 
+	>>>> phenotypeFile      : phenotype-simulated-SeqBreed-tetra.csv 
+	>>>> genotypeFormat     : kmatrix 
+	>>>> mapFile            : genotype-simulated-SeqBreed-tetra-MAP.csv 
+	>>>> significanceLevel  : 0.05 
+	>>>> correctionMethod   : Bonferroni 
+	>>>> gwasModel          : naive 
+	>>>> nBest              : 10 
+	>>>> filtering          : FALSE 
+	>>>> MAF                : 0.01 
+	>>>> MIND               : 0.1 
+	>>>> GENO               : 0.1 
+	>>>> HWE                : 1e-50 
+	>>>> tools              : gwaspoly shesis gapit plink 
+	>>>> geneAction         : dominant 
+	>>>> paramsFilename     : sim.config 
+	>>>> traitType          : quantitative 
+	>>>> trait              : TraitX 
+	>>>> traitConfigList    : TraitX.config 
+	>>>> ----------------------------------------------------------- 
+	>>>> Filtering no polymorohic markers (MAF > THRESHOLD) ... 
+>>>> Processing params file:  TraitX.config 
+>>>> Preprocessing genomic data (Filtering and Formating data)... 
+>>>> Converting genotype format in  kmatrix  to  GWASpoly format... 
+	>>>> Checking minor allele frecuency, MAF= 0 
+	>>>> Number of polymorphic markers: 400 
+ 
+	>>>> Without filters 
+	>>>> Selecting common markers and samples names... 
+	>>>> Filtering by common markers and samples... 
+	>>>> Checking valid markers... 
+	>>>> Filtering no polymorohic markers (MAF > THRESHOLD) ... 
+	>>>> Evaluating following trait:  TraitX 
+	>>>> N = 153 individuals with phenotypic and genotypic information 
+ 
+	>>>> Converting phenotype to PLINK format (.ped, .map, .bim, .fam, .bed)... 
+	>>>> Converting geno/pheno to GAPIT format (.vcf)... 
+	>>>> Checking minor allele frecuency, MAF= 0 
+	>>>> Number of polymorphic markers: 400 
+ 
+	>>>> Without filters 
+	>>>> Selecting common markers and samples names... 
+	>>>> Filtering by common markers and samples... 
+>>>> Preparing to execute in parallel the GWAS tools: 
+	>>>> Running  gwaspoly 
+	>>>> Running  shesis 
+	>>>> Running  gapit 
+	>>>> Running  plink 
+	>>>> Evaluating following trait:  TraitX 
+	>>>> N = 153 individuals with phenotypic and genotypic information 
+ 
+	>>>> Converting phenotype to PLINK format (.ped, .map, .bim, .fam, .bed)... 
+	>>>> Converting geno/pheno to GAPIT format (.vcf)... 
+The upper bound of groups is too high. It was set to the size of kinship!
+The lower bound of groups is too high. It was set to the size of kinship!
+>>>> Preparing to execute in parallel the GWAS tools: 
+	>>>> Running  gwaspoly 
+	>>>> Running  shesis 
+	>>>> Running  gapit 
+	>>>> Running  plink 
+The upper bound of groups is too high. It was set to the size of kinship!
+The lower bound of groups is too high. It was set to the size of kinship!
+The upper bound of groups is too high. It was set to the size of kinship!
+The lower bound of groups is too high. It was set to the size of kinship!
+The upper bound of groups is too high. It was set to the size of kinship!
+The lower bound of groups is too high. It was set to the size of kinship!
+The upper bound of groups is too high. It was set to the size of kinship!
+The lower bound of groups is too high. It was set to the size of kinship!
+The upper bound of groups is too high. It was set to the size of kinship!
+The lower bound of groups is too high. It was set to the size of kinship!
+The upper bound of groups is too high. It was set to the size of kinship!
+The lower bound of groups is too high. It was set to the size of kinship!
+>>>> Selecting best gene action model for all tools... 
+	>>>> Best gene action for:  GWASpoly 
+	>>>> Best gene action for:  SHEsis 
+	>>>> Best gene action for:  GAPIT 
+	>>>> Best gene action for:  PLINK 
+>>>> Creating reports (Table, Venn diagrams, Manhattan&QQ plots, SNP profiles)... 
+	>>>> Creating tables and plots with summary results for  naive  model... 
+	>>>> Writing input config parameters... 
+	>>>> Writing tables with best ranked and signficative SNPs...  
+	>>>> Writing Venn diagram for best and significative SNPs... 
+>>>> Selecting best gene action model for all tools... 
+	>>>> Best gene action for:  GWASpoly 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+	>>>> Best gene action for:  SHEsis 
+	>>>> Best gene action for:  GAPIT 
+	>>>> Best gene action for:  PLINK 
+>>>> Creating reports (Table, Venn diagrams, Manhattan&QQ plots, SNP profiles)... 
+	>>>> Creating tables and plots with summary results for  naive  model... 
+	>>>> Writing input config parameters... 
+	>>>> Writing tables with best ranked and signficative SNPs...  
+	>>>> Writing Venn diagram for best and significative SNPs... 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+	>>>> Writing Manhattan and QQ plots... 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+	>>>> Writing Manhattan and QQ plots... 
+	>>>> Creating heatmaps for best ranked SNPs... 
+	>>>> 	Heatmap for snp:  snp347 
+	>>>> Creating heatmaps for best ranked SNPs... 
+>>>> Selecting best gene action model for all tools... 
+	>>>> Best gene action for:  GWASpoly 
+	>>>> 	Heatmap for snp:  snp192 
+	>>>> 	Heatmap for snp:  snp316 
+	>>>> Best gene action for:  SHEsis 
+	>>>> Best gene action for:  GAPIT 
+	>>>> Best gene action for:  PLINK 
+>>>> Creating reports (Table, Venn diagrams, Manhattan&QQ plots, SNP profiles)... 
+	>>>> Creating tables and plots with summary results for  naive  model... 
+	>>>> Writing input config parameters... 
+	>>>> Writing tables with best ranked and signficative SNPs...  
+	>>>> Writing Venn diagram for best and significative SNPs... 
+	>>>> 	Heatmap for snp:  snp351 
+	>>>> 	Heatmap for snp:  snp378 
+>>>> Selecting best gene action model for all tools... 
+	>>>> Best gene action for:  GWASpoly 
+	>>>> Best gene action for:  SHEsis 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+	>>>> 	Heatmap for snp:  snp389 
+	>>>> Best gene action for:  GAPIT 
+	>>>> Best gene action for:  PLINK 
+>>>> Creating reports (Table, Venn diagrams, Manhattan&QQ plots, SNP profiles)... 
+	>>>> Creating tables and plots with summary results for  naive  model... 
+	>>>> Writing input config parameters... 
+	>>>> 	Heatmap for snp:  snp354 
+	>>>> 	Heatmap for snp:  snp101 
+	>>>> Writing tables with best ranked and signficative SNPs...  
+	>>>> Writing Venn diagram for best and significative SNPs... 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+	>>>> Writing Manhattan and QQ plots... 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+	>>>> 	Heatmap for snp:  snp397 
+	>>>> 	Heatmap for snp:  snp133 
+>>>> Selecting best gene action model for all tools... 
+	>>>> Best gene action for:  GWASpoly 
+	>>>> Best gene action for:  SHEsis 
+	>>>> Best gene action for:  GAPIT 
+	>>>> Best gene action for:  PLINK 
+>>>> Creating reports (Table, Venn diagrams, Manhattan&QQ plots, SNP profiles)... 
+	>>>> Creating tables and plots with summary results for  naive  model... 
+	>>>> Writing input config parameters... 
+	>>>> 	Heatmap for snp:  snp280 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+	>>>> Writing tables with best ranked and signficative SNPs...  
+	>>>> Writing Venn diagram for best and significative SNPs... 
+	>>>> Writing Manhattan and QQ plots... 
+	>>>> Creating heatmaps for best ranked SNPs... 
+	>>>> 	Heatmap for snp:  snp197 
+	>>>> 	Heatmap for snp:  snp390 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+	>>>> 	Heatmap for snp:  snp379 
+	>>>> 	Heatmap for snp:  snp173 
+	>>>> 	Heatmap for snp:  snp263 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+	>>>> 	Heatmap for snp:  snp102 
+	>>>> Creating heatmaps for best ranked SNPs... 
+	>>>> 	Heatmap for snp:  snp288 
+	>>>> Writing Manhattan and QQ plots... 
+	>>>> 	Heatmap for snp:  snp085 
+	>>>> 	Heatmap for snp:  snp213 
+	>>>> 	Heatmap for snp:  snp333 
+>>>> Selecting best gene action model for all tools... 
+	>>>> Best gene action for:  GWASpoly 
+	>>>> 	Heatmap for snp:  snp007 
+	>>>> Creating heatmaps for best ranked SNPs... 
+	>>>> Best gene action for:  SHEsis 
+	>>>> Best gene action for:  GAPIT 
+	>>>> Best gene action for:  PLINK 
+>>>> Creating reports (Table, Venn diagrams, Manhattan&QQ plots, SNP profiles)... 
+	>>>> 	Heatmap for snp:  snp157 
+	>>>> Creating tables and plots with summary results for  naive  model... 
+	>>>> 	Heatmap for snp:  snp286 
+	>>>> Writing input config parameters... 
+	>>>> 	Heatmap for snp:  snp307 
+	>>>> 	Heatmap for snp:  snp145 
+	>>>> Writing tables with best ranked and signficative SNPs...  
+	>>>> Writing Venn diagram for best and significative SNPs... 
+	>>>> 	Heatmap for snp:  snp180 
+	>>>> 	Heatmap for snp:  snp278 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+	>>>> 	Heatmap for snp:  snp091 
+	>>>> 	Heatmap for snp:  snp027 
+	>>>> 	Heatmap for snp:  snp105 
+	>>>> 	Heatmap for snp:  snp396 
+	>>>> 	Heatmap for snp:  snp149 
+	>>>> 	Heatmap for snp:  snp358 
+	>>>> 	Heatmap for snp:  snp137 
+	>>>> Creating chord diagrams for chromosome vs SNPs... 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+	>>>> 	Heatmap for snp:  snp254 
+	>>>> 	Heatmap for snp:  snp307 
+>>>> Selecting best gene action model for all tools... 
+	>>>> Best gene action for:  GWASpoly 
+	>>>> Writing Manhattan and QQ plots... 
+	>>>> Best gene action for:  SHEsis 
+	>>>> Best gene action for:  GAPIT 
+	>>>> Best gene action for:  PLINK 
+	>>>> 	Heatmap for snp:  snp345 
+>>>> Creating reports (Table, Venn diagrams, Manhattan&QQ plots, SNP profiles)... 
+	>>>> Creating tables and plots with summary results for  naive  model... 
+	>>>> Writing input config parameters... 
+	>>>> Creating chord diagrams for chromosome vs SNPs... 
+	>>>> Creating chord diagrams for chromosome vs SNPs... 
+	>>>> Writing tables with best ranked and signficative SNPs...  
+	>>>> Writing Venn diagram for best and significative SNPs... 
+	>>>> 	Heatmap for snp:  snp377 
+	>>>> 	Heatmap for snp:  snp085 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+	>>>> 	Heatmap for snp:  snp054 
+	>>>> Creating heatmaps for best ranked SNPs... 
+	>>>> 	Heatmap for snp:  snp142 
+	>>>> 	Heatmap for snp:  snp338 
+	>>>> 	Heatmap for snp:  snp140 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+	>>>> 	Heatmap for snp:  snp187 
+	>>>> Writing Manhattan and QQ plots... 
+	>>>> 	Heatmap for snp:  snp211 
+	>>>> 	Heatmap for snp:  snp341 
+>>>> Creating html rmarkdown report... 
+	>>>> 	Heatmap for snp:  snp001 
+>>>> Creating html rmarkdown report... 
+>>>> Creating html rmarkdown report... 
+	>>>> 	Heatmap for snp:  snp024 
+	>>>> 	Heatmap for snp:  snp165 
+	>>>> Creating heatmaps for best ranked SNPs... 
+	>>>> 	Heatmap for snp:  snp087 
+	>>>> 	Heatmap for snp:  snp213 
+	>>>> 	Heatmap for snp:  snp069 
+	>>>> Creating chord diagrams for chromosome vs SNPs... 
+	>>>> 	Heatmap for snp:  snp081 
+>>>> Moving files to output folders... 
+	>>>> Creating chord diagrams for chromosome vs SNPs... 
+	>>>> 	Heatmap for snp:  snp216 
+>>>> Moving files to output folders... 
+>>>> Moving files to output folders... 
+	>>>> 	Heatmap for snp:  snp073 
+	>>>> 	Heatmap for snp:  snp274 
+>>>> MultiGWAS 1.0 
+>>>> Working dir:  /home/lg/agrosavia/SIMULATION/tests/five-tools/domRandom-n50-MLM/n50/run34 
+>>>> Processing config file... 
+>>>> Loading libraries and setting globals...
+>>>> MultiGWAS 1.0 
+>>>> Working dir:  /home/lg/agrosavia/SIMULATION/tests/five-tools/domRandom-n50-MLM/n50/run32 
+>>>> Processing config file... 
+>>>> Loading libraries and setting globals...
+	>>>> 	Heatmap for snp:  snp011 
+>>>> MultiGWAS 1.0 
+>>>> Working dir:  /home/lg/agrosavia/SIMULATION/tests/five-tools/domRandom-n50-MLM/n50/run33 
+>>>> Processing config file... 
+>>>> Loading libraries and setting globals...
+	>>>> 	Heatmap for snp:  snp370 
+	>>>> 	Heatmap for snp:  snp048 
+	>>>> Creating chord diagrams for chromosome vs SNPs... 
+>>>> Creating html rmarkdown report... 
+>>>> Reading configuration file... 
+	>>>> 	Heatmap for snp:  snp305 
+>>>> Creating html rmarkdown report... 
+	>>>> ----------------------------------------------------------- 
+	>>>> Summary of configuration parameters: 
+	>>>> ----------------------------------------------------------- 
+	>>>> ploidy             : 4 
+	>>>> genotypeFile       : genotype-simulated-SeqBreed-tetra.csv 
+	>>>> phenotypeFile      : phenotype-simulated-SeqBreed-tetra.csv 
+	>>>> genotypeFormat     : kmatrix 
+	>>>> mapFile            : genotype-simulated-SeqBreed-tetra-MAP.csv 
+	>>>> significanceLevel  : 0.05 
+	>>>> correctionMethod   : Bonferroni 
+	>>>> gwasModel          : naive 
+	>>>> nBest              : 10 
+	>>>> filtering          : FALSE 
+	>>>> MAF                : 0.01 
+	>>>> MIND               : 0.1 
+	>>>> GENO               : 0.1 
+	>>>> HWE                : 1e-50 
+	>>>> tools              : gwaspoly shesis gapit plink 
+	>>>> geneAction         : dominant 
+	>>>> paramsFilename     : sim.config 
+	>>>> traitType          : quantitative 
+	>>>> trait              : TraitX 
+	>>>> traitConfigList    : TraitX.config 
+	>>>> ----------------------------------------------------------- 
+>>>> Processing params file:  TraitX.config 
+>>>> Reading configuration file... 
+>>>> Preprocessing genomic data (Filtering and Formating data)... 
+>>>> Converting genotype format in  kmatrix  to  GWASpoly format... 
+>>>> Reading configuration file... 
+	>>>> ----------------------------------------------------------- 
+	>>>> Summary of configuration parameters: 
+	>>>> ----------------------------------------------------------- 
+	>>>> ploidy             : 4 
+	>>>> genotypeFile       : genotype-simulated-SeqBreed-tetra.csv 
+	>>>> phenotypeFile      : phenotype-simulated-SeqBreed-tetra.csv 
+	>>>> genotypeFormat     : kmatrix 
+	>>>> mapFile            : genotype-simulated-SeqBreed-tetra-MAP.csv 
+	>>>> significanceLevel  : 0.05 
+	>>>> correctionMethod   : Bonferroni 
+	>>>> gwasModel          : naive 
+	>>>> nBest              : 10 
+	>>>> filtering          : FALSE 
+	>>>> MAF                : 0.01 
+	>>>> MIND               : 0.1 
+	>>>> GENO               : 0.1 
+	>>>> HWE                : 1e-50 
+	>>>> tools              : gwaspoly shesis gapit plink 
+	>>>> geneAction         : dominant 
+	>>>> paramsFilename     : sim.config 
+	>>>> traitType          : quantitative 
+	>>>> trait              : TraitX 
+	>>>> traitConfigList    : TraitX.config 
+	>>>> ----------------------------------------------------------- 
+>>>> Processing params file:  TraitX.config 
+	>>>> 	Heatmap for snp:  snp179 
+>>>> Preprocessing genomic data (Filtering and Formating data)... 
+>>>> Converting genotype format in  kmatrix  to  GWASpoly format... 
+	>>>> ----------------------------------------------------------- 
+	>>>> Summary of configuration parameters: 
+	>>>> ----------------------------------------------------------- 
+	>>>> ploidy             : 4 
+	>>>> genotypeFile       : genotype-simulated-SeqBreed-tetra.csv 
+	>>>> phenotypeFile      : phenotype-simulated-SeqBreed-tetra.csv 
+	>>>> genotypeFormat     : kmatrix 
+	>>>> mapFile            : genotype-simulated-SeqBreed-tetra-MAP.csv 
+	>>>> significanceLevel  : 0.05 
+	>>>> correctionMethod   : Bonferroni 
+	>>>> gwasModel          : naive 
+	>>>> nBest              : 10 
+	>>>> filtering          : FALSE 
+	>>>> MAF                : 0.01 
+	>>>> MIND               : 0.1 
+	>>>> GENO               : 0.1 
+	>>>> HWE                : 1e-50 
+	>>>> tools              : gwaspoly shesis gapit plink 
+	>>>> geneAction         : dominant 
+	>>>> paramsFilename     : sim.config 
+	>>>> traitType          : quantitative 
+	>>>> trait              : TraitX 
+	>>>> traitConfigList    : TraitX.config 
+	>>>> ----------------------------------------------------------- 
+>>>> Processing params file:  TraitX.config 
+>>>> Preprocessing genomic data (Filtering and Formating data)... 
+	>>>> Checking valid markers... 
+>>>> Converting genotype format in  kmatrix  to  GWASpoly format... 
+	>>>> Filtering no polymorohic markers (MAF > THRESHOLD) ... 
+	>>>> Checking valid markers... 
+	>>>> 	Heatmap for snp:  snp311 
+	>>>> Checking valid markers... 
+	>>>> Filtering no polymorohic markers (MAF > THRESHOLD) ... 
+>>>> Moving files to output folders... 
+>>>> Moving files to output folders... 
+	>>>> Filtering no polymorohic markers (MAF > THRESHOLD) ... 
+	>>>> Checking minor allele frecuency, MAF= 0 
+	>>>> Number of polymorphic markers: 400 
+ 
+	>>>> Creating chord diagrams for chromosome vs SNPs... 
+>>>> Creating html rmarkdown report... 
+	>>>> Without filters 
+	>>>> Selecting common markers and samples names... 
+	>>>> Filtering by common markers and samples... 
+	>>>> Checking minor allele frecuency, MAF= 0 
+	>>>> Number of polymorphic markers: 400 
+ 
+>>>> MultiGWAS 1.0 
+>>>> Working dir:  /home/lg/agrosavia/SIMULATION/tests/five-tools/domRandom-n50-MLM/n50/run35 
+>>>> Processing config file... 
+>>>> Loading libraries and setting globals...
+	>>>> Checking minor allele frecuency, MAF= 0 
+	>>>> Without filters 
+	>>>> Selecting common markers and samples names... 
+	>>>> Number of polymorphic markers: 400 
+ 
+>>>> MultiGWAS 1.0 
+>>>> Working dir:  /home/lg/agrosavia/SIMULATION/tests/five-tools/domRandom-n50-MLM/n50/run30 
+>>>> Processing config file... 
+	>>>> Filtering by common markers and samples... 
+>>>> Loading libraries and setting globals...
+	>>>> Evaluating following trait:  TraitX 
+	>>>> N = 153 individuals with phenotypic and genotypic information 
+ 
+	>>>> Converting phenotype to PLINK format (.ped, .map, .bim, .fam, .bed)... 
+	>>>> Without filters 
+	>>>> Selecting common markers and samples names... 
+	>>>> Filtering by common markers and samples... 
+	>>>> Converting geno/pheno to GAPIT format (.vcf)... 
+	>>>> Evaluating following trait:  TraitX 
+	>>>> N = 153 individuals with phenotypic and genotypic information 
+ 
+	>>>> Converting phenotype to PLINK format (.ped, .map, .bim, .fam, .bed)... 
+	>>>> Evaluating following trait:  TraitX 
+	>>>> N = 153 individuals with phenotypic and genotypic information 
+ 
+	>>>> Converting phenotype to PLINK format (.ped, .map, .bim, .fam, .bed)... 
+	>>>> Converting geno/pheno to GAPIT format (.vcf)... 
+	>>>> Converting geno/pheno to GAPIT format (.vcf)... 
+>>>> Moving files to output folders... 
+>>>> Reading configuration file... 
+>>>> Preparing to execute in parallel the GWAS tools: 
+	>>>> Running  gwaspoly 
+	>>>> Running  shesis 
+	>>>> Running  gapit 
+	>>>> Running  plink 
+	>>>> ----------------------------------------------------------- 
+	>>>> Summary of configuration parameters: 
+	>>>> ----------------------------------------------------------- 
+	>>>> ploidy             : 4 
+	>>>> genotypeFile       : genotype-simulated-SeqBreed-tetra.csv 
+	>>>> phenotypeFile      : phenotype-simulated-SeqBreed-tetra.csv 
+	>>>> genotypeFormat     : kmatrix 
+	>>>> mapFile            : genotype-simulated-SeqBreed-tetra-MAP.csv 
+	>>>> significanceLevel  : 0.05 
+	>>>> correctionMethod   : Bonferroni 
+	>>>> gwasModel          : naive 
+	>>>> nBest              : 10 
+	>>>> filtering          : FALSE 
+	>>>> MAF                : 0.01 
+	>>>> MIND               : 0.1 
+	>>>> GENO               : 0.1 
+	>>>> HWE                : 1e-50 
+	>>>> tools              : gwaspoly shesis gapit plink 
+	>>>> geneAction         : dominant 
+	>>>> paramsFilename     : sim.config 
+	>>>> traitType          : quantitative 
+	>>>> trait              : TraitX 
+	>>>> traitConfigList    : TraitX.config 
+	>>>> ----------------------------------------------------------- 
+>>>> Reading configuration file... 
+>>>> Creating html rmarkdown report... 
+>>>> Processing params file:  TraitX.config 
+>>>> Preprocessing genomic data (Filtering and Formating data)... 
+>>>> Preparing to execute in parallel the GWAS tools: 
+	>>>> Running  gwaspoly 
+	>>>> Running  shesis 
+	>>>> Running  gapit 
+	>>>> Running  plink 
+	>>>> ----------------------------------------------------------- 
+	>>>> Summary of configuration parameters: 
+	>>>> ----------------------------------------------------------- 
+	>>>> ploidy             : 4 
+	>>>> genotypeFile       : genotype-simulated-SeqBreed-tetra.csv 
+	>>>> phenotypeFile      : phenotype-simulated-SeqBreed-tetra.csv 
+	>>>> genotypeFormat     : kmatrix 
+	>>>> mapFile            : genotype-simulated-SeqBreed-tetra-MAP.csv 
+	>>>> significanceLevel  : 0.05 
+	>>>> correctionMethod   : Bonferroni 
+	>>>> gwasModel          : naive 
+	>>>> nBest              : 10 
+	>>>> filtering          : FALSE 
+	>>>> MAF                : 0.01 
+	>>>> MIND               : 0.1 
+	>>>> GENO               : 0.1 
+	>>>> HWE                : 1e-50 
+	>>>> tools              : gwaspoly shesis gapit plink 
+	>>>> geneAction         : dominant 
+	>>>> paramsFilename     : sim.config 
+	>>>> traitType          : quantitative 
+	>>>> trait              : TraitX 
+	>>>> traitConfigList    : TraitX.config 
+	>>>> ----------------------------------------------------------- 
+>>>> Converting genotype format in  kmatrix  to  GWASpoly format... 
+>>>> Processing params file:  TraitX.config 
+>>>> Preprocessing genomic data (Filtering and Formating data)... 
+>>>> Converting genotype format in  kmatrix  to  GWASpoly format... 
+>>>> MultiGWAS 1.0 
+>>>> Working dir:  /home/lg/agrosavia/SIMULATION/tests/five-tools/domRandom-n50-MLM/n50/run29 
+>>>> Processing config file... 
+>>>> Loading libraries and setting globals...
+>>>> Preparing to execute in parallel the GWAS tools: 
+	>>>> Running  gwaspoly 
+	>>>> Running  shesis 
+	>>>> Running  gapit 
+	>>>> Running  plink 
+	>>>> Checking valid markers... 
+	>>>> Checking valid markers... 
+	>>>> Filtering no polymorohic markers (MAF > THRESHOLD) ... 
+	>>>> Filtering no polymorohic markers (MAF > THRESHOLD) ... 
+>>>> Moving files to output folders... 
+	>>>> Checking minor allele frecuency, MAF= 0 
+	>>>> Number of polymorphic markers: 400 
+ 
+	>>>> Checking minor allele frecuency, MAF= 0 
+	>>>> Number of polymorphic markers: 400 
+ 
+>>>> Reading configuration file... 
+	>>>> Without filters 
+	>>>> Selecting common markers and samples names... 
+	>>>> Filtering by common markers and samples... 
+	>>>> Without filters 
+	>>>> Selecting common markers and samples names... 
+	>>>> Filtering by common markers and samples... 
+	>>>> ----------------------------------------------------------- 
+	>>>> Summary of configuration parameters: 
+	>>>> ----------------------------------------------------------- 
+	>>>> ploidy             : 4 
+	>>>> genotypeFile       : genotype-simulated-SeqBreed-tetra.csv 
+	>>>> phenotypeFile      : phenotype-simulated-SeqBreed-tetra.csv 
+	>>>> genotypeFormat     : kmatrix 
+	>>>> mapFile            : genotype-simulated-SeqBreed-tetra-MAP.csv 
+	>>>> significanceLevel  : 0.05 
+	>>>> correctionMethod   : Bonferroni 
+	>>>> gwasModel          : naive 
+	>>>> nBest              : 10 
+	>>>> filtering          : FALSE 
+	>>>> MAF                : 0.01 
+	>>>> MIND               : 0.1 
+	>>>> GENO               : 0.1 
+	>>>> HWE                : 1e-50 
+	>>>> tools              : gwaspoly shesis gapit plink 
+	>>>> geneAction         : dominant 
+	>>>> paramsFilename     : sim.config 
+	>>>> traitType          : quantitative 
+	>>>> trait              : TraitX 
+	>>>> traitConfigList    : TraitX.config 
+	>>>> ----------------------------------------------------------- 
+>>>> Processing params file:  TraitX.config 
+>>>> Preprocessing genomic data (Filtering and Formating data)... 
+>>>> MultiGWAS 1.0 
+>>>> Working dir:  /home/lg/agrosavia/SIMULATION/tests/five-tools/domRandom-n50-MLM/n50/run31 
+>>>> Processing config file... 
+>>>> Converting genotype format in  kmatrix  to  GWASpoly format... 
+>>>> Loading libraries and setting globals...
+	>>>> Evaluating following trait:  TraitX 
+	>>>> N = 153 individuals with phenotypic and genotypic information 
+ 
+	>>>> Converting phenotype to PLINK format (.ped, .map, .bim, .fam, .bed)... 
+	>>>> Evaluating following trait:  TraitX 
+	>>>> N = 153 individuals with phenotypic and genotypic information 
+ 
+	>>>> Converting phenotype to PLINK format (.ped, .map, .bim, .fam, .bed)... 
+	>>>> Checking valid markers... 
+	>>>> Converting geno/pheno to GAPIT format (.vcf)... 
+	>>>> Converting geno/pheno to GAPIT format (.vcf)... 
+	>>>> Filtering no polymorohic markers (MAF > THRESHOLD) ... 
+>>>> Reading configuration file... 
+>>>> Preparing to execute in parallel the GWAS tools: 
+	>>>> Running  gwaspoly 
+	>>>> Running  shesis 
+	>>>> Running  gapit 
+	>>>> Running  plink 
+	>>>> ----------------------------------------------------------- 
+	>>>> Summary of configuration parameters: 
+	>>>> ----------------------------------------------------------- 
+	>>>> ploidy             : 4 
+	>>>> genotypeFile       : genotype-simulated-SeqBreed-tetra.csv 
+	>>>> phenotypeFile      : phenotype-simulated-SeqBreed-tetra.csv 
+	>>>> genotypeFormat     : kmatrix 
+	>>>> mapFile            : genotype-simulated-SeqBreed-tetra-MAP.csv 
+	>>>> significanceLevel  : 0.05 
+	>>>> correctionMethod   : Bonferroni 
+	>>>> gwasModel          : naive 
+	>>>> nBest              : 10 
+	>>>> filtering          : FALSE 
+	>>>> MAF                : 0.01 
+	>>>> MIND               : 0.1 
+	>>>> GENO               : 0.1 
+	>>>> HWE                : 1e-50 
+	>>>> tools              : gwaspoly shesis gapit plink 
+	>>>> geneAction         : dominant 
+	>>>> paramsFilename     : sim.config 
+	>>>> traitType          : quantitative 
+	>>>> trait              : TraitX 
+	>>>> traitConfigList    : TraitX.config 
+	>>>> ----------------------------------------------------------- 
+>>>> Preparing to execute in parallel the GWAS tools: 
+	>>>> Running  gwaspoly 
+	>>>> Running  shesis 
+	>>>> Running  gapit 
+	>>>> Running  plink 
+>>>> Processing params file:  TraitX.config 
+	>>>> Checking minor allele frecuency, MAF= 0 
+	>>>> Number of polymorphic markers: 400 
+ 
+	>>>> Without filters 
+	>>>> Selecting common markers and samples names... 
+	>>>> Filtering by common markers and samples... 
+>>>> Preprocessing genomic data (Filtering and Formating data)... 
+>>>> Converting genotype format in  kmatrix  to  GWASpoly format... 
+	>>>> Checking valid markers... 
+	>>>> Evaluating following trait:  TraitX 
+	>>>> N = 153 individuals with phenotypic and genotypic information 
+ 
+	>>>> Converting phenotype to PLINK format (.ped, .map, .bim, .fam, .bed)... 
+	>>>> Filtering no polymorohic markers (MAF > THRESHOLD) ... 
+	>>>> Converting geno/pheno to GAPIT format (.vcf)... 
+	>>>> Checking minor allele frecuency, MAF= 0 
+	>>>> Number of polymorphic markers: 400 
+ 
+>>>> Preparing to execute in parallel the GWAS tools: 
+	>>>> Running  gwaspoly 
+	>>>> Running  shesis 
+	>>>> Running  gapit 
+	>>>> Running  plink 
+	>>>> Without filters 
+	>>>> Selecting common markers and samples names... 
+	>>>> Filtering by common markers and samples... 
+	>>>> Evaluating following trait:  TraitX 
+	>>>> N = 153 individuals with phenotypic and genotypic information 
+ 
+	>>>> Converting phenotype to PLINK format (.ped, .map, .bim, .fam, .bed)... 
+	>>>> Converting geno/pheno to GAPIT format (.vcf)... 
+>>>> Preparing to execute in parallel the GWAS tools: 
+	>>>> Running  gwaspoly 
+	>>>> Running  shesis 
+	>>>> Running  gapit 
+	>>>> Running  plink 
+The upper bound of groups is too high. It was set to the size of kinship!
+The lower bound of groups is too high. It was set to the size of kinship!
+The upper bound of groups is too high. It was set to the size of kinship!
+The lower bound of groups is too high. It was set to the size of kinship!
+The upper bound of groups is too high. It was set to the size of kinship!
+The lower bound of groups is too high. It was set to the size of kinship!
+The upper bound of groups is too high. It was set to the size of kinship!
+The lower bound of groups is too high. It was set to the size of kinship!
+The upper bound of groups is too high. It was set to the size of kinship!
+The lower bound of groups is too high. It was set to the size of kinship!
+The upper bound of groups is too high. It was set to the size of kinship!
+The lower bound of groups is too high. It was set to the size of kinship!
+The upper bound of groups is too high. It was set to the size of kinship!
+The lower bound of groups is too high. It was set to the size of kinship!
+>>>> Selecting best gene action model for all tools... 
+	>>>> Best gene action for:  GWASpoly 
+	>>>> Best gene action for:  SHEsis 
+	>>>> Best gene action for:  GAPIT 
+	>>>> Best gene action for:  PLINK 
+>>>> Creating reports (Table, Venn diagrams, Manhattan&QQ plots, SNP profiles)... 
+	>>>> Creating tables and plots with summary results for  naive  model... 
+	>>>> Writing input config parameters... 
+	>>>> Writing tables with best ranked and signficative SNPs...  
+	>>>> Writing Venn diagram for best and significative SNPs... 
+>>>> Selecting best gene action model for all tools... 
+	>>>> Best gene action for:  GWASpoly 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+	>>>> Best gene action for:  SHEsis 
+	>>>> Best gene action for:  GAPIT 
+	>>>> Best gene action for:  PLINK 
+>>>> Creating reports (Table, Venn diagrams, Manhattan&QQ plots, SNP profiles)... 
+	>>>> Creating tables and plots with summary results for  naive  model... 
+	>>>> Writing input config parameters... 
+	>>>> Writing tables with best ranked and signficative SNPs...  
+	>>>> Writing Venn diagram for best and significative SNPs... 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+>>>> Selecting best gene action model for all tools... 
+	>>>> Best gene action for:  GWASpoly 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+	>>>> Best gene action for:  SHEsis 
+	>>>> Best gene action for:  GAPIT 
+	>>>> Best gene action for:  PLINK 
+>>>> Creating reports (Table, Venn diagrams, Manhattan&QQ plots, SNP profiles)... 
+	>>>> Writing Manhattan and QQ plots... 
+	>>>> Creating tables and plots with summary results for  naive  model... 
+	>>>> Writing input config parameters... 
+	>>>> Writing tables with best ranked and signficative SNPs...  
+	>>>> Writing Venn diagram for best and significative SNPs... 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+	>>>> Creating heatmaps for best ranked SNPs... 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+>>>> Selecting best gene action model for all tools... 
+	>>>> Best gene action for:  GWASpoly 
+	>>>> 	Heatmap for snp:  snp182 
+	>>>> Best gene action for:  SHEsis 
+	>>>> Best gene action for:  GAPIT 
+	>>>> Best gene action for:  PLINK 
+>>>> Creating reports (Table, Venn diagrams, Manhattan&QQ plots, SNP profiles)... 
+	>>>> Creating tables and plots with summary results for  naive  model... 
+	>>>> Writing Manhattan and QQ plots... 
+	>>>> Writing input config parameters... 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+	>>>> Writing tables with best ranked and signficative SNPs...  
+	>>>> Writing Venn diagram for best and significative SNPs... 
+	>>>> Writing Manhattan and QQ plots... 
+	>>>> 	Heatmap for snp:  snp355 
+>>>> Selecting best gene action model for all tools... 
+	>>>> Best gene action for:  GWASpoly 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+	>>>> Best gene action for:  SHEsis 
+	>>>> Best gene action for:  GAPIT 
+	>>>> Best gene action for:  PLINK 
+>>>> Creating reports (Table, Venn diagrams, Manhattan&QQ plots, SNP profiles)... 
+	>>>> Creating tables and plots with summary results for  naive  model... 
+	>>>> Writing input config parameters... 
+	>>>> Writing tables with best ranked and signficative SNPs...  
+	>>>> Creating heatmaps for best ranked SNPs... 
+	>>>> Writing Venn diagram for best and significative SNPs... 
+	>>>> 	Heatmap for snp:  snp091 
+	>>>> 	Heatmap for snp:  snp125 
+	>>>> Creating heatmaps for best ranked SNPs... 
+	>>>> 	Heatmap for snp:  snp215 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+	>>>> 	Heatmap for snp:  snp153 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+	>>>> 	Heatmap for snp:  snp062 
+	>>>> Writing Manhattan and QQ plots... 
+	>>>> 	Heatmap for snp:  snp084 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+	>>>> 	Heatmap for snp:  snp153 
+	>>>> Writing Manhattan and QQ plots... 
+	>>>> 	Heatmap for snp:  snp319 
+	>>>> 	Heatmap for snp:  snp118 
+>>>> Selecting best gene action model for all tools... 
+	>>>> Best gene action for:  GWASpoly 
+	>>>> 	Heatmap for snp:  snp047 
+	>>>> Creating heatmaps for best ranked SNPs... 
+	>>>> Best gene action for:  SHEsis 
+	>>>> Best gene action for:  GAPIT 
+	>>>> Best gene action for:  PLINK 
+>>>> Creating reports (Table, Venn diagrams, Manhattan&QQ plots, SNP profiles)... 
+	>>>> 	Heatmap for snp:  snp223 
+	>>>> Creating tables and plots with summary results for  naive  model... 
+	>>>> Writing input config parameters... 
+	>>>> 	Heatmap for snp:  snp145 
+	>>>> Writing tables with best ranked and signficative SNPs...  
+	>>>> Writing Venn diagram for best and significative SNPs... 
+	>>>> 	Heatmap for snp:  snp238 
+	>>>> Creating heatmaps for best ranked SNPs... 
+	>>>> 	Heatmap for snp:  snp183 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+	>>>> 	Heatmap for snp:  snp160 
+	>>>> 	Heatmap for snp:  snp381 
+	>>>> 	Heatmap for snp:  snp365 
+	>>>> 	Heatmap for snp:  snp177 
+	>>>> 	Heatmap for snp:  snp048 
+	>>>> 	Heatmap for snp:  snp380 
+	>>>> 	Heatmap for snp:  snp278 
+	>>>> 	Heatmap for snp:  snp234 
+	>>>> 	Heatmap for snp:  snp022 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+	>>>> 	Heatmap for snp:  snp397 
+	>>>> Writing Manhattan and QQ plots... 
+	>>>> 	Heatmap for snp:  snp090 
+	>>>> Creating chord diagrams for chromosome vs SNPs... 
+	>>>> 	Heatmap for snp:  snp042 
+	>>>> 	Heatmap for snp:  snp311 
+	>>>> 	Heatmap for snp:  snp371 
+	>>>> 	Heatmap for snp:  snp180 
+	>>>> 	Heatmap for snp:  snp029 
+	>>>> Creating chord diagrams for chromosome vs SNPs... 
+>>>> Selecting best gene action model for all tools... 
+	>>>> Best gene action for:  GWASpoly 
+	>>>> Creating chord diagrams for chromosome vs SNPs... 
+	>>>> Best gene action for:  SHEsis 
+	>>>> Best gene action for:  GAPIT 
+	>>>> Creating heatmaps for best ranked SNPs... 
+	>>>> Best gene action for:  PLINK 
+>>>> Creating reports (Table, Venn diagrams, Manhattan&QQ plots, SNP profiles)... 
+	>>>> Creating tables and plots with summary results for  naive  model... 
+	>>>> Writing input config parameters... 
+	>>>> 	Heatmap for snp:  snp183 
+	>>>> 	Heatmap for snp:  snp169 
+	>>>> Writing tables with best ranked and signficative SNPs...  
+	>>>> Writing Venn diagram for best and significative SNPs... 
+	>>>> 	Heatmap for snp:  snp162 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+	>>>> 	Heatmap for snp:  snp103 
+	>>>> 	Heatmap for snp:  snp001 
+	>>>> 	Heatmap for snp:  snp123 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+>>>> Creating html rmarkdown report... 
+	>>>> Writing Manhattan and QQ plots... 
+	>>>> Creating chord diagrams for chromosome vs SNPs... 
+	>>>> 	Heatmap for snp:  snp057 
+	>>>> 	Heatmap for snp:  snp011 
+>>>> Creating html rmarkdown report... 
+	>>>> 	Heatmap for snp:  snp079 
+	>>>> Creating chord diagrams for chromosome vs SNPs... 
+>>>> Creating html rmarkdown report... 
+	>>>> Creating heatmaps for best ranked SNPs... 
+	>>>> 	Heatmap for snp:  snp390 
+	>>>> 	Heatmap for snp:  snp008 
+>>>> Moving files to output folders... 
+Error in readLines(con, warn = FALSE) : cannot open the connection
+Calls: main ... base -> extract_preserve_chunks -> read_utf8 -> readLines
+In addition: Warning message:
+In readLines(con, warn = FALSE) :
+  cannot open file 'gwas-markdown.utf8.md': No such file or directory
+No traceback available 
+	>>>> 	Heatmap for snp:  snp321 
+	>>>> 	Heatmap for snp:  snp148 
+>>>> Moving files to output folders... 
+>>>> MultiGWAS 1.0 
+>>>> Working dir:  /home/lg/agrosavia/SIMULATION/tests/five-tools/domRandom-n50-MLM/n50/run39 
+>>>> Processing config file... 
+>>>> Loading libraries and setting globals...
+>>>> Creating html rmarkdown report... 
+>>>> Creating html rmarkdown report... 
+>>>> MultiGWAS 1.0 
+>>>> Working dir:  /home/lg/agrosavia/SIMULATION/tests/five-tools/domRandom-n50-MLM/n50/run40 
+>>>> Processing config file... 
+>>>> Loading libraries and setting globals...
+	>>>> 	Heatmap for snp:  snp136 
+	>>>> 	Heatmap for snp:  snp277 
+>>>> MultiGWAS 1.0 
+>>>> Working dir:  /home/lg/agrosavia/SIMULATION/tests/five-tools/domRandom-n50-MLM/n50/run41 
+>>>> Processing config file... 
+>>>> Loading libraries and setting globals...
+	>>>> 	Heatmap for snp:  snp339 
+	>>>> 	Heatmap for snp:  snp267 
+>>>> Reading configuration file... 
+	>>>> 	Heatmap for snp:  snp047 
+	>>>> 	Heatmap for snp:  snp350 
+>>>> Reading configuration file... 
+	>>>> ----------------------------------------------------------- 
+	>>>> Summary of configuration parameters: 
+	>>>> ----------------------------------------------------------- 
+	>>>> ploidy             : 4 
+	>>>> genotypeFile       : genotype-simulated-SeqBreed-tetra.csv 
+	>>>> phenotypeFile      : phenotype-simulated-SeqBreed-tetra.csv 
+	>>>> genotypeFormat     : kmatrix 
+	>>>> mapFile            : genotype-simulated-SeqBreed-tetra-MAP.csv 
+	>>>> significanceLevel  : 0.05 
+	>>>> correctionMethod   : Bonferroni 
+	>>>> gwasModel          : naive 
+	>>>> nBest              : 10 
+	>>>> filtering          : FALSE 
+	>>>> MAF                : 0.01 
+	>>>> MIND               : 0.1 
+	>>>> GENO               : 0.1 
+	>>>> HWE                : 1e-50 
+	>>>> tools              : gwaspoly shesis gapit plink 
+	>>>> geneAction         : dominant 
+	>>>> paramsFilename     : sim.config 
+	>>>> traitType          : quantitative 
+	>>>> trait              : TraitX 
+	>>>> traitConfigList    : TraitX.config 
+	>>>> ----------------------------------------------------------- 
+>>>> Moving files to output folders... 
+>>>> Processing params file:  TraitX.config 
+>>>> Preprocessing genomic data (Filtering and Formating data)... 
+	>>>> ----------------------------------------------------------- 
+>>>> Converting genotype format in  kmatrix  to  GWASpoly format... 
+	>>>> Summary of configuration parameters: 
+	>>>> ----------------------------------------------------------- 
+	>>>> ploidy             : 4 
+	>>>> genotypeFile       : genotype-simulated-SeqBreed-tetra.csv 
+	>>>> phenotypeFile      : phenotype-simulated-SeqBreed-tetra.csv 
+	>>>> genotypeFormat     : kmatrix 
+	>>>> mapFile            : genotype-simulated-SeqBreed-tetra-MAP.csv 
+	>>>> significanceLevel  : 0.05 
+	>>>> correctionMethod   : Bonferroni 
+	>>>> gwasModel          : naive 
+	>>>> nBest              : 10 
+	>>>> filtering          : FALSE 
+	>>>> MAF                : 0.01 
+	>>>> MIND               : 0.1 
+	>>>> GENO               : 0.1 
+	>>>> HWE                : 1e-50 
+	>>>> tools              : gwaspoly shesis gapit plink 
+	>>>> geneAction         : dominant 
+	>>>> paramsFilename     : sim.config 
+	>>>> traitType          : quantitative 
+	>>>> trait              : TraitX 
+	>>>> traitConfigList    : TraitX.config 
+	>>>> ----------------------------------------------------------- 
+>>>> Moving files to output folders... 
+>>>> Processing params file:  TraitX.config 
+>>>> Preprocessing genomic data (Filtering and Formating data)... 
+	>>>> 	Heatmap for snp:  snp340 
+>>>> Converting genotype format in  kmatrix  to  GWASpoly format... 
+>>>> Reading configuration file... 
+	>>>> Creating chord diagrams for chromosome vs SNPs... 
+	>>>> ----------------------------------------------------------- 
+	>>>> Summary of configuration parameters: 
+	>>>> ----------------------------------------------------------- 
+	>>>> ploidy             : 4 
+	>>>> genotypeFile       : genotype-simulated-SeqBreed-tetra.csv 
+	>>>> phenotypeFile      : phenotype-simulated-SeqBreed-tetra.csv 
+	>>>> genotypeFormat     : kmatrix 
+	>>>> mapFile            : genotype-simulated-SeqBreed-tetra-MAP.csv 
+	>>>> significanceLevel  : 0.05 
+	>>>> correctionMethod   : Bonferroni 
+	>>>> gwasModel          : naive 
+	>>>> nBest              : 10 
+	>>>> filtering          : FALSE 
+	>>>> MAF                : 0.01 
+	>>>> MIND               : 0.1 
+	>>>> GENO               : 0.1 
+	>>>> HWE                : 1e-50 
+	>>>> tools              : gwaspoly shesis gapit plink 
+	>>>> geneAction         : dominant 
+	>>>> paramsFilename     : sim.config 
+	>>>> traitType          : quantitative 
+	>>>> trait              : TraitX 
+	>>>> traitConfigList    : TraitX.config 
+	>>>> ----------------------------------------------------------- 
+>>>> Processing params file:  TraitX.config 
+>>>> MultiGWAS 1.0 
+>>>> Working dir:  /home/lg/agrosavia/SIMULATION/tests/five-tools/domRandom-n50-MLM/n50/run37 
+>>>> Processing config file... 
+>>>> Preprocessing genomic data (Filtering and Formating data)... 
+	>>>> Checking valid markers... 
+>>>> Loading libraries and setting globals...
+>>>> Converting genotype format in  kmatrix  to  GWASpoly format... 
+	>>>> Creating chord diagrams for chromosome vs SNPs... 
+>>>> MultiGWAS 1.0 
+>>>> Working dir:  /home/lg/agrosavia/SIMULATION/tests/five-tools/domRandom-n50-MLM/n50/run42 
+>>>> Processing config file... 
+	>>>> Checking valid markers... 
+>>>> Loading libraries and setting globals...
+	>>>> Filtering no polymorohic markers (MAF > THRESHOLD) ... 
+	>>>> Filtering no polymorohic markers (MAF > THRESHOLD) ... 
+	>>>> Checking valid markers... 
+	>>>> Filtering no polymorohic markers (MAF > THRESHOLD) ... 
+	>>>> Checking minor allele frecuency, MAF= 0 
+	>>>> Number of polymorphic markers: 400 
+ 
+	>>>> Without filters 
+	>>>> Selecting common markers and samples names... 
+	>>>> Checking minor allele frecuency, MAF= 0 
+	>>>> Number of polymorphic markers: 400 
+ 
+	>>>> Filtering by common markers and samples... 
+	>>>> Without filters 
+	>>>> Selecting common markers and samples names... 
+	>>>> Filtering by common markers and samples... 
+>>>> Reading configuration file... 
+>>>> Reading configuration file... 
+	>>>> Checking minor allele frecuency, MAF= 0 
+	>>>> Number of polymorphic markers: 400 
+ 
+	>>>> ----------------------------------------------------------- 
+	>>>> Summary of configuration parameters: 
+	>>>> ----------------------------------------------------------- 
+	>>>> ploidy             : 4 
+	>>>> genotypeFile       : genotype-simulated-SeqBreed-tetra.csv 
+	>>>> phenotypeFile      : phenotype-simulated-SeqBreed-tetra.csv 
+	>>>> genotypeFormat     : kmatrix 
+	>>>> mapFile            : genotype-simulated-SeqBreed-tetra-MAP.csv 
+	>>>> significanceLevel  : 0.05 
+	>>>> correctionMethod   : Bonferroni 
+	>>>> gwasModel          : naive 
+	>>>> nBest              : 10 
+	>>>> filtering          : FALSE 
+	>>>> MAF                : 0.01 
+	>>>> MIND               : 0.1 
+	>>>> GENO               : 0.1 
+	>>>> HWE                : 1e-50 
+	>>>> tools              : gwaspoly shesis gapit plink 
+	>>>> geneAction         : dominant 
+	>>>> paramsFilename     : sim.config 
+	>>>> traitType          : quantitative 
+	>>>> trait              : TraitX 
+	>>>> traitConfigList    : TraitX.config 
+	>>>> ----------------------------------------------------------- 
+>>>> Processing params file:  TraitX.config 
+	>>>> Without filters 
+	>>>> Selecting common markers and samples names... 
+	>>>> Evaluating following trait:  TraitX 
+	>>>> N = 153 individuals with phenotypic and genotypic information 
+ 
+	>>>> Converting phenotype to PLINK format (.ped, .map, .bim, .fam, .bed)... 
+	>>>> Filtering by common markers and samples... 
+	>>>> ----------------------------------------------------------- 
+>>>> Preprocessing genomic data (Filtering and Formating data)... 
+>>>> Creating html rmarkdown report... 
+	>>>> Summary of configuration parameters: 
+	>>>> ----------------------------------------------------------- 
+	>>>> ploidy             : 4 
+	>>>> genotypeFile       : genotype-simulated-SeqBreed-tetra.csv 
+	>>>> phenotypeFile      : phenotype-simulated-SeqBreed-tetra.csv 
+	>>>> genotypeFormat     : kmatrix 
+	>>>> mapFile            : genotype-simulated-SeqBreed-tetra-MAP.csv 
+	>>>> significanceLevel  : 0.05 
+	>>>> correctionMethod   : Bonferroni 
+	>>>> gwasModel          : naive 
+	>>>> nBest              : 10 
+	>>>> filtering          : FALSE 
+	>>>> MAF                : 0.01 
+	>>>> MIND               : 0.1 
+	>>>> GENO               : 0.1 
+	>>>> HWE                : 1e-50 
+	>>>> tools              : gwaspoly shesis gapit plink 
+	>>>> geneAction         : dominant 
+	>>>> paramsFilename     : sim.config 
+	>>>> traitType          : quantitative 
+	>>>> trait              : TraitX 
+	>>>> traitConfigList    : TraitX.config 
+	>>>> ----------------------------------------------------------- 
+>>>> Converting genotype format in  kmatrix  to  GWASpoly format... 
+>>>> Processing params file:  TraitX.config 
+>>>> Preprocessing genomic data (Filtering and Formating data)... 
+	>>>> Evaluating following trait:  TraitX 
+	>>>> N = 153 individuals with phenotypic and genotypic information 
+ 
+	>>>> Converting phenotype to PLINK format (.ped, .map, .bim, .fam, .bed)... 
+>>>> Converting genotype format in  kmatrix  to  GWASpoly format... 
+	>>>> Converting geno/pheno to GAPIT format (.vcf)... 
+>>>> Creating html rmarkdown report... 
+	>>>> Checking valid markers... 
+	>>>> Evaluating following trait:  TraitX 
+	>>>> N = 153 individuals with phenotypic and genotypic information 
+ 
+	>>>> Converting phenotype to PLINK format (.ped, .map, .bim, .fam, .bed)... 
+	>>>> Converting geno/pheno to GAPIT format (.vcf)... 
+	>>>> Checking valid markers... 
+	>>>> Filtering no polymorohic markers (MAF > THRESHOLD) ... 
+	>>>> Converting geno/pheno to GAPIT format (.vcf)... 
+	>>>> Filtering no polymorohic markers (MAF > THRESHOLD) ... 
+>>>> Preparing to execute in parallel the GWAS tools: 
+	>>>> Running  gwaspoly 
+	>>>> Running  shesis 
+	>>>> Running  gapit 
+	>>>> Running  plink 
+>>>> Preparing to execute in parallel the GWAS tools: 
+	>>>> Running  gwaspoly 
+	>>>> Running  shesis 
+	>>>> Running  gapit 
+	>>>> Running  plink 
+	>>>> Checking minor allele frecuency, MAF= 0 
+	>>>> Number of polymorphic markers: 400 
+ 
+	>>>> Without filters 
+	>>>> Selecting common markers and samples names... 
+	>>>> Filtering by common markers and samples... 
+>>>> Preparing to execute in parallel the GWAS tools: 
+	>>>> Running  gwaspoly 
+	>>>> Running  shesis 
+	>>>> Running  gapit 
+	>>>> Running  plink 
+	>>>> Checking minor allele frecuency, MAF= 0 
+>>>> Moving files to output folders... 
+	>>>> Number of polymorphic markers: 400 
+ 
+	>>>> Without filters 
+	>>>> Selecting common markers and samples names... 
+	>>>> Filtering by common markers and samples... 
+	>>>> Evaluating following trait:  TraitX 
+	>>>> N = 153 individuals with phenotypic and genotypic information 
+ 
+	>>>> Converting phenotype to PLINK format (.ped, .map, .bim, .fam, .bed)... 
+>>>> Moving files to output folders... 
+	>>>> Converting geno/pheno to GAPIT format (.vcf)... 
+>>>> MultiGWAS 1.0 
+	>>>> Evaluating following trait:  TraitX 
+>>>> Working dir:  /home/lg/agrosavia/SIMULATION/tests/five-tools/domRandom-n50-MLM/n50/run36 
+	>>>> N = 153 individuals with phenotypic and genotypic information 
+ 
+	>>>>>>>>  Converting phenotype to PLINK format (.ped, .map, .bim, .fam, .bed)...Processing config file...  
+
+>>>> Loading libraries and setting globals...
+	>>>> Converting geno/pheno to GAPIT format (.vcf)... 
+>>>> MultiGWAS 1.0 
+>>>> Working dir:  /home/lg/agrosavia/SIMULATION/tests/five-tools/domRandom-n50-MLM/n50/run38 
+>>>> Processing config file... 
+>>>> Loading libraries and setting globals...
+>>>> Preparing to execute in parallel the GWAS tools: 
+	>>>> Running  gwaspoly 
+	>>>> Running  shesis 
+	>>>> Running  gapit 
+	>>>> Running  plink 
+>>>> Preparing to execute in parallel the GWAS tools: 
+	>>>> Running  gwaspoly 
+	>>>> Running  shesis 
+	>>>> Running  gapit 
+	>>>> Running  plink 
+>>>> Reading configuration file... 
+	>>>> ----------------------------------------------------------- 
+	>>>> Summary of configuration parameters: 
+	>>>> ----------------------------------------------------------- 
+	>>>> ploidy             : 4 
+	>>>> genotypeFile       : genotype-simulated-SeqBreed-tetra.csv 
+	>>>> phenotypeFile      : phenotype-simulated-SeqBreed-tetra.csv 
+	>>>> genotypeFormat     : kmatrix 
+	>>>> mapFile            : genotype-simulated-SeqBreed-tetra-MAP.csv 
+	>>>> significanceLevel  : 0.05 
+	>>>> correctionMethod   : Bonferroni 
+	>>>> gwasModel          : naive 
+	>>>> nBest              : 10 
+	>>>> filtering          : FALSE 
+	>>>> MAF                : 0.01 
+	>>>> MIND               : 0.1 
+	>>>> GENO               : 0.1 
+	>>>> HWE                : 1e-50 
+	>>>> tools              : gwaspoly shesis gapit plink 
+	>>>> geneAction         : dominant 
+	>>>> paramsFilename     : sim.config 
+	>>>> traitType          : quantitative 
+	>>>> trait              : TraitX 
+	>>>> traitConfigList    : TraitX.config 
+	>>>> ----------------------------------------------------------- 
+>>>> Processing params file:  TraitX.config 
+>>>> Preprocessing genomic data (Filtering and Formating data)... 
+>>>> Converting genotype format in  kmatrix  to  GWASpoly format... 
+>>>> Reading configuration file... 
+	>>>> Checking valid markers... 
+	>>>> ----------------------------------------------------------- 
+	>>>> Summary of configuration parameters: 
+	>>>> ----------------------------------------------------------- 
+	>>>> ploidy             : 4 
+	>>>> genotypeFile       : genotype-simulated-SeqBreed-tetra.csv 
+	>>>> phenotypeFile      : phenotype-simulated-SeqBreed-tetra.csv 
+	>>>> genotypeFormat     : kmatrix 
+	>>>> mapFile            : genotype-simulated-SeqBreed-tetra-MAP.csv 
+	>>>> significanceLevel  : 0.05 
+	>>>> correctionMethod   : Bonferroni 
+	>>>> gwasModel          : naive 
+	>>>> nBest              : 10 
+	>>>> filtering          : FALSE 
+	>>>> MAF                : 0.01 
+	>>>> MIND               : 0.1 
+	>>>> GENO               : 0.1 
+	>>>> HWE                : 1e-50 
+	>>>> tools              : gwaspoly shesis gapit plink 
+	>>>> geneAction         : dominant 
+	>>>> paramsFilename     : sim.config 
+	>>>> traitType          : quantitative 
+	>>>> trait              : TraitX 
+	>>>> traitConfigList    : TraitX.config 
+	>>>> ----------------------------------------------------------- 
+>>>> Processing params file:  TraitX.config 
+	>>>> Filtering no polymorohic markers (MAF > THRESHOLD) ... 
+>>>> Preprocessing genomic data (Filtering and Formating data)... 
+>>>> Converting genotype format in  kmatrix  to  GWASpoly format... 
+	>>>> Checking minor allele frecuency, MAF= 0 
+	>>>> Number of polymorphic markers: 400 
+ 
+	>>>> Without filters 
+	>>>> Selecting common markers and samples names... 
+	>>>> Filtering by common markers and samples... 
+	>>>> Checking valid markers... 
+	>>>> Filtering no polymorohic markers (MAF > THRESHOLD) ... 
+	>>>> Evaluating following trait:  TraitX 
+	>>>> N = 153 individuals with phenotypic and genotypic information 
+ 
+	>>>> Converting phenotype to PLINK format (.ped, .map, .bim, .fam, .bed)... 
+	>>>> Converting geno/pheno to GAPIT format (.vcf)... 
+	>>>> Checking minor allele frecuency, MAF= 0 
+	>>>> Number of polymorphic markers: 400 
+ 
+	>>>> Without filters 
+	>>>> Selecting common markers and samples names... 
+	>>>> Filtering by common markers and samples... 
+>>>> Preparing to execute in parallel the GWAS tools: 
+	>>>> Running  gwaspoly 
+	>>>> Running  shesis 
+	>>>> Running  gapit 
+	>>>> Running  plink 
+	>>>> Evaluating following trait:  TraitX 
+	>>>> N = 153 individuals with phenotypic and genotypic information 
+ 
+	>>>> Converting phenotype to PLINK format (.ped, .map, .bim, .fam, .bed)... 
+The upper bound of groups is too high. It was set to the size of kinship!
+The lower bound of groups is too high. It was set to the size of kinship!
+	>>>> Converting geno/pheno to GAPIT format (.vcf)... 
+The upper bound of groups is too high. It was set to the size of kinship!
+The lower bound of groups is too high. It was set to the size of kinship!
+The upper bound of groups is too high. It was set to the size of kinship!
+The lower bound of groups is too high. It was set to the size of kinship!
+>>>> Preparing to execute in parallel the GWAS tools: 
+	>>>> Running  gwaspoly 
+	>>>> Running  shesis 
+	>>>> Running  gapit 
+	>>>> Running  plink 
+The upper bound of groups is too high. It was set to the size of kinship!
+The lower bound of groups is too high. It was set to the size of kinship!
+The upper bound of groups is too high. It was set to the size of kinship!
+The lower bound of groups is too high. It was set to the size of kinship!
+The upper bound of groups is too high. It was set to the size of kinship!
+The lower bound of groups is too high. It was set to the size of kinship!
+The upper bound of groups is too high. It was set to the size of kinship!
+The lower bound of groups is too high. It was set to the size of kinship!
+>>>> Selecting best gene action model for all tools... 
+	>>>> Best gene action for:  GWASpoly 
+	>>>> Best gene action for:  SHEsis 
+	>>>> Best gene action for:  GAPIT 
+	>>>> Best gene action for:  PLINK 
+>>>> Creating reports (Table, Venn diagrams, Manhattan&QQ plots, SNP profiles)... 
+	>>>> Creating tables and plots with summary results for  naive  model... 
+	>>>> Writing input config parameters... 
+	>>>> Writing tables with best ranked and signficative SNPs...  
+	>>>> Writing Venn diagram for best and significative SNPs... 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+>>>> Selecting best gene action model for all tools... 
+	>>>> Best gene action for:  GWASpoly 
+	>>>> Best gene action for:  SHEsis 
+	>>>> Best gene action for:  GAPIT 
+	>>>> Best gene action for:  PLINK 
+>>>> Creating reports (Table, Venn diagrams, Manhattan&QQ plots, SNP profiles)... 
+	>>>> Creating tables and plots with summary results for  naive  model... 
+	>>>> Writing input config parameters... 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+	>>>> Writing tables with best ranked and signficative SNPs...  
+	>>>> Writing Venn diagram for best and significative SNPs... 
+	>>>> Writing Manhattan and QQ plots... 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+>>>> Selecting best gene action model for all tools... 
+	>>>> Best gene action for:  GWASpoly 
+	>>>> Best gene action for:  SHEsis 
+	>>>> Best gene action for:  GAPIT 
+	>>>> Best gene action for:  PLINK 
+>>>> Creating reports (Table, Venn diagrams, Manhattan&QQ plots, SNP profiles)... 
+	>>>> Creating tables and plots with summary results for  naive  model... 
+	>>>> Writing input config parameters... 
+	>>>> Writing tables with best ranked and signficative SNPs...  
+	>>>> Writing Venn diagram for best and significative SNPs... 
+	>>>> Writing Manhattan and QQ plots... 
+	>>>> Creating heatmaps for best ranked SNPs... 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+	>>>> 	Heatmap for snp:  snp100 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+	>>>> Writing Manhattan and QQ plots... 
+	>>>> Creating heatmaps for best ranked SNPs... 
+	>>>> 	Heatmap for snp:  snp055 
+	>>>> 	Heatmap for snp:  snp138 
+	>>>> Creating heatmaps for best ranked SNPs... 
+	>>>> 	Heatmap for snp:  snp348 
+	>>>> 	Heatmap for snp:  snp250 
+>>>> Selecting best gene action model for all tools... 
+	>>>> Best gene action for:  GWASpoly 
+	>>>> 	Heatmap for snp:  snp281 
+	>>>> Best gene action for:  SHEsis 
+	>>>> Best gene action for:  GAPIT 
+	>>>> Best gene action for:  PLINK 
+>>>> Creating reports (Table, Venn diagrams, Manhattan&QQ plots, SNP profiles)... 
+	>>>> Creating tables and plots with summary results for  naive  model... 
+	>>>> Writing input config parameters... 
+	>>>> 	Heatmap for snp:  snp347 
+>>>> Selecting best gene action model for all tools... 
+	>>>> Best gene action for:  GWASpoly 
+	>>>> 	Heatmap for snp:  snp394 
+	>>>> Best gene action for:  SHEsis 
+	>>>> Best gene action for:  GAPIT 
+	>>>> Best gene action for:  PLINK 
+	>>>> Writing tables with best ranked and signficative SNPs...  
+>>>> Creating reports (Table, Venn diagrams, Manhattan&QQ plots, SNP profiles)... 
+	>>>> Writing Venn diagram for best and significative SNPs... 
+	>>>> 	Heatmap for snp:  snp214 
+	>>>> Creating tables and plots with summary results for  naive  model... 
+	>>>> Writing input config parameters... 
+	>>>> 	Heatmap for snp:  snp339 
+	>>>> Writing tables with best ranked and signficative SNPs...  
+	>>>> Writing Venn diagram for best and significative SNPs... 
+	>>>> 	Heatmap for snp:  snp173 
+	>>>> 	Heatmap for snp:  snp274 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+	>>>> 	Heatmap for snp:  snp143 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+	>>>> 	Heatmap for snp:  snp316 
+	>>>> 	Heatmap for snp:  snp173 
+	>>>> 	Heatmap for snp:  snp379 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+	>>>> 	Heatmap for snp:  snp080 
+	>>>> Writing Manhattan and QQ plots... 
+	>>>> 	Heatmap for snp:  snp342 
+	>>>> Creating chord diagrams for chromosome vs SNPs... 
+	>>>> 	Heatmap for snp:  snp110 
+ Getting shared SNPs...
+	>>>> Creating chord diagrams for chromosome vs SNPs... 
+ >>> Getting shared SNPs...
+	>>>> Creating heatmaps for best ranked SNPs... 
+	>>>> 	Heatmap for snp:  snp380 
+	>>>> Writing Manhattan and QQ plots... 
+	>>>> 	Heatmap for snp:  snp297 
+	>>>> 	Heatmap for snp:  snp002 
+	>>>> 	Heatmap for snp:  snp176 
+	>>>> Creating heatmaps for best ranked SNPs... 
+	>>>> 	Heatmap for snp:  snp325 
+	>>>> 	Heatmap for snp:  snp067 
+>>>> Creating html rmarkdown report... 
+>>>> Selecting best gene action model for all tools... 
+	>>>> Best gene action for:  GWASpoly 
+	>>>> Creating chord diagrams for chromosome vs SNPs... 
+>>>> Creating html rmarkdown report... 
+	>>>> Best gene action for:  SHEsis 
+	>>>> Best gene action for:  GAPIT 
+	>>>> Best gene action for:  PLINK 
+>>>> Creating reports (Table, Venn diagrams, Manhattan&QQ plots, SNP profiles)... 
+	>>>> Creating tables and plots with summary results for  naive  model... 
+	>>>> 	Heatmap for snp:  snp399 
+	>>>> Writing input config parameters... 
+	>>>> 	Heatmap for snp:  snp092 
+	>>>> Writing tables with best ranked and signficative SNPs...  
+	>>>> Writing Venn diagram for best and significative SNPs... 
+	>>>> 	Heatmap for snp:  snp245 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+	>>>> 	Heatmap for snp:  snp212 
+	>>>> 	Heatmap for snp:  snp089 
+	>>>> 	Heatmap for snp:  snp320 
+>>>> Moving files to output folders... 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+	>>>> 	Heatmap for snp:  snp182 
+	>>>> Writing Manhattan and QQ plots... 
+>>>> Moving files to output folders... 
+	>>>> 	Heatmap for snp:  snp242 
+>>>> Creating html rmarkdown report... 
+>>>> Selecting best gene action model for all tools... 
+	>>>> Best gene action for:  GWASpoly 
+>>>> MultiGWAS 1.0 
+>>>> Working dir:  /home/lg/agrosavia/SIMULATION/tests/five-tools/domRandom-n50-MLM/n50/run48 
+>>>> Processing config file... 
+>>>> Loading libraries and setting globals...
+	>>>> Best gene action for:  SHEsis 
+	>>>> Best gene action for:  GAPIT 
+	>>>> Best gene action for:  PLINK 
+>>>> Creating reports (Table, Venn diagrams, Manhattan&QQ plots, SNP profiles)... 
+	>>>> 	Heatmap for snp:  snp376 
+	>>>> Creating tables and plots with summary results for  naive  model... 
+>>>> MultiGWAS 1.0 
+	>>>> Writing input config parameters... 
+>>>> Working dir:  /home/lg/agrosavia/SIMULATION/tests/five-tools/domRandom-n50-MLM/n50/run46 
+>>>> Processing config file... 
+>>>> Loading libraries and setting globals...
+	>>>> 	Heatmap for snp:  snp316 
+	>>>> Writing tables with best ranked and signficative SNPs...  
+	>>>> Writing Venn diagram for best and significative SNPs... 
+	>>>> Creating heatmaps for best ranked SNPs... 
+	>>>> 	Heatmap for snp:  snp365 
+	>>>> Creating chord diagrams for chromosome vs SNPs... 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+	>>>> 	Heatmap for snp:  snp209 
+	>>>> 	Heatmap for snp:  snp240 
+	>>>> 	Heatmap for snp:  snp119 
+>>>> Reading configuration file... 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+>>>> Moving files to output folders... 
+	>>>> ----------------------------------------------------------- 
+>>>> Reading configuration file... 
+	>>>> Summary of configuration parameters: 
+	>>>> ----------------------------------------------------------- 
+	>>>> ploidy             : 4 
+	>>>> genotypeFile       : genotype-simulated-SeqBreed-tetra.csv 
+	>>>> phenotypeFile      : phenotype-simulated-SeqBreed-tetra.csv 
+	>>>> genotypeFormat     : kmatrix 
+	>>>> mapFile            : genotype-simulated-SeqBreed-tetra-MAP.csv 
+	>>>> significanceLevel  : 0.05 
+	>>>> correctionMethod   : Bonferroni 
+	>>>> gwasModel          : naive 
+	>>>> nBest              : 10 
+	>>>> filtering          : FALSE 
+	>>>> MAF                : 0.01 
+	>>>> MIND               : 0.1 
+	>>>> GENO               : 0.1 
+	>>>> HWE                : 1e-50 
+	>>>> tools              : gwaspoly shesis gapit plink 
+	>>>> geneAction         : dominant 
+	>>>> paramsFilename     : sim.config 
+	>>>> traitType          : quantitative 
+	>>>> trait              : TraitX 
+	>>>> traitConfigList    : TraitX.config 
+	>>>> ----------------------------------------------------------- 
+	>>>> Writing Manhattan and QQ plots... 
+>>>> Processing params file:  TraitX.config 
+>>>> Preprocessing genomic data (Filtering and Formating data)... 
+	>>>> 	Heatmap for snp:  snp100 
+>>>> Converting genotype format in  kmatrix  to  GWASpoly format... 
+	>>>> ----------------------------------------------------------- 
+	>>>> Summary of configuration parameters: 
+	>>>> ----------------------------------------------------------- 
+	>>>> ploidy             : 4 
+	>>>> genotypeFile       : genotype-simulated-SeqBreed-tetra.csv 
+	>>>> phenotypeFile      : phenotype-simulated-SeqBreed-tetra.csv 
+	>>>> genotypeFormat     : kmatrix 
+	>>>> mapFile            : genotype-simulated-SeqBreed-tetra-MAP.csv 
+	>>>> significanceLevel  : 0.05 
+	>>>> correctionMethod   : Bonferroni 
+	>>>> gwasModel          : naive 
+	>>>> nBest              : 10 
+	>>>> filtering          : FALSE 
+	>>>> MAF                : 0.01 
+	>>>> MIND               : 0.1 
+	>>>> GENO               : 0.1 
+	>>>> HWE                : 1e-50 
+	>>>> tools              : gwaspoly shesis gapit plink 
+	>>>> geneAction         : dominant 
+	>>>> paramsFilename     : sim.config 
+	>>>> traitType          : quantitative 
+	>>>> trait              : TraitX 
+	>>>> traitConfigList    : TraitX.config 
+	>>>> ----------------------------------------------------------- 
+>>>> Processing params file:  TraitX.config 
+>>>> Preprocessing genomic data (Filtering and Formating data)... 
+	>>>> 	Heatmap for snp:  snp330 
+>>>> Converting genotype format in  kmatrix  to  GWASpoly format... 
+>>>> MultiGWAS 1.0 
+>>>> Working dir:  /home/lg/agrosavia/SIMULATION/tests/five-tools/domRandom-n50-MLM/n50/run47 
+>>>> Processing config file... 
+>>>> Loading libraries and setting globals...
+	>>>> Checking valid markers... 
+	>>>> 	Heatmap for snp:  snp153 
+	>>>> Checking valid markers... 
+	>>>> Filtering no polymorohic markers (MAF > THRESHOLD) ... 
+	>>>> Creating heatmaps for best ranked SNPs... 
+	>>>> 	Heatmap for snp:  snp234 
+>>>> Creating html rmarkdown report... 
+	>>>> 	Heatmap for snp:  snp001 
+	>>>> Filtering no polymorohic markers (MAF > THRESHOLD) ... 
+	>>>> 	Heatmap for snp:  snp188 
+	>>>> Creating chord diagrams for chromosome vs SNPs... 
+	>>>> Checking minor allele frecuency, MAF= 0 
+	>>>> Number of polymorphic markers: 400 
+ 
+	>>>> Without filters 
+	>>>> Selecting common markers and samples names... 
+	>>>> Checking minor allele frecuency, MAF= 0 
+	>>>> Number of polymorphic markers: 400 
+ 
+	>>>> Filtering by common markers and samples... 
+>>>> Reading configuration file... 
+	>>>> Without filters 
+	>>>> Selecting common markers and samples names... 
+	>>>> Filtering by common markers and samples... 
+	>>>> 	Heatmap for snp:  snp176 
+	>>>> 	Heatmap for snp:  snp055 
+	>>>> ----------------------------------------------------------- 
+	>>>> Summary of configuration parameters: 
+	>>>> ----------------------------------------------------------- 
+	>>>> ploidy             : 4 
+	>>>> genotypeFile       : genotype-simulated-SeqBreed-tetra.csv 
+	>>>> phenotypeFile      : phenotype-simulated-SeqBreed-tetra.csv 
+	>>>> genotypeFormat     : kmatrix 
+	>>>> mapFile            : genotype-simulated-SeqBreed-tetra-MAP.csv 
+	>>>> significanceLevel  : 0.05 
+	>>>> correctionMethod   : Bonferroni 
+	>>>> gwasModel          : naive 
+	>>>> nBest              : 10 
+	>>>> filtering          : FALSE 
+	>>>> MAF                : 0.01 
+	>>>> MIND               : 0.1 
+	>>>> GENO               : 0.1 
+	>>>> HWE                : 1e-50 
+	>>>> tools              : gwaspoly shesis gapit plink 
+	>>>> geneAction         : dominant 
+	>>>> paramsFilename     : sim.config 
+	>>>> traitType          : quantitative 
+	>>>> trait              : TraitX 
+	>>>> traitConfigList    : TraitX.config 
+	>>>> ----------------------------------------------------------- 
+>>>> Processing params file:  TraitX.config 
+>>>> Preprocessing genomic data (Filtering and Formating data)... 
+>>>> Converting genotype format in  kmatrix  to  GWASpoly format... 
+	>>>> Evaluating following trait:  TraitX 
+	>>>> N = 153 individuals with phenotypic and genotypic information 
+ 
+	>>>> Converting phenotype to PLINK format (.ped, .map, .bim, .fam, .bed)... 
+	>>>> 	Heatmap for snp:  snp358 
+	>>>> 	Heatmap for snp:  snp329 
+	>>>> Evaluating following trait:  TraitX 
+	>>>> N = 153 individuals with phenotypic and genotypic information 
+ 
+	>>>> Converting phenotype to PLINK format (.ped, .map, .bim, .fam, .bed)... 
+>>>> Moving files to output folders... 
+	>>>> Converting geno/pheno to GAPIT format (.vcf)... 
+	>>>> Checking valid markers... 
+	>>>> Converting geno/pheno to GAPIT format (.vcf)... 
+	>>>> 	Heatmap for snp:  snp250 
+	>>>> 	Heatmap for snp:  snp368 
+	>>>> Filtering no polymorohic markers (MAF > THRESHOLD) ... 
+>>>> MultiGWAS 1.0 
+>>>> Working dir:  /home/lg/agrosavia/SIMULATION/tests/five-tools/domRandom-n50-MLM/n50/run49 
+>>>> Processing config file... 
+>>>> Loading libraries and setting globals...
+>>>> Preparing to execute in parallel the GWAS tools: 
+	>>>> Running  gwaspoly 
+	>>>> Running  shesis 
+	>>>> Running  gapit 
+	>>>> Running  plink 
+	>>>> 	Heatmap for snp:  snp026 
+	>>>> 	Heatmap for snp:  snp112 
+>>>> Creating html rmarkdown report... 
+	>>>> Checking minor allele frecuency, MAF= 0 
+>>>> Preparing to execute in parallel the GWAS tools: 
+	>>>> Running  gwaspoly 
+	>>>> Running  shesis 
+	>>>> Running  gapit 
+	>>>> Running  plink 
+	>>>> Number of polymorphic markers: 400 
+ 
+	>>>> Without filters 
+	>>>> Selecting common markers and samples names... 
+	>>>> Filtering by common markers and samples... 
+	>>>> 	Heatmap for snp:  snp183 
+	>>>> Creating chord diagrams for chromosome vs SNPs... 
+	>>>> Evaluating following trait:  TraitX 
+	>>>> N = 153 individuals with phenotypic and genotypic information 
+ 
+	>>>> Converting phenotype to PLINK format (.ped, .map, .bim, .fam, .bed)... 
+>>>> Reading configuration file... 
+	>>>> ----------------------------------------------------------- 
+	>>>> Summary of configuration parameters: 
+	>>>> ----------------------------------------------------------- 
+	>>>> ploidy             : 4 
+	>>>> genotypeFile       : genotype-simulated-SeqBreed-tetra.csv 
+	>>>> phenotypeFile      : phenotype-simulated-SeqBreed-tetra.csv 
+	>>>> genotypeFormat     : kmatrix 
+	>>>> mapFile            : genotype-simulated-SeqBreed-tetra-MAP.csv 
+	>>>> significanceLevel  : 0.05 
+	>>>> correctionMethod   : Bonferroni 
+	>>>> gwasModel          : naive 
+	>>>> nBest              : 10 
+	>>>> filtering          : FALSE 
+	>>>> MAF                : 0.01 
+	>>>> MIND               : 0.1 
+	>>>> GENO               : 0.1 
+	>>>> HWE                : 1e-50 
+	>>>> tools              : gwaspoly shesis gapit plink 
+	>>>> geneAction         : dominant 
+	>>>> paramsFilename     : sim.config 
+	>>>> traitType          : quantitative 
+	>>>> trait              : TraitX 
+	>>>> traitConfigList    : TraitX.config 
+	>>>> ----------------------------------------------------------- 
+	>>>> 	Heatmap for snp:  snp270 
+>>>> Processing params file:  TraitX.config 
+	>>>> Converting geno/pheno to GAPIT format (.vcf)... 
+>>>> Preprocessing genomic data (Filtering and Formating data)... 
+>>>> Converting genotype format in  kmatrix  to  GWASpoly format... 
+	>>>> 	Heatmap for snp:  snp253 
+>>>> Moving files to output folders... 
+	>>>> Checking valid markers... 
+>>>> Preparing to execute in parallel the GWAS tools: 
+	>>>> Running  gwaspoly 
+	>>>> Running  shesis 
+	>>>> Running  gapit 
+	>>>> Running  plink 
+	>>>> 	Heatmap for snp:  snp060 
+	>>>> Filtering no polymorohic markers (MAF > THRESHOLD) ... 
+>>>> Creating html rmarkdown report... 
+>>>> MultiGWAS 1.0 
+>>>> Working dir:  /home/lg/agrosavia/SIMULATION/tests/five-tools/domRandom-n50-MLM/n50/run44 
+>>>> Processing config file... 
+>>>> Loading libraries and setting globals...
+	>>>> Checking minor allele frecuency, MAF= 0 
+	>>>> Number of polymorphic markers: 400 
+ 
+	>>>> Creating chord diagrams for chromosome vs SNPs... 
+	>>>> Without filters 
+	>>>> Selecting common markers and samples names... 
+	>>>> Filtering by common markers and samples... 
+	>>>> Evaluating following trait:  TraitX 
+	>>>> N = 153 individuals with phenotypic and genotypic information 
+ 
+	>>>> Converting phenotype to PLINK format (.ped, .map, .bim, .fam, .bed)... 
+>>>> Reading configuration file... 
+	>>>> Converting geno/pheno to GAPIT format (.vcf)... 
+	>>>> ----------------------------------------------------------- 
+	>>>> Summary of configuration parameters: 
+	>>>> ----------------------------------------------------------- 
+	>>>> ploidy             : 4 
+	>>>> genotypeFile       : genotype-simulated-SeqBreed-tetra.csv 
+	>>>> phenotypeFile      : phenotype-simulated-SeqBreed-tetra.csv 
+	>>>> genotypeFormat     : kmatrix 
+	>>>> mapFile            : genotype-simulated-SeqBreed-tetra-MAP.csv 
+	>>>> significanceLevel  : 0.05 
+	>>>> correctionMethod   : Bonferroni 
+	>>>> gwasModel          : naive 
+	>>>> nBest              : 10 
+	>>>> filtering          : FALSE 
+	>>>> MAF                : 0.01 
+	>>>> MIND               : 0.1 
+	>>>> GENO               : 0.1 
+	>>>> HWE                : 1e-50 
+	>>>> tools              : gwaspoly shesis gapit plink 
+	>>>> geneAction         : dominant 
+	>>>> paramsFilename     : sim.config 
+	>>>> traitType          : quantitative 
+	>>>> trait              : TraitX 
+	>>>> traitConfigList    : TraitX.config 
+	>>>> ----------------------------------------------------------- 
+>>>> Processing params file:  TraitX.config 
+>>>> Preprocessing genomic data (Filtering and Formating data)... 
+>>>> Converting genotype format in  kmatrix  to  GWASpoly format... 
+>>>> Moving files to output folders... 
+>>>> Preparing to execute in parallel the GWAS tools: 
+	>>>> Running  gwaspoly 
+	>>>> Running  shesis 
+	>>>> Running  gapit 
+	>>>> Running  plink 
+	>>>> Checking valid markers... 
+	>>>> Filtering no polymorohic markers (MAF > THRESHOLD) ... 
+>>>> MultiGWAS 1.0 
+>>>> Working dir:  /home/lg/agrosavia/SIMULATION/tests/five-tools/domRandom-n50-MLM/n50/run43 
+>>>> Processing config file... 
+>>>> Loading libraries and setting globals...
+>>>> Creating html rmarkdown report... 
+	>>>> Checking minor allele frecuency, MAF= 0 
+	>>>> Number of polymorphic markers: 400 
+ 
+	>>>> Without filters 
+	>>>> Selecting common markers and samples names... 
+	>>>> Filtering by common markers and samples... 
+>>>> Reading configuration file... 
+	>>>> Evaluating following trait:  TraitX 
+	>>>> N = 153 individuals with phenotypic and genotypic information 
+ 
+	>>>> Converting phenotype to PLINK format (.ped, .map, .bim, .fam, .bed)... 
+	>>>> ----------------------------------------------------------- 
+	>>>> Summary of configuration parameters: 
+	>>>> ----------------------------------------------------------- 
+	>>>> ploidy             : 4 
+	>>>> genotypeFile       : genotype-simulated-SeqBreed-tetra.csv 
+	>>>> phenotypeFile      : phenotype-simulated-SeqBreed-tetra.csv 
+	>>>> genotypeFormat     : kmatrix 
+	>>>> mapFile            : genotype-simulated-SeqBreed-tetra-MAP.csv 
+	>>>> significanceLevel  : 0.05 
+	>>>> correctionMethod   : Bonferroni 
+	>>>> gwasModel          : naive 
+	>>>> nBest              : 10 
+	>>>> filtering          : FALSE 
+	>>>> MAF                : 0.01 
+	>>>> MIND               : 0.1 
+	>>>> GENO               : 0.1 
+	>>>> HWE                : 1e-50 
+	>>>> tools              : gwaspoly shesis gapit plink 
+	>>>> geneAction         : dominant 
+	>>>> paramsFilename     : sim.config 
+	>>>> traitType          : quantitative 
+	>>>> trait              : TraitX 
+	>>>> traitConfigList    : TraitX.config 
+	>>>> ----------------------------------------------------------- 
+>>>> Processing params file:  TraitX.config 
+	>>>> Converting geno/pheno to GAPIT format (.vcf)... 
+>>>> Moving files to output folders... 
+>>>> Preprocessing genomic data (Filtering and Formating data)... 
+>>>> Converting genotype format in  kmatrix  to  GWASpoly format... 
+>>>> MultiGWAS 1.0 
+>>>> Working dir:  /home/lg/agrosavia/SIMULATION/tests/five-tools/domRandom-n50-MLM/n50/run45 
+>>>> Processing config file... 
+>>>> Loading libraries and setting globals...
+	>>>> Checking valid markers... 
+The upper bound of groups is too high. It was set to the size of kinship!
+The lower bound of groups is too high. It was set to the size of kinship!
+>>>> Preparing to execute in parallel the GWAS tools: 
+	>>>> Running  gwaspoly 
+	>>>> Running  shesis 
+	>>>> Running  gapit 
+	>>>> Running  plink 
+	>>>> Filtering no polymorohic markers (MAF > THRESHOLD) ... 
+The upper bound of groups is too high. It was set to the size of kinship!
+The lower bound of groups is too high. It was set to the size of kinship!
+	>>>> Checking minor allele frecuency, MAF= 0 
+	>>>> Number of polymorphic markers: 400 
+ 
+	>>>> Without filters 
+	>>>> Selecting common markers and samples names... 
+	>>>> Filtering by common markers and samples... 
+>>>> Reading configuration file... 
+	>>>> ----------------------------------------------------------- 
+	>>>> Summary of configuration parameters: 
+	>>>> ----------------------------------------------------------- 
+	>>>> ploidy             : 4 
+	>>>> genotypeFile       : genotype-simulated-SeqBreed-tetra.csv 
+	>>>> phenotypeFile      : phenotype-simulated-SeqBreed-tetra.csv 
+	>>>> genotypeFormat     : kmatrix 
+	>>>> mapFile            : genotype-simulated-SeqBreed-tetra-MAP.csv 
+	>>>> significanceLevel  : 0.05 
+	>>>> correctionMethod   : Bonferroni 
+	>>>> gwasModel          : naive 
+	>>>> nBest              : 10 
+	>>>> filtering          : FALSE 
+	>>>> MAF                : 0.01 
+	>>>> MIND               : 0.1 
+	>>>> GENO               : 0.1 
+	>>>> HWE                : 1e-50 
+	>>>> tools              : gwaspoly shesis gapit plink 
+	>>>> geneAction         : dominant 
+	>>>> paramsFilename     : sim.config 
+	>>>> traitType          : quantitative 
+	>>>> trait              : TraitX 
+	>>>> traitConfigList    : TraitX.config 
+	>>>> ----------------------------------------------------------- 
+>>>> Processing params file:  TraitX.config 
+	>>>> Evaluating following trait:  TraitX 
+	>>>> N = 153 individuals with phenotypic and genotypic information 
+ 
+	>>>> Converting phenotype to PLINK format (.ped, .map, .bim, .fam, .bed)... 
+>>>> Preprocessing genomic data (Filtering and Formating data)... 
+>>>> Converting genotype format in  kmatrix  to  GWASpoly format... 
+	>>>> Converting geno/pheno to GAPIT format (.vcf)... 
+The upper bound of groups is too high. It was set to the size of kinship!
+The lower bound of groups is too high. It was set to the size of kinship!
+	>>>> Checking valid markers... 
+>>>> Preparing to execute in parallel the GWAS tools: 
+	>>>> Running  gwaspoly 
+	>>>> Running  shesis 
+	>>>> Running  gapit 
+	>>>> Running  plink 
+	>>>> Filtering no polymorohic markers (MAF > THRESHOLD) ... 
+	>>>> Checking minor allele frecuency, MAF= 0 
+	>>>> Number of polymorphic markers: 400 
+ 
+	>>>> Without filters 
+	>>>> Selecting common markers and samples names... 
+	>>>> Filtering by common markers and samples... 
+	>>>> Evaluating following trait:  TraitX 
+	>>>> N = 153 individuals with phenotypic and genotypic information 
+ 
+	>>>> Converting phenotype to PLINK format (.ped, .map, .bim, .fam, .bed)... 
+The upper bound of groups is too high. It was set to the size of kinship!
+The lower bound of groups is too high. It was set to the size of kinship!
+	>>>> Converting geno/pheno to GAPIT format (.vcf)... 
+>>>> Preparing to execute in parallel the GWAS tools: 
+	>>>> Running  gwaspoly 
+	>>>> Running  shesis 
+	>>>> Running  gapit 
+	>>>> Running  plink 
+The upper bound of groups is too high. It was set to the size of kinship!
+The lower bound of groups is too high. It was set to the size of kinship!
+The upper bound of groups is too high. It was set to the size of kinship!
+The lower bound of groups is too high. It was set to the size of kinship!
+The upper bound of groups is too high. It was set to the size of kinship!
+The lower bound of groups is too high. It was set to the size of kinship!
+>>>> Selecting best gene action model for all tools... 
+	>>>> Best gene action for:  GWASpoly 
+	>>>> Best gene action for:  SHEsis 
+	>>>> Best gene action for:  GAPIT 
+	>>>> Best gene action for:  PLINK 
+>>>> Creating reports (Table, Venn diagrams, Manhattan&QQ plots, SNP profiles)... 
+>>>> Selecting best gene action model for all tools... 
+	>>>> Best gene action for:  GWASpoly 
+	>>>> Creating tables and plots with summary results for  naive  model... 
+	>>>> Writing input config parameters... 
+	>>>> Best gene action for:  SHEsis 
+	>>>> Best gene action for:  GAPIT 
+	>>>> Best gene action for:  PLINK 
+>>>> Creating reports (Table, Venn diagrams, Manhattan&QQ plots, SNP profiles)... 
+	>>>> Creating tables and plots with summary results for  naive  model... 
+	>>>> Writing input config parameters... 
+	>>>> Writing tables with best ranked and signficative SNPs...  
+	>>>> Writing Venn diagram for best and significative SNPs... 
+	>>>> Writing tables with best ranked and signficative SNPs...  
+	>>>> Writing Venn diagram for best and significative SNPs... 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+>>>> Selecting best gene action model for all tools... 
+	>>>> Best gene action for:  GWASpoly 
+	>>>> Best gene action for:  SHEsis 
+	>>>> Best gene action for:  GAPIT 
+	>>>> Best gene action for:  PLINK 
+>>>> Creating reports (Table, Venn diagrams, Manhattan&QQ plots, SNP profiles)... 
+	>>>> Creating tables and plots with summary results for  naive  model... 
+	>>>> Writing input config parameters... 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+	>>>> Writing tables with best ranked and signficative SNPs...  
+	>>>> Writing Venn diagram for best and significative SNPs... 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+	>>>> Writing Manhattan and QQ plots... 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+	>>>> Writing Manhattan and QQ plots... 
+	>>>> Creating heatmaps for best ranked SNPs... 
+	>>>> 	Heatmap for snp:  snp322 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+	>>>> Writing Manhattan and QQ plots... 
+	>>>> 	Heatmap for snp:  snp393 
+	>>>> Creating heatmaps for best ranked SNPs... 
+	>>>> 	Heatmap for snp:  snp148 
+	>>>> 	Heatmap for snp:  snp392 
+	>>>> 	Heatmap for snp:  snp277 
+	>>>> 	Heatmap for snp:  snp229 
+	>>>> 	Heatmap for snp:  snp198 
+	>>>> 	Heatmap for snp:  snp079 
+	>>>> Creating heatmaps for best ranked SNPs... 
+	>>>> 	Heatmap for snp:  snp337 
+	>>>> 	Heatmap for snp:  snp284 
+	>>>> 	Heatmap for snp:  snp184 
+	>>>> 	Heatmap for snp:  snp047 
+	>>>> 	Heatmap for snp:  snp308 
+	>>>> 	Heatmap for snp:  snp386 
+	>>>> 	Heatmap for snp:  snp230 
+	>>>> 	Heatmap for snp:  snp196 
+	>>>> 	Heatmap for snp:  snp315 
+	>>>> 	Heatmap for snp:  snp078 
+>>>> Selecting best gene action model for all tools... 
+	>>>> Best gene action for:  GWASpoly 
+	>>>> 	Heatmap for snp:  snp346 
+	>>>> Best gene action for:  SHEsis 
+	>>>> Best gene action for:  GAPIT 
+	>>>> Best gene action for:  PLINK 
+>>>> Creating reports (Table, Venn diagrams, Manhattan&QQ plots, SNP profiles)... 
+	>>>> Creating tables and plots with summary results for  naive  model... 
+	>>>> Writing input config parameters... 
+	>>>> 	Heatmap for snp:  snp305 
+	>>>> Creating chord diagrams for chromosome vs SNPs... 
+	>>>> Writing tables with best ranked and signficative SNPs...  
+	>>>> Writing Venn diagram for best and significative SNPs... 
+	>>>> Creating chord diagrams for chromosome vs SNPs... 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+	>>>> 	Heatmap for snp:  snp193 
+>>>> Selecting best gene action model for all tools... 
+	>>>> Best gene action for:  GWASpoly 
+	>>>> Best gene action for:  SHEsis 
+	>>>> Best gene action for:  GAPIT 
+	>>>> Best gene action for:  PLINK 
+>>>> Creating reports (Table, Venn diagrams, Manhattan&QQ plots, SNP profiles)... 
+	>>>> Creating tables and plots with summary results for  naive  model... 
+	>>>> Writing input config parameters... 
+	>>>> 	Heatmap for snp:  snp187 
+	>>>> Writing tables with best ranked and signficative SNPs...  
+	>>>> Writing Venn diagram for best and significative SNPs... 
+ Getting shared SNPs...
+>>>> Creating html rmarkdown report... 
+ >>> Getting shared SNPs...
+	>>>> 	Heatmap for snp:  snp388 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+	>>>> 	Heatmap for snp:  snp079 
+	>>>> Writing Manhattan and QQ plots... 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+	>>>> 	Heatmap for snp:  snp057 
+	>>>> Writing Manhattan and QQ plots... 
+	>>>> 	Heatmap for snp:  snp377 
+>>>> Moving files to output folders... 
+	>>>> Creating heatmaps for best ranked SNPs... 
+	>>>> 	Heatmap for snp:  snp211 
+	>>>> 	Heatmap for snp:  snp328 
+	>>>> Creating heatmaps for best ranked SNPs... 
+	>>>> Creating chord diagrams for chromosome vs SNPs... 
+	>>>> 	Heatmap for snp:  snp115 
+>>>> Creating html rmarkdown report... 
+	>>>> 	Heatmap for snp:  snp234 
+	>>>> 	Heatmap for snp:  snp324 
+	>>>> 	Heatmap for snp:  snp283 
+	>>>> 	Heatmap for snp:  snp315 
+	>>>> 	Heatmap for snp:  snp176 
+	>>>> 	Heatmap for snp:  snp015 
+	>>>> 	Heatmap for snp:  snp160 
+>>>> Selecting best gene action model for all tools... 
+	>>>> Best gene action for:  GWASpoly 
+	>>>> Best gene action for:  SHEsis 
+	>>>> Best gene action for:  GAPIT 
+	>>>> Best gene action for:  PLINK 
+>>>> Creating reports (Table, Venn diagrams, Manhattan&QQ plots, SNP profiles)... 
+	>>>> Creating tables and plots with summary results for  naive  model... 
+	>>>> Writing input config parameters... 
+	>>>> 	Heatmap for snp:  snp035 
+	>>>> Writing tables with best ranked and signficative SNPs...  
+	>>>> Writing Venn diagram for best and significative SNPs... 
+>>>> Creating html rmarkdown report... 
+	>>>> 	Heatmap for snp:  snp372 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+	>>>> 	Heatmap for snp:  snp371 
+	>>>> 	Heatmap for snp:  snp108 
+>>>> Moving files to output folders... 
+	>>>> 	Heatmap for snp:  snp168 
+	>>>> 	Heatmap for snp:  snp152 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+	>>>> Writing Manhattan and QQ plots... 
+	>>>> 	Heatmap for snp:  snp355 
+>>>> Moving files to output folders... 
+	>>>> Creating chord diagrams for chromosome vs SNPs... 
+	>>>> 	Heatmap for snp:  snp205 
+	>>>> Creating heatmaps for best ranked SNPs... 
+	>>>> 	Heatmap for snp:  snp127 
+>>>> Selecting best gene action model for all tools... 
+	>>>> Best gene action for:  GWASpoly 
+	>>>> Best gene action for:  SHEsis 
+	>>>> Best gene action for:  GAPIT 
+	>>>> Best gene action for:  PLINK 
+>>>> Creating reports (Table, Venn diagrams, Manhattan&QQ plots, SNP profiles)... 
+	>>>> Creating tables and plots with summary results for  naive  model... 
+	>>>> Writing input config parameters... 
+	>>>> 	Heatmap for snp:  snp335 
+	>>>> Writing tables with best ranked and signficative SNPs...  
+	>>>> Writing Venn diagram for best and significative SNPs... 
+	>>>> 	Heatmap for snp:  snp052 
+	>>>> 	Heatmap for snp:  snp012 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+	>>>> 	Heatmap for snp:  snp356 
+	>>>> 	Heatmap for snp:  snp287 
+>>>> Creating html rmarkdown report... 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+	>>>> Creating chord diagrams for chromosome vs SNPs... 
+	>>>> 	Heatmap for snp:  snp278 
+	>>>> Writing Manhattan and QQ plots... 
+	>>>> 	Heatmap for snp:  snp120 
+	>>>> 	Heatmap for snp:  snp024 
+	>>>> Creating heatmaps for best ranked SNPs... 
+>>>> Moving files to output folders... 
+	>>>> 	Heatmap for snp:  snp138 
+	>>>> 	Heatmap for snp:  snp085 
+	>>>> 	Heatmap for snp:  snp213 
+	>>>> 	Heatmap for snp:  snp093 
+>>>> Creating html rmarkdown report... 
+	>>>> 	Heatmap for snp:  snp022 
+	>>>> 	Heatmap for snp:  snp269 
+	>>>> 	Heatmap for snp:  snp075 
+	>>>> Creating chord diagrams for chromosome vs SNPs... 
+	>>>> 	Heatmap for snp:  snp055 
+	>>>> 	Heatmap for snp:  snp099 
+>>>> Moving files to output folders... 
+	>>>> 	Heatmap for snp:  snp057 
+	>>>> 	Heatmap for snp:  snp021 
+>>>> Creating html rmarkdown report... 
+	>>>> Creating chord diagrams for chromosome vs SNPs... 
+>>>> Moving files to output folders... 
+>>>> Creating html rmarkdown report... 
+>>>> MultiGWAS 1.0 
+>>>> Working dir:  /home/lg/agrosavia/SIMULATION/tests/five-tools/domRandom-n50-MLM/n50/run50 
+>>>> Processing config file... 
+>>>> Loading libraries and setting globals...
+>>>> Reading configuration file... 
+	>>>> ----------------------------------------------------------- 
+	>>>> Summary of configuration parameters: 
+	>>>> ----------------------------------------------------------- 
+	>>>> ploidy             : 4 
+	>>>> genotypeFile       : genotype-simulated-SeqBreed-tetra.csv 
+	>>>> phenotypeFile      : phenotype-simulated-SeqBreed-tetra.csv 
+	>>>> genotypeFormat     : kmatrix 
+	>>>> mapFile            : genotype-simulated-SeqBreed-tetra-MAP.csv 
+	>>>> significanceLevel  : 0.05 
+	>>>> correctionMethod   : Bonferroni 
+	>>>> gwasModel          : naive 
+	>>>> nBest              : 10 
+	>>>> filtering          : FALSE 
+	>>>> MAF                : 0.01 
+	>>>> MIND               : 0.1 
+	>>>> GENO               : 0.1 
+	>>>> HWE                : 1e-50 
+	>>>> tools              : gwaspoly shesis gapit plink 
+	>>>> geneAction         : dominant 
+	>>>> paramsFilename     : sim.config 
+	>>>> traitType          : quantitative 
+	>>>> trait              : TraitX 
+	>>>> traitConfigList    : TraitX.config 
+	>>>> ----------------------------------------------------------- 
+>>>> Moving files to output folders... 
+>>>> Processing params file:  TraitX.config 
+>>>> Preprocessing genomic data (Filtering and Formating data)... 
+>>>> Converting genotype format in  kmatrix  to  GWASpoly format... 
+	>>>> Checking valid markers... 
+	>>>> Filtering no polymorohic markers (MAF > THRESHOLD) ... 
+	>>>> Checking minor allele frecuency, MAF= 0 
+	>>>> Number of polymorphic markers: 400 
+ 
+	>>>> Without filters 
+	>>>> Selecting common markers and samples names... 
+	>>>> Filtering by common markers and samples... 
+	>>>> Evaluating following trait:  TraitX 
+	>>>> N = 153 individuals with phenotypic and genotypic information 
+ 
+	>>>> Converting phenotype to PLINK format (.ped, .map, .bim, .fam, .bed)... 
+	>>>> Converting geno/pheno to GAPIT format (.vcf)... 
+>>>> Preparing to execute in parallel the GWAS tools: 
+	>>>> Running  gwaspoly 
+	>>>> Running  shesis 
+	>>>> Running  gapit 
+	>>>> Running  plink 
+The upper bound of groups is too high. It was set to the size of kinship!
+The lower bound of groups is too high. It was set to the size of kinship!
+>>>> Selecting best gene action model for all tools... 
+	>>>> Best gene action for:  GWASpoly 
+	>>>> Best gene action for:  SHEsis 
+	>>>> Best gene action for:  GAPIT 
+	>>>> Best gene action for:  PLINK 
+>>>> Creating reports (Table, Venn diagrams, Manhattan&QQ plots, SNP profiles)... 
+	>>>> Creating tables and plots with summary results for  naive  model... 
+	>>>> Writing input config parameters... 
+	>>>> Writing tables with best ranked and signficative SNPs...  
+	>>>> Writing Venn diagram for best and significative SNPs... 
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+ Getting shared SNPs...
+ >>> Getting shared SNPs...
+	>>>> Writing Manhattan and QQ plots... 
+	>>>> Creating heatmaps for best ranked SNPs... 
+	>>>> 	Heatmap for snp:  snp101 
+	>>>> 	Heatmap for snp:  snp171 
+	>>>> 	Heatmap for snp:  snp122 
+	>>>> 	Heatmap for snp:  snp016 
+	>>>> 	Heatmap for snp:  snp242 
+	>>>> 	Heatmap for snp:  snp292 
+	>>>> 	Heatmap for snp:  snp143 
+	>>>> 	Heatmap for snp:  snp373 
+	>>>> 	Heatmap for snp:  snp395 
+	>>>> 	Heatmap for snp:  snp396 
+	>>>> 	Heatmap for snp:  snp154 
+	>>>> Creating chord diagrams for chromosome vs SNPs... 
+>>>> Creating html rmarkdown report... 
+>>>> Moving files to output folders... 
+[[1]]
+[1] 0
+
+[[2]]
+[1] 0
+
+[[3]]
+[1] 0
+
+[[4]]
+[1] 0
+
+[[5]]
+[1] 0
+
+[[6]]
+[1] 0
+
+[[7]]
+[1] 0
+
+[[8]]
+[1] 0
+
+[[9]]
+[1] 0
+
+[[10]]
+[1] 0
+
+[[11]]
+[1] 0
+
+[[12]]
+[1] 0
+
+[[13]]
+[1] 0
+
+[[14]]
+[1] 0
+
+[[15]]
+[1] 0
+
+[[16]]
+[1] 0
+
+[[17]]
+[1] 0
+
+[[18]]
+[1] 0
+
+[[19]]
+[1] 0
+
+[[20]]
+[1] 0
+
+[[21]]
+[1] 0
+
+[[22]]
+[1] 0
+
+[[23]]
+[1] 0
+
+[[24]]
+[1] 0
+
+[[25]]
+[1] 0
+
+[[26]]
+[1] 0
+
+[[27]]
+[1] 0
+
+[[28]]
+[1] 0
+
+[[29]]
+[1] 0
+
+[[30]]
+[1] 0
+
+[[31]]
+[1] 0
+
+[[32]]
+[1] 0
+
+[[33]]
+[1] 0
+
+[[34]]
+[1] 0
+
+[[35]]
+[1] 0
+
+[[36]]
+[1] 0
+
+[[37]]
+[1] 0
+
+[[38]]
+[1] 0
+
+[[39]]
+[1] 0
+
+[[40]]
+[1] 0
+
+[[41]]
+[1] 0
+
+[[42]]
+[1] 0
+
+[[43]]
+[1] 0
+
+[[44]]
+[1] 0
+
+[[45]]
+[1] 0
+
+[[46]]
+[1] 0
+
+[[47]]
+[1] 0
+
+[[48]]
+[1] 0
+
+[[49]]
+[1] 0
+
+[[50]]
+[1] 0
+
+>>> Creating statistic table: out-statistics-SHARED-table.csv
+>>> Plotting statistics for Significant_SNPs
+>>> Plotting statistics for Top_SNPs
+Opening htmls...
+libGL error: No matching fbConfigs or visuals found
+libGL error: failed to load driver: radeonsi
+mesa: for the -simplifycfg-sink-common option: may only occur zero or one times!
+libGL error: No matching fbConfigs or visuals found
+libGL error: failed to load driver: radeonsi
+libGL error: No matching fbConfigs or visuals found
+libGL error: failed to load driver: swrast
+[913:913:0202/093414.566672:ERROR:angle_platform_impl.cc(43)] Display.cpp:805 (initialize): ANGLE Display::initialize error 12289: Could not create a backing OpenGL context.
+[913:913:0202/093414.566843:ERROR:gl_surface_egl.cc(773)] EGL Driver message (Critical) eglInitialize: Could not create a backing OpenGL context.
+[913:913:0202/093414.566889:ERROR:gl_surface_egl.cc(1322)] eglInitialize OpenGL failed with error EGL_NOT_INITIALIZED, trying next display type
+[913:913:0202/093414.567702:ERROR:angle_platform_impl.cc(43)] Display.cpp:805 (initialize): ANGLE Display::initialize error 12289: Could not create a backing OpenGL context.
+[913:913:0202/093414.567842:ERROR:gl_surface_egl.cc(773)] EGL Driver message (Critical) eglInitialize: Could not create a backing OpenGL context.
+[913:913:0202/093414.567911:ERROR:gl_surface_egl.cc(1322)] eglInitialize OpenGLES failed with error EGL_NOT_INITIALIZED
+[913:913:0202/093414.567977:ERROR:gl_initializer_linux_x11.cc(160)] GLSurfaceEGL::InitializeOneOff failed.
+[913:913:0202/093414.570827:ERROR:viz_main_impl.cc(150)] Exiting GPU process due to errors during initialization
+Fontconfig error: Cannot load default config file: No such file: (null)
+
+(chromium-browser:879): IBUS-WARNING **: 09:34:53.367: Unable to connect to ibus: Could not connect: Connection refused

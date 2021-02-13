@@ -1,0 +1,11 @@
+sudo python3 -m pip install scipy
+sudo python3 -m pip install numpy
+sudo python3 -m pip install pandas
+sudo python3 -m pip install os
+sudo python3 -m pip install sys
+sudo python3 -m pip install seaborn
+sudo python3 -m pip install gzip
+sudo python3 -m pip install pickle
+sudo python3 -m pip install matplotlib
+sudo python3 -m pip install scilearn
+sudo python3 -m pip install statsmodels
