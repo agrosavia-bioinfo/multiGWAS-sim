@@ -209,7 +209,6 @@ createStatisticsPlots <- function (modelType, outDir, NRUNS, nSNPs, configFile, 
 	}else {
 		message (">>> Creating statistic table: ", statsFile)
 
-
 		#message (outDir, ", ", NRUNS, ", ", nSNPs, ", ", configFile, ", ", SCORESFILE, ", ", 1:4)
 
 		stats       = mapply (function (...) getStatistics (...)$Table, outDir, NRUNS, nSNPs, configFile, SCORESFILE, 1:4, SIMPLIFY=F) 

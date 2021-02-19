@@ -1,9 +1,9 @@
 NRUNS: 50
 outDir: n50
+NCORES: 7
 
 H2: 0.9
 nSNPs: 10
-NCORES: 7
 
 modelType: domRandom
 fixedValue: 0.000001
