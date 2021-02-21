@@ -11,8 +11,6 @@ suppressMessages (library (ggplot2))
 suppressMessages (library (parallel))
 suppressMessages (library (cowplot))   # For ggdraw
 suppressMessages (library (yaml))
-suppressMessages (library (yaml))
-suppressMessages (library("RColorBrewer")) # For boxplots
 
 #source ("lglib06.R")
 NCORES = 1
@@ -106,17 +104,17 @@ getStatisticsSingleRun <- function (run, outDir, CONFIGFILE, SCORESFILE, typeOfS
 }
 
 #-----------------------------------------------------------------------
-# Get statistics for boxplots (min,lower,middle,upper,max)
-# Statistics for each tool (MG1,MG2,MG3,MG4, SHEsis, GAPIT, TASEL, PLINK)
-# MG1,MG2,MG3,MG4 corresponds to Shared1,...,Shared4
+# Create boxplot for each shared in multiGWAS added boxplots other tools
+# Calculate boxplot statistics from 
 #-----------------------------------------------------------------------
-getStatisticsBoxplots <- function (statsTable, rateName) {
-	message (">>> Getting stats for boxplots... " )
-	tools = levels (statsTable$TOOL)
+getStatsBoxplots <- function (statsTable, tools, type) {
+	message ("Getting stats for boxplots... " )
+	print (tools)
+	print (type)
 	#------ Get boxplot.stats for tool and shared -----
 	fStats <- function (tool, shared="Shared1") {
-		stats = filter (statsTable, TOOL==tool, SHARED==shared) %>% 
-					select (!!rateName) %>% pull(!!rateName) %>% boxplot.stats() %>% "[["(1) 
+		stats = filter (statsTable, Type==type,TOOL==tool, SHARED==shared) %>% 
+					select (TPR) %>% pull(TPR) %>% boxplot.stats() %>% "[["(1) 
 	}
 
 	statsDF = NULL
@@ -132,13 +130,13 @@ getStatisticsBoxplots <- function (statsTable, rateName) {
 			stats = list (fStats (tool))
 			names (stats) = tool
 			stats = as.data.frame (stats)
+			print (stats)
 			statsDF = if (is.null (statsDF)) stats else data.frame (statsDF, stats)
 		}
 	}
 	statsDF = t (statsDF)
 	statsDF = data.frame (TOOL=rownames (statsDF), statsDF)
 	colnames (statsDF) = c("TOOL","MIN","LOWER","MIDDLE","UPPER","MAX")
-	statsDF$TOOL = factor (statsDF$TOOL, levels = rownames (statsDF))
 	return (statsDF)
 }
 #--------------------------------------------------------------------
@@ -164,24 +162,39 @@ calculateTPTNRates <- function (causalSNPs, toolSNPs, scores, allSNPs) {
 # Create grouped boxplots comparing two types of SNPs
 # Create plots for true positive rate and true negative rate
 #-------------------------------------------------------------
-plotBySNPsShared <- function  (SNPsType, statsTable, H2) {
+plotBySNPsShared <- function  (modelType, SNPsType, statsTable, H2) {
 	message (">>> Plotting statistics for ", SNPsType)
 	rateNames = c("TPR", "TNR")
 
+	funBoxplot <- function (rateName) {
+		bx = boxplotsBySNPsShared (modelType, rateName, statsTable)
+		return (bx)
+	}
+
 	# Parallel version
-	bxs = mclapply (rateNames, boxplotsBySNPsShared, statsTable, mc.cores=NCORES)
+	bxs = mclapply (rateNames, funBoxplot, mc.cores=NCORES)
 	tpr = bxs [[1]]
 	tnr = bxs [[2]]
+	#fpr = bxs [[3]]
 
 	title = ggdraw () + draw_label (sprintf ("MultiGWAS evaluations for %s with heritability H2=%s", SNPsType, H2))
 	plot_grid (title, tpr, tnr, ncol=1, rel_heights=c(0.1,0.9,0.9,0.9))
 
 	outFile = sprintf ("out-statistics-ONEPLOT-%s-plot.pdf", SNPsType)
-	message (">>> Writing boxplots... ", outFile) 
 	ggsave (outFile, width=11, heigh=7)
 }
 
-boxplotsBySNPsShared <- function  (rateName, statsTable) {
+boxplotsBySNPsShared <- function  (modelType, rateName, statsTable) {
+	TOOLS  = levels (statsTable$TOOL)
+	NCHARS = nchar (TOOLS)
+	N      = length (TOOLS)
+	ls = list ()
+	for (i in 1:N) ls [TOOLS[i]]=NCHARS[i]
+	TOOLS = names (ls[order (-unlist (ls))])
+
+	NCOL       = 4
+	toolColors = rep (2:(length(TOOLS)+1), NCOL)
+
 	if (rateName=="TPR") {
 		rateTitle = "True Positive Rate (TPR)"
 		YLIM      = c(0,plot_YMax_TPR)
@@ -195,20 +208,16 @@ boxplotsBySNPsShared <- function  (rateName, statsTable) {
 		XTITLE    = NULL
 	} 
 
-	stats  = getStatisticsBoxplots (statsTable, rateName)
-	tools  = c("MG_1","MG_2","MG_3","MG_4","GWASpoly","SHEsis","GAPIT","TASSEL","PLINK")
-	stats$TOOL = factor (stats$TOOL, levels = tools)
+	statsTable$TOOL = factor (statsTable$TOOL, levels = TOOLS)
 
-	toolColors = c (brewer.pal (n=9,name="Reds")[5:8], rev (brewer.pal (n=11,name="Spectral"))[1:5])
-
-	print (stats$TOOL)
-	print (toolColors)
-
+	tools = levels (statsTable$TOOL)
+	stats  = getStatsBoxplots (statsTable, tools, modelType)
+	print (stats);quit()
 
 	gg = ggplot (stats, aes(x=TOOL,ymin=MIN,lower=LOWER,middle=MIDDLE,upper=UPPER,ymax=MAX))+
-  			geom_boxplot (stat="identity", show.legend=F, alpha=0.6, fill=toolColors) + 
-			ylab (rateTitle) + 
+  			geom_boxplot (stat="identity") + ylab (rateTitle)+ 
 			theme(axis.text.x = XAXIS, axis.title.x = XTITLE )
+
 	#gg = ggplot(statsTable, aes_string (x="TOOL", y=rateName, fill="SHARED")) + 
 	#facet_wrap (~SHARED, ncol=NCOL) + ylab (rateTitle)+ 
 	#geom_boxplot (show.legend=F, alpha=0.6, fill=toolColors) + ylim (YLIM) +
@@ -219,7 +228,7 @@ boxplotsBySNPsShared <- function  (rateName, statsTable) {
 #-------------------------------------------------------------
 # Create statistics table and create two plots for significant and top SNPs
 #-------------------------------------------------------------
-createStatisticsPlots <- function (outDir, NRUNS, nSNPs, configFile, H2) {
+createStatisticsPlots <- function (modelType, outDir, NRUNS, nSNPs, configFile, H2) {
 	SCORESFILE = "out-multiGWAS-scoresTable-best.scores"
 	# Plot Y-limits for best visualization (0..1)
 	YLIM_MAX_TPR <<- 0.7
@@ -245,10 +254,10 @@ createStatisticsPlots <- function (outDir, NRUNS, nSNPs, configFile, H2) {
 	write.csv (statsTable, statsFile, quote=F, row.names=F)
 
 	significantTable = filter (statsTable, Type=="Significant_SNPs")
-	plotBySNPsShared ("Significant_SNPs", significantTable, H2)
+	plotBySNPsShared (modelType, "Significant_SNPs", significantTable, H2)
 
 	topTable = filter (statsTable, Type=="Top_SNPs")
-	plotBySNPsShared ("Top_SNPs", topTable, H2)
+	plotBySNPsShared (modelType, "Top_SNPs", topTable, H2)
 }
 
 #----------------------------------------------------------
@@ -293,7 +302,7 @@ main <- function () {
 	nSNPs      = params$nSNPs 
 
 
-	createStatisticsPlots (outDir, NRUNS, nSNPs, configFile, 0.9)
+	createStatisticsPlots (modelType, outDir, NRUNS, nSNPs, configFile, 0.9)
 }
 
 #-------------------------------------------------------------

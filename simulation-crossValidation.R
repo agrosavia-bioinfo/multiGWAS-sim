@@ -35,7 +35,7 @@ main <- function () {
 	#runSimulations (NRUNS, NCORES, paramsFile, outDir)
 	#runMultiGWAS (NRUNS, NCORES, configFile, outDir)
 	#setMarkerNamesToQTNs (NRUNS, configFile, GENOFILE, QTNSFILE, outDir) 
-	createPlots (NRUNS, nSNPs, modelType, outDir, H2, configFile)
+	createPlots (NRUNS, nSNPs, outDir, H2, configFile)
 	#openHTMLsMultiGWAS (NRUNS, configFile, outDir)
 }
 
@@ -119,9 +119,9 @@ openHTMLsMultiGWAS <- function (NRUNS, CONFIGFILE, outDir) {
 #
 #-------------------------------------------------------------
 #-------------------------------------------------------------
-createPlots <- function (NRUNS, nSNPs, modelType, outDir, H2, configFile) {
+createPlots <- function (NRUNS, nSNPs, outDir, H2, configFile) {
 	source ("simulation-stats-plots.R")
-	createStatisticsPlots (modelType, outDir, NRUNS, nSNPs, configFile, H2 )
+	createStatisticsPlots (outDir, NRUNS, nSNPs, configFile, H2 )
 }
 
 #----------------------------------------------------------
