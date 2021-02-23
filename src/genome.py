@@ -685,7 +685,7 @@ class QTNs:
         - vd(float array nqtn x ntrait): dom variance per qtn per trait
         - ploidy
     """
-    def __init__(self, h2, genome, qtnFile=None, se=None, nqtn=0, name=None, fixModel=None, fixValue=None):
+    def __init__(self, h2, genome, qtnFile=None, se=None, nqtn=0, name=None, geneActionModel=None, fixValue=None):
         self.name = name
         self.h2 = h2
         self.ipos = []
@@ -762,21 +762,21 @@ class QTNs:
             if self.nqtn == 0: sys.exit('STOP: nqtn must be specified')
 
 
-            # Added fixModel by LG
+            # Added geneActionModel by LG
             # Assign random/fixed additive/dominant effects
             add = 0 * np.random.permutation(np.repeat([1],nqtn))[:nqtn]
             dom = 0 * np.random.permutation(np.repeat([1],nqtn))[:nqtn]
-            if fixModel == "additive":
+            if geneActionModel == "additive":
                 add = fixValue * np.random.permutation(np.repeat([1],nqtn))[:nqtn]
                 dom = 0 * np.random.permutation(np.repeat([1],nqtn))[:nqtn]
-            elif fixModel == "dominant":
+            elif geneActionModel == "dominant":
                 add = 0 * np.random.permutation(np.repeat([1],nqtn))[:nqtn]
                 dom = fixValue * np.random.permutation(np.repeat([1],nqtn))[:nqtn]
-            elif fixModel == "addRandom":
+            elif geneActionModel == "addRandom":
                 add = np.random.gamma(shape=0.2, scale=5, size=nqtn)
                 add = add * np.random.permutation(np.repeat([1,-1],nqtn))[:nqtn]
                 dom = np.repeat(0,nqtn)
-            elif fixModel == "domRandom":
+            elif geneActionModel == "domRandom":
                 dom = np.random.gamma(shape=0.2, scale=5, size=nqtn)
                 dom = dom * np.random.permutation(np.repeat([1,-1],nqtn))[:nqtn]
                 add = np.repeat(0,nqtn)
@@ -817,7 +817,7 @@ class QTNs:
             va = np.array([ind.g_add[itrait] for ind in inds]).var()
             self.se[itrait] = np.sqrt(va * (1./self.h2[itrait] - 1.))
 
-    def get_var(self, genome, gfounders, fixModel=None, fixValue=None):
+    def get_var(self, genome, gfounders, geneActionModel=None, fixValue=None):
         """ computes observed va & vd per locus """
         va = np.array([])
         vd = np.array([])
@@ -835,17 +835,17 @@ class QTNs:
                     va = np.append(va , 2*f*(1.-f) * alpha**2)
                     vd = np.append(vd, (2*f*(1-f)*d)**2)
 
-        if (fixModel == "additive"):            
+        if (geneActionModel == "additive"):            
             print (">>> Using fixed values for additive variances")
             va = np.array (np.repeat (fixValue, self.nqtn))
             vd = np.array (np.repeat (0, self.nqtn))
-        elif (fixModel== "dominant"):
+        elif (geneActionModel== "dominant"):
             print (">>> Using fixed values for dominant variances")
             va = np.array (np.repeat (0, self.nqtn))
             vd = np.array (np.repeat (fixValue, self.nqtn))
-        elif (fixModel== "addRandom"):
+        elif (geneActionModel== "addRandom"):
             vd = np.array (np.repeat (0, self.nqtn))
-        elif (fixModel== "domRandom"):
+        elif (geneActionModel== "domRandom"):
             va = np.array (np.repeat (0, self.nqtn))
 
         self.va = va.reshape(self.nqtn, self.ntrait)

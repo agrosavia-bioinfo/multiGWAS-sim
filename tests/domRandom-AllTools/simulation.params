@@ -1,0 +1,7 @@
+H2: 0.9
+NRUNS: 50
+nSNPs: 10
+
+modelType: domRandom
+configFile: multiGWAS.config
+

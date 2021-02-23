@@ -15,12 +15,88 @@ suppressMessages (library (yaml))
 suppressMessages (library("RColorBrewer")) # For boxplots
 
 #source ("lglib06.R")
-NCORES = 1
-TOOLS  = c ("GWASpoly", "SHEsis", "GAPIT", "TASSEL", "PLINK")
+NCORES     = detectCores()
+TOOLS      = c ("GWASpoly", "SHEsis", "GAPIT", "TASSEL")
+SCORESFILE = "out-multiGWAS-scoresTable-best.scores"
 #TOOLS  = c ("GAPIT", "PLINK", "TASSEL")
 #TOOLS  = c ("GWASpoly", "GAPIT")
 
+TOOLS           = c ("GWASpoly", "SHEsis", "GAPIT", "TASSEL") # Tool names
+MULTIGWAS_NAMES = c ("MultiGWAS__by_1_Tool", "MultiGWAS__by_2_tools", "MultiGWAS__by_3_tools", "MultiGWAS__by_4_tools")           # MultiGWAS names for shared sets
+MULTIGWAS_TOOLS = c (MULTIGWAS_NAMES, TOOLS)
+#TOOL_COLORS     = c (brewer.pal (n=9,name="Reds")[5:8], 3:6)
+TOOL_COLORS     = c (heat.colors (16)[1:4], 3:6)
 options (width=300)
+
+#-------------------------------------------------------------
+# Create statistics table and create two plots for significant and top SNPs
+#-------------------------------------------------------------
+createStatisticsPlots <- function (outDir, NRUNS, nSNPs, configFile, H2) {
+	statsFile   = sprintf ("out-statistics-SHARED-table.csv")
+	if (file.exists (statsFile)) {
+		message (">>> Loading statistic table: ", statsFile)
+		statsTable = read.csv (statsFile)
+	}else {
+		message (">>> Creating statistic table: ", statsFile)
+		statsTable = NULL
+		# Get statistics for "detected" (top SNPs) and significant SNPs 
+		for (nShared in 1:4) {
+			runsDirs     = list.files (outDir)
+			statsAllRuns = mclapply (runsDirs, getStatisticsSingleRun, 
+									 outDir, configFile, "detected", nSNPs, nShared, mc.cores=NCORES) 
+			statsDetected = do.call (rbind.data.frame, statsAllRuns)
+
+			statsAllRuns = mclapply (runsDirs, getStatisticsSingleRun, 
+									 outDir, configFile, "significant", nSNPs, nShared, mc.cores=NCORES) 
+			statsSignificant = do.call (rbind.data.frame, statsAllRuns)
+
+			# Create grouped table
+			detectedTable    = data.frame (Type="Top_SNPs", statsDetected)
+			significantTable = data.frame (Type="Significant_SNPs", statsSignificant)
+			tables           = rbind (detectedTable, significantTable)
+			statsTable       = if (is.null (statsTable)) tables else data.frame (tables, SHARED=paste0("Shared",x))
+		}
+	}
+	# Create table of statistics
+	plotBySNPsShared ("Significant_SNPs", filter (statsTable, Type=="Significant_SNPs"), H2)
+	plotBySNPsShared ("Top_SNPs", filter (statsTable, Type=="Top_SNPs"),H2)
+}
+
+#--------------------------------------------------------------------
+# Create statistics from simulations runnigs 
+#--------------------------------------------------------------------
+getStatisticsSingleRun <- function (run, outDir, CONFIGFILE, typeOfSNPs, nSNPs, nShared) {
+	dirRun  = paste0 (outDir, "/", run)
+	statsTable = NULL
+	#message (rep (">", 60))
+	dirGwas     = strsplit (CONFIGFILE, "[.]")[[1]][1]
+	fileScores  = sprintf ("%s/out-%s/TraitX/report/%s", dirRun, dirGwas, SCORESFILE)
+
+	# Get marker names of QTNs
+	causalSNPs  = as.character (read.csv (paste0 (dirRun,"/qtns-markers.csv")) [,"Marker"])
+	allSNPs     = as.character (read.csv (paste0 (dirRun,"/genotype-simulated-SeqBreed-tetra-MAP.csv")) [,"Marker"])
+
+	# Get results from scores table
+	scores      = read.table (fileScores, header=T)
+	scores      = filter (scores, TOOL%in%TOOLS)
+	
+	if (typeOfSNPs=="significant") 
+		scores  = scores [scores$SIGNIFICANCE==TRUE, ]
+
+	# Add MultiGWAS to the set of tools
+	#toolList   = c ("MultiGWAS", levels (scores$TOOL))
+	#toolList   = c ("MultiGWAS", "GWASpoly", "SHEsis", "PLINK", "TASSEL")
+	toolList   = c ("MultiGWAS", TOOLS)
+
+	for (tool in toolList) {
+		toolSNPs   = getBestSNPsTool (scores, nSNPs, tool, dirRun, nShared)
+		stats      = calculateTPTNRates (causalSNPs, toolSNPs, scores, allSNPs)
+		statsRow   = data.frame (RUN=dirRun, TOOL=tool, stats)
+		statsTable = if (is.null (statsTable)) statsRow else rbind (statsTable, statsRow)
+	}
+	return (statsTable)
+}
+
 #--------------------------------------------------------------------
 # Return the top N SNPs for a tool. For MultiGWAS returns the top 
 # N SNPs among all tools 
@@ -47,64 +123,6 @@ getBestSNPsTool <- function (scores, nSNPs, tool, dirRun, nShared=1) {
 	return (as.character (toolSNPs$SNP))
 }
 
-#--------------------------------------------------------------------
-# Create from simulations runs the statistics and plots for model evaluation
-#--------------------------------------------------------------------
-getStatistics <- function (outDir, NRUNS, nSNPs, CONFIGFILE, SCORESFILE, nShared) {
-	outName = "out-statistics-TopSignificant"
-	# Get statistics for "detected" (top SNPs) and significant SNPs 
-	runsDirs = list.files (outDir)
-	statsAllRuns = mclapply (runsDirs, getStatisticsSingleRun, outDir, CONFIGFILE, SCORESFILE, "detected", nSNPs, nShared, mc.cores=NCORES) 
-	statsDetected = do.call (rbind.data.frame, statsAllRuns)
-
-	#statsAllRuns = mclapply (1:NRUNS, getStatisticsSingleRun, outDir, CONFIGFILE, SCORESFILE, "significant", nSNPs, nShared, mc.cores=NCORES) 
-	statsAllRuns = mclapply (runsDirs, getStatisticsSingleRun, outDir, CONFIGFILE, SCORESFILE, "significant", nSNPs, nShared, mc.cores=NCORES) 
-	statsSignificant = do.call (rbind.data.frame, statsAllRuns)
-
-	# Create grouped table
-	detectedTable    = data.frame (Type="Top_SNPs", statsDetected)
-	significantTable = data.frame (Type="Significant_SNPs", statsSignificant)
-	groupedTable     = rbind (detectedTable, significantTable)
-	groupedFile      = sprintf ("%s-table-Shared%s.csv", outName, nShared)
-	#write.csv (groupedTable, groupedFile, row.names=F, quote=F)
-	return (list (File=groupedFile, Table=groupedTable))
-}
-
-getStatisticsSingleRun <- function (run, outDir, CONFIGFILE, SCORESFILE, typeOfSNPs, nSNPs, nShared) {
-	dirRun  = paste0 (outDir, "/", run)
-	statsTable = NULL
-	#message (rep (">", 60))
-	dirGwas     = strsplit (CONFIGFILE, "[.]")[[1]][1]
-	fileScores  = sprintf ("%s/out-%s/TraitX/report/%s", dirRun, dirGwas, SCORESFILE)
-
-	# Get marker names of QTNs
-	causalSNPs  = as.character (read.csv (paste0 (dirRun,"/qtns-markers.csv")) [,"Marker"])
-	allSNPs     = as.character (read.csv (paste0 (dirRun,"/genotype-simulated-SeqBreed-tetra-MAP.csv")) [,"Marker"])
-
-	# Get results from scores table
-	scores      = read.table (fileScores, header=T)
-	scores      = filter (scores, TOOL%in%TOOLS)
-	
-	if (typeOfSNPs=="significant") 
-		scores  = scores [scores$SIGNIFICANCE==TRUE, ]
-
-	# Add MultiGWAS to the set of tools
-	#toolList   = c ("MultiGWAS", levels (scores$TOOL))
-	#toolList   = c ("MultiGWAS", "GWASpoly", "SHEsis", "PLINK", "TASSEL")
-	toolList   = c ("MultiGWAS", TOOLS)
-
-	for (tool in toolList) {
-		toolSNPs   = getBestSNPsTool (scores, nSNPs, tool, dirRun, nShared)
-		#message ("Causal SNPs: ", paste0 (causalSNPs, " "))
-		#message ("Tool SNPs: ", paste0 (toolSNPs, " "))
-		stats      = calculateTPTNRates (causalSNPs, toolSNPs, scores, allSNPs)
-		statsRow   = data.frame (RUN=dirRun, TOOL=tool, stats)
-		statsTable = if (is.null (statsTable)) statsRow else rbind (statsTable, statsRow)
-	}
-
-	return (statsTable)
-}
-
 #-----------------------------------------------------------------------
 # Get statistics for boxplots (min,lower,middle,upper,max)
 # Statistics for each tool (MG1,MG2,MG3,MG4, SHEsis, GAPIT, TASEL, PLINK)
@@ -123,7 +141,8 @@ getStatisticsBoxplots <- function (statsTable, rateName) {
 	for (tool in tools) {
 		if (tool=="MultiGWAS") {
 			sharedLst     = c ("Shared1", "Shared2", "Shared3", "Shared4")
-			sharedNames   = c("MG_1", "MG_2", "MG_3", "MG_4")
+			sharedNames   = MULTIGWAS_NAMES
+			#sharedNames   = c("MultiGWAS_1_tool", "MultiGWAS_2_tools", "MultiGWAS_3_tools", "MultiGWAS_4_tools")
 			stats         = mcmapply (fStats, rep (tool,4), sharedLst)
 			colnames (stats) = sharedNames
 			statsDF = if (is.null (statsDF)) stats else data.frame (stats, statsDF)
@@ -178,7 +197,7 @@ plotBySNPsShared <- function  (SNPsType, statsTable, H2) {
 
 	outFile = sprintf ("out-statistics-ONEPLOT-%s-plot.pdf", SNPsType)
 	message (">>> Writing boxplots... ", outFile) 
-	ggsave (outFile, width=11, heigh=7)
+	ggsave (outFile, width=6, heigh=7)
 }
 
 boxplotsBySNPsShared <- function  (rateName, statsTable) {
@@ -190,23 +209,19 @@ boxplotsBySNPsShared <- function  (rateName, statsTable) {
 	}else if (rateName=="TNR") {
 		rateTitle = "True Negative Rate (TNR)"
 		YLIM      = c(plot_YMin_TNR,1) 
-		#XAXIS     = element_blank()
 		XAXIS     = element_text (angle=45, hjust=1)
 		XTITLE    = NULL
 	} 
 
 	stats  = getStatisticsBoxplots (statsTable, rateName)
-	tools  = c("MG_1","MG_2","MG_3","MG_4","GWASpoly","SHEsis","GAPIT","TASSEL","PLINK")
+	tools  = MULTIGWAS_TOOLS
+	stats  = filter (stats, TOOL %in% tools)
 	stats$TOOL = factor (stats$TOOL, levels = tools)
-
-	toolColors = c (brewer.pal (n=9,name="Reds")[5:8], rev (brewer.pal (n=11,name="Spectral"))[1:5])
-
-	print (stats$TOOL)
-	print (toolColors)
-
+	levels (stats$TOOL) = gsub ("__","\n", levels (stats$TOOL))
+	write.csv (stats, "out-boxplot-statistics-SHARED-table.csv")
 
 	gg = ggplot (stats, aes(x=TOOL,ymin=MIN,lower=LOWER,middle=MIDDLE,upper=UPPER,ymax=MAX))+
-  			geom_boxplot (stat="identity", show.legend=F, alpha=0.6, fill=toolColors) + 
+  			geom_boxplot (stat="identity", show.legend=F, alpha=0.6, fill=TOOL_COLORS) + 
 			ylab (rateTitle) + 
 			theme(axis.text.x = XAXIS, axis.title.x = XTITLE )
 	#gg = ggplot(statsTable, aes_string (x="TOOL", y=rateName, fill="SHARED")) + 
@@ -214,41 +229,6 @@ boxplotsBySNPsShared <- function  (rateName, statsTable) {
 	#geom_boxplot (show.legend=F, alpha=0.6, fill=toolColors) + ylim (YLIM) +
 	#theme(axis.text.x = XAXIS, axis.title.x = XTITLE )
 	return (gg)
-}
-
-#-------------------------------------------------------------
-# Create statistics table and create two plots for significant and top SNPs
-#-------------------------------------------------------------
-createStatisticsPlots <- function (outDir, NRUNS, nSNPs, configFile, H2) {
-	SCORESFILE = "out-multiGWAS-scoresTable-best.scores"
-	# Plot Y-limits for best visualization (0..1)
-	YLIM_MAX_TPR <<- 0.7
-	YLIM_MIN_TNR <<- 0.93
-
-	# Create table of statistics
-	statsFile   = sprintf ("out-statistics-SHARED-table.csv")
-	if (file.exists (statsFile)) {
-	#if (FALSE) {
-		message (">>> Loading statistic table: ", statsFile)
-		statsTable = read.csv (statsFile)
-	}else {
-		message (">>> Creating statistic table: ", statsFile)
-
-		#message (outDir, ", ", NRUNS, ", ", nSNPs, ", ", configFile, ", ", SCORESFILE, ", ", 1:4)
-
-		stats       = mapply (function (...) getStatistics (...)$Table, outDir, NRUNS, nSNPs, configFile, SCORESFILE, 1:4, SIMPLIFY=F) 
-		statsShared = lapply  (1:4, function (x) data.frame (stats[[x]], SHARED=paste0 ("Shared",x)))
-		statsTable  = Reduce (rbind, statsShared)
-	}
-
-	#statsType   = lapply  (1:4, function (x) {table = statsShared[[x]]; table [table$Type==SNPsType,]})
-	write.csv (statsTable, statsFile, quote=F, row.names=F)
-
-	significantTable = filter (statsTable, Type=="Significant_SNPs")
-	plotBySNPsShared ("Significant_SNPs", significantTable, H2)
-
-	topTable = filter (statsTable, Type=="Top_SNPs")
-	plotBySNPsShared ("Top_SNPs", topTable, H2)
 }
 
 #----------------------------------------------------------
@@ -298,4 +278,4 @@ main <- function () {
 
 #-------------------------------------------------------------
 #-------------------------------------------------------------
-main ()
+#main ()

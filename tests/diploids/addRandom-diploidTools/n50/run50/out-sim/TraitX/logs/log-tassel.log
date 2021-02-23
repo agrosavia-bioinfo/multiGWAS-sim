@@ -1,0 +1,104 @@
+/home/lg/agrosavia/GWAS-TOOL/multiGWAS-dev/tools/lib/slf4j-simple-1.7.10.jar:/home/lg/agrosavia/GWAS-TOOL/multiGWAS-dev/tools/lib/jhdf5-14.12.5.jar:/home/lg/agrosavia/GWAS-TOOL/multiGWAS-dev/tools/lib/colt-1.2.0.jar:/home/lg/agrosavia/GWAS-TOOL/multiGWAS-dev/tools/lib/fastutil-8.2.2.jar:/home/lg/agrosavia/GWAS-TOOL/multiGWAS-dev/tools/lib/jfreesvg-3.2.jar:/home/lg/agrosavia/GWAS-TOOL/multiGWAS-dev/tools/lib/biojava-alignment-4.0.0.jar:/home/lg/agrosavia/GWAS-TOOL/multiGWAS-dev/tools/lib/snappy-java-1.1.1.6.jar:/home/lg/agrosavia/GWAS-TOOL/multiGWAS-dev/tools/lib/guava-22.0.jar:/home/lg/agrosavia/GWAS-TOOL/multiGWAS-dev/tools/lib/biojava-phylo-4.0.0.jar:/home/lg/agrosavia/GWAS-TOOL/multiGWAS-dev/tools/lib/jcommon-1.0.23.jar:/home/lg/agrosavia/GWAS-TOOL/multiGWAS-dev/tools/lib/itextpdf-5.1.0.jar:/home/lg/agrosavia/GWAS-TOOL/multiGWAS-dev/tools/lib/commons-math3-3.4.1.jar:/home/lg/agrosavia/GWAS-TOOL/multiGWAS-dev/tools/lib/gs-core-1.3.jar:/home/lg/agrosavia/GWAS-TOOL/multiGWAS-dev/tools/lib/phg.jar:/home/lg/agrosavia/GWAS-TOOL/multiGWAS-dev/tools/lib/kotlinx-coroutines-core-1.3.0.jar:/home/lg/agrosavia/GWAS-TOOL/multiGWAS-dev/tools/lib/sqlite-jdbc-3.8.5-pre1.jar:/home/lg/agrosavia/GWAS-TOOL/multiGWAS-dev/tools/lib/ahocorasick-0.2.4.jar:/home/lg/agrosavia/GWAS-TOOL/multiGWAS-dev/tools/lib/forester-1.038.jar:/home/lg/agrosavia/GWAS-TOOL/multiGWAS-dev/tools/lib/javax.json-1.0.4.jar:/home/lg/agrosavia/GWAS-TOOL/multiGWAS-dev/tools/lib/log4j-1.2.13.jar:/home/lg/agrosavia/GWAS-TOOL/multiGWAS-dev/tools/lib/postgresql-9.4-1201.jdbc41.jar:/home/lg/agrosavia/GWAS-TOOL/multiGWAS-dev/tools/lib/json-simple-1.1.1.jar:/home/lg/agrosavia/GWAS-TOOL/multiGWAS-dev/tools/lib/scala-library-2.10.1.jar:/home/lg/agrosavia/GWAS-TOOL/multiGWAS-dev/tools/lib/kotlin-stdlib-1.3.50.jar:/home/lg/agrosavia/GWAS-TOOL/multiGWAS-dev/tools/lib/slf4j-api-1.7.10.jar:/home/lg/agrosavia/GWAS-TOOL/multiGWAS-dev/tools/lib/htsjdk-2.19.0.jar:/home/lg/agrosavia/GWAS-TOOL/multiGWAS-dev/tools/lib/jfreechart-1.0.19.jar:/home/lg/agrosavia/GWAS-TOOL/multiGWAS-dev/tools/lib/sTASSEL.jar:/home/lg/agrosavia/GWAS-TOOL/multiGWAS-dev/tools/lib/junit-4.10.jar:/home/lg/agrosavia/GWAS-TOOL/multiGWAS-dev/tools/lib/biojava-core-4.0.0.jar:/home/lg/agrosavia/GWAS-TOOL/multiGWAS-dev/tools/lib/ejml-0.23.jar:/home/lg/agrosavia/GWAS-TOOL/multiGWAS-dev/tools/lib/trove-3.0.3.jar:/home/lg/agrosavia/GWAS-TOOL/multiGWAS-dev/tools/lib/mail-1.4.jar:/home/lg/agrosavia/GWAS-TOOL/multiGWAS-dev/tools/lib/commons-codec-1.10.jar:/home/lg/agrosavia/GWAS-TOOL/multiGWAS-dev/tools/lib/gs-ui-1.3.jar:/home/lg/agrosavia/GWAS-TOOL/multiGWAS-dev/tools/sTASSEL.jar
+Memory Settings: -Xms512m -Xmx1536m
+Tassel Pipeline Arguments: -fork1 -vcf out/genotype-VALIDSNPs-MAF-COMMON.vcf -fork2 -r out/phenotype-COMMON-TASSEL.csv -combine3 -input1 -input2 -intersect -FixedEffectLMPlugin -appendAddDom -endPlugin -export out/tool-TASSEL-scores-naive-
+[main] INFO net.maizegenetics.tassel.TasselLogging - Tassel Version: 5.2.57  Date: October 10, 2019
+[main] INFO net.maizegenetics.tassel.TasselLogging - Max Available Memory Reported by JVM: 1365 MB
+[main] INFO net.maizegenetics.tassel.TasselLogging - Java Version: 1.8.0_251
+[main] INFO net.maizegenetics.tassel.TasselLogging - OS: Linux
+[main] INFO net.maizegenetics.tassel.TasselLogging - Number of Processors: 8
+[main] INFO net.maizegenetics.pipeline.TasselPipeline - Tassel Pipeline Arguments: [-fork1, -vcf, out/genotype-VALIDSNPs-MAF-COMMON.vcf, -fork2, -r, out/phenotype-COMMON-TASSEL.csv, -combine3, -input1, -input2, -intersect, -FixedEffectLMPlugin, -appendAddDom, -endPlugin, -export, out/tool-TASSEL-scores-naive-]
+[pool-1-thread-2] INFO net.maizegenetics.plugindef.AbstractPlugin - Starting net.maizegenetics.analysis.data.FileLoadPlugin: time: Feb 5, 2021 0:38:44
+[pool-1-thread-1] INFO net.maizegenetics.plugindef.AbstractPlugin - Starting net.maizegenetics.analysis.data.FileLoadPlugin: time: Feb 5, 2021 0:38:44
+[pool-1-thread-2] INFO net.maizegenetics.plugindef.AbstractPlugin - 
+FileLoadPlugin Parameters
+format: Phenotype
+sortPositions: false
+keepDepth: true
+
+[pool-1-thread-1] INFO net.maizegenetics.plugindef.AbstractPlugin - 
+FileLoadPlugin Parameters
+format: VCF
+sortPositions: false
+keepDepth: true
+
+[pool-1-thread-2] INFO net.maizegenetics.analysis.data.FileLoadPlugin - Start Loading File: out/phenotype-COMMON-TASSEL.csv time: Feb 5, 2021 0:38:45
+[pool-1-thread-1] INFO net.maizegenetics.analysis.data.FileLoadPlugin - Start Loading File: out/genotype-VALIDSNPs-MAF-COMMON.vcf time: Feb 5, 2021 0:38:45
+[pool-1-thread-2] INFO net.maizegenetics.analysis.data.FileLoadPlugin - Finished Loading File: out/phenotype-COMMON-TASSEL.csv time: Feb 5, 2021 0:38:45
+[pool-1-thread-2] INFO net.maizegenetics.plugindef.AbstractPlugin - Finished net.maizegenetics.analysis.data.FileLoadPlugin: time: Feb 5, 2021 0:38:45
+[pool-1-thread-2] INFO net.maizegenetics.pipeline.TasselPipeline - net.maizegenetics.analysis.data.FileLoadPlugin: time: Feb 5, 2021 0:38:45: progress: 100%
+[pool-1-thread-2] INFO net.maizegenetics.plugindef.AbstractPlugin - net.maizegenetics.analysis.data.FileLoadPlugin  Citation: Bradbury PJ, Zhang Z, Kroon DE, Casstevens TM, Ramdoss Y, Buckler ES. (2007) TASSEL: Software for association mapping of complex traits in diverse samples. Bioinformatics 23:2633-2635.
+[Thread-3] INFO net.maizegenetics.plugindef.AbstractPlugin - net.maizegenetics.analysis.data.CombineDataSetsPlugin  Citation: Bradbury PJ, Zhang Z, Kroon DE, Casstevens TM, Ramdoss Y, Buckler ES. (2007) TASSEL: Software for association mapping of complex traits in diverse samples. Bioinformatics 23:2633-2635.
+[pool-1-thread-1] INFO net.maizegenetics.pipeline.TasselPipeline - net.maizegenetics.analysis.data.FileLoadPlugin: time: Feb 5, 2021 0:38:45: progress: 100%
+BuilderFromVCF data timing 0.273761s 
+[pool-1-thread-1] INFO net.maizegenetics.analysis.data.FileLoadPlugin - Finished Loading File: out/genotype-VALIDSNPs-MAF-COMMON.vcf time: Feb 5, 2021 0:38:45
+Genotype Table Name: genotype-VALIDSNPs-MAF-COMMON
+Number of Taxa: 150
+Number of Sites: 400
+Sites x Taxa: 60000
+Chromosomes...
+1: start site: 0 (559640) last site: 46 (87463611) total: 47
+2: start site: 47 (7050714) last site: 80 (47326485) total: 34
+3: start site: 81 (1541622) last site: 121 (61870684) total: 41
+4: start site: 122 (745614) last site: 163 (72022392) total: 42
+5: start site: 164 (65301) last site: 191 (51998374) total: 28
+6: start site: 192 (410240) last site: 232 (58259275) total: 41
+7: start site: 233 (1002101) last site: 264 (54961836) total: 32
+8: start site: 265 (2903601) last site: 288 (55254403) total: 24
+9: start site: 289 (198982) last site: 324 (61466245) total: 36
+10: start site: 325 (139451) last site: 345 (59236087) total: 21
+11: start site: 346 (175478) last site: 375 (45059903) total: 30
+12: start site: 376 (279074) last site: 399 (64294488) total: 24
+
+[pool-1-thread-1] INFO net.maizegenetics.plugindef.AbstractPlugin - Finished net.maizegenetics.analysis.data.FileLoadPlugin: time: Feb 5, 2021 0:38:45
+[pool-1-thread-1] INFO net.maizegenetics.pipeline.TasselPipeline - net.maizegenetics.analysis.data.FileLoadPlugin: time: Feb 5, 2021 0:38:45: progress: 100%
+[Thread-6] INFO net.maizegenetics.pipeline.TasselPipeline - net.maizegenetics.analysis.data.IntersectionAlignmentPlugin: time: Feb 5, 2021 0:38:45: progress: 100%
+[Thread-6] INFO net.maizegenetics.plugindef.AbstractPlugin - Starting net.maizegenetics.analysis.association.FixedEffectLMPlugin: time: Feb 5, 2021 0:38:45
+[Thread-6] INFO net.maizegenetics.plugindef.AbstractPlugin - 
+FixedEffectLMPlugin Parameters
+phenoOnly: false
+saveToFile: false
+siteFile: null
+alleleFile: null
+maxP: 1.0
+permute: false
+nperm: 0
+genotypeComponent: Genotype
+minClassSize: 0
+biallelicOnly: false
+siteStatsOut: false
+siteStatFile: null
+appendAddDom: true
+
+[Thread-6] INFO net.maizegenetics.matrixalgebra.Matrix.DoubleMatrixFactory - TasselBlas library for system-specific BLAS/LAPACK not found. Using system-independent EJML for DoubleMatrix operations.
+[Thread-6] INFO net.maizegenetics.pipeline.TasselPipeline - net.maizegenetics.analysis.association.FixedEffectLMPlugin: time: Feb 5, 2021 0:38:45: progress: 1%
+[Thread-6] INFO net.maizegenetics.pipeline.TasselPipeline - net.maizegenetics.analysis.association.FixedEffectLMPlugin: time: Feb 5, 2021 0:38:45: progress: 10%
+[Thread-6] INFO net.maizegenetics.pipeline.TasselPipeline - net.maizegenetics.analysis.association.FixedEffectLMPlugin: time: Feb 5, 2021 0:38:45: progress: 20%
+[Thread-6] INFO net.maizegenetics.pipeline.TasselPipeline - net.maizegenetics.analysis.association.FixedEffectLMPlugin: time: Feb 5, 2021 0:38:45: progress: 30%
+[Thread-6] INFO net.maizegenetics.pipeline.TasselPipeline - net.maizegenetics.analysis.association.FixedEffectLMPlugin: time: Feb 5, 2021 0:38:45: progress: 40%
+[Thread-6] INFO net.maizegenetics.pipeline.TasselPipeline - net.maizegenetics.analysis.association.FixedEffectLMPlugin: time: Feb 5, 2021 0:38:45: progress: 50%
+[Thread-6] INFO net.maizegenetics.pipeline.TasselPipeline - net.maizegenetics.analysis.association.FixedEffectLMPlugin: time: Feb 5, 2021 0:38:45: progress: 60%
+[Thread-6] INFO net.maizegenetics.pipeline.TasselPipeline - net.maizegenetics.analysis.association.FixedEffectLMPlugin: time: Feb 5, 2021 0:38:45: progress: 70%
+[Thread-6] INFO net.maizegenetics.pipeline.TasselPipeline - net.maizegenetics.analysis.association.FixedEffectLMPlugin: time: Feb 5, 2021 0:38:45: progress: 80%
+[Thread-6] INFO net.maizegenetics.pipeline.TasselPipeline - net.maizegenetics.analysis.association.FixedEffectLMPlugin: time: Feb 5, 2021 0:38:45: progress: 90%
+[Thread-6] INFO net.maizegenetics.pipeline.TasselPipeline - net.maizegenetics.analysis.association.FixedEffectLMPlugin: time: Feb 5, 2021 0:38:45: progress: 100%
+[Thread-6] INFO net.maizegenetics.plugindef.AbstractPlugin - Finished net.maizegenetics.analysis.association.FixedEffectLMPlugin: time: Feb 5, 2021 0:38:45
+[Thread-6] INFO net.maizegenetics.plugindef.AbstractPlugin - Starting net.maizegenetics.analysis.data.ExportPlugin: time: Feb 5, 2021 0:38:45
+[Thread-6] INFO net.maizegenetics.plugindef.AbstractPlugin - 
+ExportPlugin Parameters
+saveAs: out/tool-TASSEL-scores-naive-1
+format: Table
+keepDepth: true
+includeTaxaAnnotations: true
+
+[Thread-6] INFO net.maizegenetics.analysis.data.ExportPlugin - performFunction: wrote dataset: GLM_Stats_genotype-VALIDSNPs-MAF-COMMON + phenotype-COMMON-TASSEL to file: /home/lg/agrosavia/GWAS-TOOL/multiGWAS-sim/tests/diploid-tools/addRandom/n50/run50/out-sim/TraitX/out/tool-TASSEL-scores-naive-1.txt
+[Thread-6] INFO net.maizegenetics.plugindef.AbstractPlugin - Finished net.maizegenetics.analysis.data.ExportPlugin: time: Feb 5, 2021 0:38:45
+[Thread-6] INFO net.maizegenetics.plugindef.AbstractPlugin - Starting net.maizegenetics.analysis.data.ExportPlugin: time: Feb 5, 2021 0:38:45
+[Thread-6] INFO net.maizegenetics.plugindef.AbstractPlugin - 
+ExportPlugin Parameters
+saveAs: out/tool-TASSEL-scores-naive-2
+format: Table
+keepDepth: true
+includeTaxaAnnotations: true
+
+[Thread-6] INFO net.maizegenetics.analysis.data.ExportPlugin - performFunction: wrote dataset: GLM_Genotypes_genotype-VALIDSNPs-MAF-COMMON + phenotype-COMMON-TASSEL to file: /home/lg/agrosavia/GWAS-TOOL/multiGWAS-sim/tests/diploid-tools/addRandom/n50/run50/out-sim/TraitX/out/tool-TASSEL-scores-naive-2.txt
+[Thread-6] INFO net.maizegenetics.plugindef.AbstractPlugin - Finished net.maizegenetics.analysis.data.ExportPlugin: time: Feb 5, 2021 0:38:45

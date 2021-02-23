@@ -3,9 +3,6 @@ library (parallel)
 library (dplyr)
 library (yaml)
 
-
-plot_YMax_TPR  = 1
-plot_YMin_TNR  = 0
 #-------------------------------------------------------------
 # Main
 #-------------------------------------------------------------
@@ -16,24 +13,20 @@ main <- function () {
 	params     = yaml.load_file (paramsFile) 
 
 	# Parameters
-	NCORES     = params$NCORES
 	NRUNS      = params$NRUNS
-	nSNPs      = params$nSNPs
-	outDir     = params$outDir
-	modelType  = params$modelType
+	outDir     = paste0 ("n",NRUNS)
+
 	H2         = params$H2
+	nSNPs      = params$nSNPs
+	modelType  = params$modelType
 	configFile = params$configFile
-
-	plot_YMax_TPR  <<- params$plot_YMax_TPR
-	plot_YMin_TNR  <<- params$plot_YMin_TNR
-
 
 	QTNSFILE   = "qtns.tsv"
 	SCORESFILE = "out-multiGWAS-scoresTable-best.scores"
 	GENOFILE   = "genotype-simulated-SeqBreed-tetra-GWASPOLY.csv"
 
-	#runSimulations (NRUNS, NCORES, paramsFile, outDir)
-	#runMultiGWAS (NRUNS, NCORES, configFile, outDir)
+	#runSimulations (NRUNS, paramsFile, outDir)
+	#runMultiGWAS (NRUNS, configFile, outDir)
 	#setMarkerNamesToQTNs (NRUNS, configFile, GENOFILE, QTNSFILE, outDir) 
 	createPlots (NRUNS, nSNPs, outDir, H2, configFile)
 	#openHTMLsMultiGWAS (NRUNS, configFile, outDir)
@@ -42,7 +35,7 @@ main <- function () {
 #-------------------------------------------------------------
 # Run seqBreed simulations
 #-------------------------------------------------------------
-runSimulations <- function (NRUNS, NCORES, configFile, outDir) {
+runSimulations <- function (NRUNS, configFile, outDir) {
 	message (">>> Creating dirs...")
 	createDir (outDir)
 	cmmListSims = c()
@@ -52,13 +45,14 @@ runSimulations <- function (NRUNS, NCORES, configFile, outDir) {
 		cmmListSims = c(cmmListSims, cmmSim)
 	}
 
+	NCORES = detectCores()-1
 	mclapply (cmmListSims, system, mc.cores=NCORES)
 }
 
 #-------------------------------------------------------------
 # Run MultiGWAS for each simulation
 #-------------------------------------------------------------
-runMultiGWAS <- function (NRUNS, NCORES, CONFIGFILE, outDir) {
+runMultiGWAS <- function (NRUNS, CONFIGFILE, outDir) {
 	message (">>> Running MultiGWAS using config file: ", CONFIGFILE, " ...")
 	cmmListSims = c()
 	for (i in 1:NRUNS) {
@@ -74,6 +68,7 @@ runMultiGWAS <- function (NRUNS, NCORES, CONFIGFILE, outDir) {
 		cmmListSims = c(cmmListSims, cmmSim)
 	}
 
+	NCORES = detectCores () 
 	mclapply (cmmListSims, system, wait=T, mc.cores=NCORES)
 }
 

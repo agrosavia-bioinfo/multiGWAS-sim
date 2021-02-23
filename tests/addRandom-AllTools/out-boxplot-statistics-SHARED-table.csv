@@ -1,0 +1,13 @@
+"","TOOL","MIN","LOWER","MIDDLE","UPPER","MAX"
+"MultiGWAS__by_1_Tool","MultiGWAS
+by_1_Tool",0.1,0.2,0.3,0.4,0.6
+"MultiGWAS__by_2_tools","MultiGWAS
+by_2_tools",0.1,0.2,0.3,0.3,0.4
+"MultiGWAS__by_3_tools","MultiGWAS
+by_3_tools",0.1,0.1,0.2,0.3,0.5
+"MultiGWAS__by_4_tools","MultiGWAS
+by_4_tools",0.1,0.1,0.2,0.3,0.5
+"GAPIT","GAPIT",0.1,0.1,0.2,0.3,0.5
+"GWASpoly","GWASpoly",0.1,0.2,0.3,0.4,0.5
+"SHEsis","SHEsis",0.1,0.2,0.25,0.3,0.4
+"TASSEL","TASSEL",0.1,0.1,0.2,0.3,0.5

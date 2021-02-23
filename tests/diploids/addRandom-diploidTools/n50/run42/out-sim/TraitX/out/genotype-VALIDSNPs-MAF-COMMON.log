@@ -1,0 +1,29 @@
+PLINK v1.90b6.12 64-bit (28 Oct 2019)
+Options in effect:
+  --allow-extra-chr
+  --file out/genotype-VALIDSNPs-MAF-COMMON
+  --out out/genotype-VALIDSNPs-MAF-COMMON
+  --recode vcf-fid
+
+Hostname: agro
+Working directory: /home/lg/agrosavia/GWAS-TOOL/multiGWAS-sim/tests/diploid-tools/addRandom/n50/run42/out-sim/TraitX
+Start time: Fri Feb  5 00:36:09 2021
+
+Random number seed: 1612503369
+14943 MB RAM detected; reserving 7471 MB for main workspace.
+Scanning .ped file... done.
+Performing single-pass .bed write (400 variants, 150 people).
+--file: out/genotype-VALIDSNPs-MAF-COMMON-temporary.bed +
+out/genotype-VALIDSNPs-MAF-COMMON-temporary.bim +
+out/genotype-VALIDSNPs-MAF-COMMON-temporary.fam written.
+400 variants loaded from .bim file.
+150 people (0 males, 0 females, 150 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to out/genotype-VALIDSNPs-MAF-COMMON.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 150 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+400 variants and 150 people pass filters and QC.
+Note: No phenotypes present.
+--recode vcf-fid to out/genotype-VALIDSNPs-MAF-COMMON.vcf ... done.
+
+End time: Fri Feb  5 00:36:09 2021

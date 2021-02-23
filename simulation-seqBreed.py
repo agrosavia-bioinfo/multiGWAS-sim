@@ -102,8 +102,6 @@ params      = yaml.safe_load (open (paramsFile))
 H2          = params ["H2"]
 nSNPs       = params ["nSNPs"]
 MODEL       = params ["modelType"]
-FIXVALUE    = params ["fixedValue"]
-FIXVARIANCE = params ["fixedVariance"]
 
 # input snp file in gen format must be in current dir
 genfile = os.getcwd() + '/potato-gen.tsv'
@@ -141,8 +139,8 @@ gfeatures = gg.Genome(snpFile=seqfile, ploidy=gbase.ploidy)
 #---------------------------------------------------------------
 #qtn = gg.QTNs(h2=[0.9], genome=gfeatures, qtnFile=qtnfile)
 #qtn.get_var(gfeatures,gbase)
-qtn = gg.QTNs(h2=[H2], genome=gfeatures, nqtn=nSNPs, fixModel=MODEL, fixValue=FIXVALUE)
-qtn.get_var(gfeatures,gbase, fixModel=MODEL, fixValue=FIXVARIANCE)
+qtn = gg.QTNs(h2=[H2], genome=gfeatures, nqtn=nSNPs, geneActionModel=MODEL)
+qtn.get_var(gfeatures,gbase, geneActionModel=MODEL)
 
 qtn.print(gfeatures, qtnFile=qtnfile)
 qtn.write (gfeatures, qtnFile=qtnfile.split(".")[0]+".csv")
