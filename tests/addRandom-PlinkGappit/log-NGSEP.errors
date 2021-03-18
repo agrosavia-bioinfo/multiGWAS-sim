@@ -1,0 +1,20 @@
+Mar 17, 2021 11:41:56 PM ngsep.vcf.VCFConverter logParameters
+INFO: Input file: multiGWAS.config
+Prefix for output files: multiGWAS
+Formats:
+ GWASPoly
+
+Exception in thread "main" java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at ngsep.NGSEPcore.main(NGSEPcore.java:66)
+Caused by: java.io.IOException: VCF file does not have line with sample ids
+	at ngsep.vcf.VCFFileHeader.loadSampleIds(VCFFileHeader.java:140)
+	at ngsep.vcf.VCFFileReader.init(VCFFileReader.java:139)
+	at ngsep.vcf.VCFFileReader.<init>(VCFFileReader.java:74)
+	at ngsep.vcf.VCFConverter.process(VCFConverter.java:384)
+	at ngsep.vcf.VCFConverter.run(VCFConverter.java:343)
+	at ngsep.vcf.VCFConverter.main(VCFConverter.java:330)
+	... 5 more

@@ -22,7 +22,7 @@ SCORESFILE = "out-multiGWAS-scoresTable-best.scores"
 #TOOLS  = c ("GWASpoly", "GAPIT")
 
 TOOLS           = c ("GWASpoly", "SHEsis", "GAPIT", "TASSEL") # Tool names
-MULTIGWAS_NAMES = c ("MultiGWAS__by_1_Tool", "MultiGWAS__by_2_tools", "MultiGWAS__by_3_tools", "MultiGWAS__by_4_tools")           # MultiGWAS names for shared sets
+MULTIGWAS_NAMES = c ("MultiGWAS_1", "MultiGWAS_2", "MultiGWAS_3", "MultiGWAS_4")           # MultiGWAS names for shared sets
 MULTIGWAS_TOOLS = c (MULTIGWAS_NAMES, TOOLS)
 #TOOL_COLORS     = c (brewer.pal (n=9,name="Reds")[5:8], 3:6)
 TOOL_COLORS     = c (heat.colors (16)[1:4], 3:6)
@@ -54,7 +54,7 @@ createStatisticsPlots <- function (outDir, NRUNS, nSNPs, configFile, H2) {
 			detectedTable    = data.frame (Type="Top_SNPs", statsDetected)
 			significantTable = data.frame (Type="Significant_SNPs", statsSignificant)
 			tables           = rbind (detectedTable, significantTable)
-			statsTable       = if (is.null (statsTable)) tables else data.frame (tables, SHARED=paste0("Shared",x))
+			statsTable       = if (is.null (statsTable)) tables else data.frame (tables, SHARED=paste0("Shared",nShared))
 		}
 	}
 	# Create table of statistics
@@ -193,7 +193,7 @@ plotBySNPsShared <- function  (SNPsType, statsTable, H2) {
 	tnr = bxs [[2]]
 
 	title = ggdraw () + draw_label (sprintf ("MultiGWAS evaluations for %s with heritability H2=%s", SNPsType, H2))
-	plot_grid (title, tpr, tnr, ncol=1, rel_heights=c(0.1,0.9,0.9,0.9))
+	plot_grid (tpr, tnr, ncol=1, rel_heights=c(0.9,0.9,0.9))
 
 	outFile = sprintf ("out-statistics-ONEPLOT-%s-plot.pdf", SNPsType)
 	message (">>> Writing boxplots... ", outFile) 
@@ -209,9 +209,11 @@ boxplotsBySNPsShared <- function  (rateName, statsTable) {
 	}else if (rateName=="TNR") {
 		rateTitle = "True Negative Rate (TNR)"
 		YLIM      = c(plot_YMin_TNR,1) 
-		XAXIS     = element_text (angle=45, hjust=1)
-		XTITLE    = NULL
+		XAXIS     = element_text (angle=45, hjust=1,size=12)
+		XTITLE    = element_text (size=14)
 	} 
+	YTITLE = element_text (size=14)
+	YAXIS = element_text (size=12)
 
 	stats  = getStatisticsBoxplots (statsTable, rateName)
 	tools  = MULTIGWAS_TOOLS
@@ -223,7 +225,7 @@ boxplotsBySNPsShared <- function  (rateName, statsTable) {
 	gg = ggplot (stats, aes(x=TOOL,ymin=MIN,lower=LOWER,middle=MIDDLE,upper=UPPER,ymax=MAX))+
   			geom_boxplot (stat="identity", show.legend=F, alpha=0.6, fill=TOOL_COLORS) + 
 			ylab (rateTitle) + 
-			theme(axis.text.x = XAXIS, axis.title.x = XTITLE )
+			theme(axis.text.x = XAXIS, axis.title.x = XTITLE, axis.text.y=YAXIS, axis.title.y=YTITLE)
 	#gg = ggplot(statsTable, aes_string (x="TOOL", y=rateName, fill="SHARED")) + 
 	#facet_wrap (~SHARED, ncol=NCOL) + ylab (rateTitle)+ 
 	#geom_boxplot (show.legend=F, alpha=0.6, fill=toolColors) + ylim (YLIM) +

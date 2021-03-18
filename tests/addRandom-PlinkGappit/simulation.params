@@ -1,0 +1,7 @@
+H2: 0.9
+NRUNS: 5
+nSNPs: 10
+
+modelType: addRandom
+configFile: multiGWAS.config
+
